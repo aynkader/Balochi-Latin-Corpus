@@ -3,7 +3,7 @@
 This repository contains a high-quality, verified linguistic dataset designed to facilitate the integration of the Balochi Latin script (**Balochi Latin Syáhag**) into machine translation platforms, localized neural networks, and open-source computational models[cite: 2, 3].
 
 ## 📊 Dataset Contents
-* **`dataset.csv` / `dataset.xlsx`**: A parallel corpus featuring **18,000 clean, bilingual sentence pairs** (English ⇄ Balochi Latin Script) mapped side-by-side for sequence-to-sequence model alignment[cite: 2, 3].
+* **`dataset.csv`**: A parallel corpus featuring **more than 18,000 clean, bilingual sentence pairs** (English ⇄ Balochi Latin Script) mapped side-by-side for sequence-to-sequence model alignment[cite: 2, 3].
 * **`grammar_guide.pdf`**: A formal orthographic reference manual detailing standard syntax, diacritic rules, and morphological structures[cite: 2, 3].
 
 ## 🛠️ Orthographic Rules & Constraints
