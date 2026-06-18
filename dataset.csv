@@ -256,6 +256,7 @@ Tom hid.,Thám thappet.
 Welcome.,Wasshatkay.
 Goodbye!,Wassh ent!
 Help me!,Maná komakk kani!
+He fell.,Á kapt.
 All rise.,Drost chest bay et.
 All rise.,Drost chest bet.
 Am I fat?,Man zandh án?
@@ -517,6 +518,8 @@ How cute!,Chincho shawk ent!
 How deep?,Chincho johl ent?
 How nice!,Chincho sharr ent!
 You fool!,Taw béagl!
+Run fast!,Téz betach!
+I'm fair.,Man hakk kanagá án.
 After you.,Pésará taw.
 Aim. Fire!,Neshánagá bandpayr kan!
 Am I dead?,Man mortagán?
@@ -1008,7 +1011,6 @@ I coughed.,Man kollet.
 I giggled.,Man kethi kethi kandet.
 I'll walk.,Man pádáná rawán.
 It poured.,Hawrá sakk gwart.
-It's a TV.,É thiwié.
 Lie still.,Bé sor o porá bwaps.
 Read this.,Eshiá bwán.
 That's it.,Bass hamesh ent.
@@ -1026,6 +1028,10 @@ I'll come.,Man káyán.
 I'm sober.,Man pa hósh án.
 I am sick.,Man nádráh án.
 Don't cry.,Magre.
+Nice shot!,Zabardastén shuthé!
+I'm a spy.,Man jásusé án.
+It's fair.,É ensáp ent.
+Sign here.,Edá daznám kan.
 Aim higher.,Bosterén maksadé bedár.
 All aboard!,Drost sawár bay et!
 All aboard!,Drost sawár bet!
@@ -1802,6 +1808,12 @@ War is bad.,Jang háráb ent.
 Stop lying!,Dróg maband!
 How stupid!,Choshén ahmak!
 Go to hell!,Boraw jahndam bi!
+It is 2026.,É 2026 ent.
+It is over.,É halás ent.
+He is fast.,Á téz ent.
+Don't jump.,Dawr makan.
+Go team go!,Boraw thím boraw!
+He's a spy.,Á jásusé.
 All is well.,Drostén kár sharr ant.
 Am I stupid?,Man norré án?
 Am I stupid?,Man ahmaké án.
@@ -3132,6 +3144,15 @@ Stay inside.,Tahá bejallet.
 Don't swear!,Sawgend mawar!
 Don't curse!,Nálat makan!
 How foolish!,Choshén násarpad!
+What a team!,Chónén thímé!
+She is fast.,Á téz ent.
+We will win.,Má katthén.
+You can win.,Taw katthet kanay.
+Keep trying.,Kóshest kanán kan.
+Is it legal?,É kánuni ent?
+I'm the law.,Man kánun án.
+Tom is fair.,Thám hakk ent.
+You're fair.,Taw hakk ay.
 Abandon ship!,Gorábá yalah kan!
 Abandon ship!,Gorábá rambén!
 Abandon ship.,Gorábá yalah kan.
@@ -3244,7 +3265,6 @@ Did Tom vote?,Thámá óth dát?
 Did you call?,Taw pawn kot?
 Did you help?,Taw madat kot?
 Did you sign?,Taw daznám kot?
-Did you sign?,Taw daznám jat?
 Did you sing?,Taw sawt jat?
 Did you vote?,Taw óth dát?
 Do I look OK?,Man gendagá sharr án?
@@ -3304,7 +3324,7 @@ Give me time.,Maná wahd beday.
 Go around it.,Eshiá mán tarr.
 "Go away, Tom.","Thagal, Thám."
 Go there now.,Ódá anni boraw.
-Go to school.,eskulá boraw.
+Go to school.,Eskólá boraw.
 Good evening.,Bégáh wassh bát.
 Good for you.,Morád bát tará.
 Good morning.,Sabáh wassh bát.
@@ -4005,7 +4025,7 @@ Put it there.,Ódá éry kan.
 Put these on.,Eshán gwará kan.
 Quit whining.,Nálagá band kan.
 Say it again.,Padá begoshy.
-School's out.,eskul band ent.
+School's out.,Eskól band ent.
 See you then.,Godhá dochár kapén.
 Set Tom free.,Thámá ázát kan.
 Shame on you!,Sharm bekan!
@@ -4851,6 +4871,20 @@ You evil man!,Taw sherrén mard!
 You annoy me!,Taw maná konnat kanay!
 I hate liars!,Maná drógbandán gón naprat ent!
 Curse on you!,Tará nálat bát!
+This is 2026.,É 2026 ent.
+We are ready.,Má jádhi én.
+He is strong.,Á zreng ent.
+Is it a goal?,É gólé?
+He kicked it.,Áiá é shuth kot.
+The team won!,Thímá katthet!
+We succeeded!,Má sóbmand bitén.
+This is gold.,É telah ent.
+Play with us.,Gón má layb kan.
+He has proof.,Áiá sabut hast.
+Are you fair?,Taw hakk ay?
+This is just.,É ensáp ent.
+I'm shooting.,Man tir janagá án.
+He confessed.,Thámá mannet.
 A car hit Tom.,Kárgádhiéá Thám jat.
 A car hit Tom.,Gádhiéá Thám jat.
 A car went by.,Gádhié gwast.
@@ -5355,8 +5389,8 @@ I like onions.,Maná pimmáz wassh bit.
 I like reggae.,Maná regi dóst bit.
 I like reggae.,Maná regi wassh bit.
 I like salmon.,Maná saman wassh bit.
-I like school.,Maná eskul dóst bit.
-I like school.,Maná eskul wassh bit.
+I like school.,Maná eskól dóst bit.
+I like school.,Maná eskól wassh bit.
 I like skiing.,Maná eski dóst bit.
 I like skiing.,Maná eski wassh bit.
 I like spoons.,Maná chamchi dóst bit.
@@ -5636,7 +5670,7 @@ I'm an addict.,Man neshahié án.
 I'm an artist.,Man ezmkáré án.
 I'm an orphan.,Man chórahé án.
 I'm angry now.,Man ni zahrán.
-I'm at school.,Man eskulá án.
+I'm at school.,Man eskólá án.
 I'm attentive.,Man delgóshán.
 I'm awake now.,Ni man ágahán.
 I'm back home.,Man padá lógá atkagán.
@@ -5673,7 +5707,7 @@ I'm in danger.,Man hataray tahá án.
 I'm in denial.,Man enkárig án.
 I'm in my car.,Man wati kárgádhiá án.
 I'm in my car.,Man wati gádhiá án.
-I'm in school.,Man eskulá án.
+I'm in school.,Man eskólá án.
 I'm just lazy.,Man bass behyá án.
 I'm just lazy.,Man bass sost án.
 I'm listening.,Man gósh dáragá án.
@@ -6050,7 +6084,7 @@ Red suits you.,Sohr tará bráhit.
 Rest in peace.,Arwáh ásudag bát.
 Roll the dice.,Bahtá chakkás.
 Save yourself.,Watá rakkén.
-School is out.,eskul band ant.
+School is out.,Eskól band ant.
 See you again.,Tará padá gendán.
 See you later.,Wassh ent.
 See you there.,Hamódá gendán tará.
@@ -7126,7 +7160,6 @@ I was married.,Man sir kotagat.
 I was tempted.,Mani del mán russet.
 I watched Tom.,Man Thám cháret.
 I watched you.,Man tará cháret.
-I'll watch TV.,Man thiwi chárán.
 It had snowed.,Barp bitagat.
 Nobody smiled.,Kassá nabechkandet.
 Nothing moved.,Hecch chizz nasoret.
@@ -7223,6 +7256,28 @@ Don't mock me!,Maná kalág maband!
 Don't be rude!,Béadabi makan!
 You cruel man!,Taw zálemén mardom!
 You rude jerk!,Taw béadabén selladh!
+Your team won.,Tai thímá katthet.
+They are fast.,Á téz ant.
+We are strong.,Má zreng én.
+He is playing.,Á laybá ent.
+We are heroes.,Má bámard én.
+Kick the ball.,Bólá shuth kan.
+They will win.,Á katthant.
+We tried hard.,Má sakk johd kot.
+I am a lawyer.,Man wakilé án.
+I am innocent.,Man bégonáh án.
+Tom is guilty.,Thám mayárig ent.
+We have proof.,Márá sabut hast.
+Tom has proof.,Thámá sabut hast.
+We need proof.,Márá sabut pakár ent.
+Is this legal?,É kánuni ent?
+Is that legal?,É kánuni ent?
+Motion denied.,Dazbandi rad bit.
+You're unfair.,Taw náhakk ay.
+Tom shot Mary.,Thámá Maryamárá tir jat.
+Stop shooting.,Tir janagá band kan.
+Call a lawyer.,Wakilé pawn kan.
+That is a lie.,É drógé.
 "A beer, please.","Mehrabáni kan, biaré beday."
 A car's coming.,Kárgádhié pédák ent.
 A car's coming.,Gádhié pédák ent.
@@ -7806,7 +7861,7 @@ I get up early.,Man mahlah pád ká án.
 I get up early.,Man mahlaw pád ká án.
 I give my word.,Man labz dayán.
 I go to church.,Man kalisáyá rawán.
-I go to school.,Man eskulá rawán.
+I go to school.,Man eskólá rawán.
 I got divorced.,Man sawn o mohr bitán.
 I got up early.,Man mahlah pád atkán.
 I got up early.,Man mahlaw pád atkán.
@@ -7844,7 +7899,7 @@ I hate to lose.,Maná cha báhénagá naprat ent.
 I hate Tom now.,Ni maná cha Thámá naprat ent.
 I hate working.,Maná cha kárá naprat ent.
 I hate you all.,Maná cha shomá drostán naprat ent.
-I hated school.,Maná cha eskulá naprat at.
+I hated school.,Maná cha eskólá naprat at.
 I have 13 cats.,Maná 13 pesshi hast.
 I have a beard.,Maná rissh per.
 I have a cough.,Maná kollag ent.
@@ -8018,7 +8073,7 @@ I love winning.,Maná katthag wassh bit.
 I love you all.,Maná shomá drost dóst bay et.
 I love you all.,Maná shomá drost dóst bet.
 I loved Boston.,Maná Bósthon dóst at.
-I loved school.,Maná eskul dóst at.
+I loved school.,Maná eskól dóst at.
 I made cookies.,Man kolóchag addh kot.
 I made her cry.,Man á gréwáént.
 I made him cry.,Man á gréwáént.
@@ -8821,7 +8876,7 @@ Read your book.,Wati ketábá bewán.
 Return at once.,Damáná wátarr kan.
 Save me a seat.,Pa man sitthé ér kan.
 Say that again.,Eshiá padá begosh.
-School is over.,eskul halás ent.
+School is over.,Eskól halás ent.
 Science is fun.,Sáens wassh ent.
 Seals eat fish.,Sil máhig warant.
 Send Tom to me.,Thámá pa man dém day.
@@ -10562,7 +10617,6 @@ I didn't laugh.,Man nakandet.
 I had a stroke.,Maná sarbádá geptagat.
 I need a favor.,Man mehrabániéay lóthók án.
 I plead guilty.,Man wati jorm mannet.
-I saw it on TV.,Man é thiwiá dist.
 I saw the news.,Man hál cháretant.
 I'm doing well.,Man barábar án.
 It's the truth.,Rást hamesh ent.
@@ -10627,7 +10681,6 @@ What is it now?,Ni chéé?
 Who kissed Tom?,Thám kayá chokket?
 You'll all die.,Shomá drost meret.
 I usually walk.,Man chónáyá payádarawi kanán.
-Let's watch TV.,Byá thiwi chárén.
 They all drank.,Á drostán nóshet.
 You're welcome.,Wasshatkay.
 Tom is dubious.,Thám shakkdár ent.
@@ -10703,6 +10756,27 @@ What bad words!,Choshén badgál!
 You always lie!,Taw modám dróg banday!
 You disgust me!,Taw maná gón naprat kanay!
 He insulted me!,Áiá maná béezzat kot!
+They are ready.,Á jádhi ant.
+Their team won.,Áyáni thímá katthet.
+I see the team.,Man thímá gendán.
+Who is playing?,Kay laybá ent?
+We are playing.,Má laybá én.
+He is our hero.,Á may bámard ent.
+This is a game.,É laybé.
+We will attack.,Má orosh kanén.
+We want to win.,Má katthag lóthén.
+Watch the game.,Laybá bechár.
+I see one ball.,Man yakk bólé gendán.
+He is a lawyer.,Á wakilé.
+We are lawyers.,Má wakilén.
+He is innocent.,Á bégonáh ent.
+He needs proof.,Áiá sabut pakár ent.
+I am a suspect.,Man shakdáré án.
+He's an outlaw.,Á kánunpróshé.
+He's an ex-con.,Á péshigén jélié.
+I was captured.,Man dazgir bitán.
+She had dreams.,Áiay wáb atant.
+She was afraid.,Á torsetagat.
 3 times 5 is 15.,"3 zarab 5, 15 ent."
 4 times 5 is 20.,"4 zarabe 5, 20 ent."
 A boat capsized.,bójigé chappi but.
@@ -11767,8 +11841,8 @@ I protected Tom.,Man Thám paház et.
 I put my hat on.,Man wati koláh sará kot.
 I ran after Tom.,Man Thámay randá tatkán.
 I ran after Tom.,Man Thámay randá tachán bitán.
-I ran to school.,Man dém pa eskulá drekk bitán.
-I ran to school.,Man dém pa eskulá tachán bitán.
+I ran to school.,Man dém pa eskólá drekk bitán.
+I ran to school.,Man dém pa eskólá tachán bitán.
 I read a letter.,Man kágadé wánán.
 I read his book.,Man áiay ketábá wánán.
 I read the book.,Man ketábá wánán.
@@ -11888,7 +11962,7 @@ I wanted to cry.,Man lóthet ke begréwán.
 I wanted to win.,Man lóthet ke bekatthán.
 I was a teacher.,Man ostádé atán.
 I was a witness.,Man sháhedé atán.
-I was at school.,Man eskulá atán.
+I was at school.,Man eskólá atán.
 I was born here.,Man hamedá pédá butagatán.
 I was born here.,Man hamedá pédá butagán.
 I was courteous.,Man adabdár atán.
@@ -12543,7 +12617,7 @@ Rules are rules.,Kánud kánudant.
 Save me a donut.,Maná mangaluá cha pahréz.
 Say no to drugs.,Manshiátá begosh enná.
 Say you love me.,Begosh tará gón man mehr ent.
-School bores me.,Maná eskul bór kant.
+School bores me.,Maná eskól bór kant.
 Science is cool.,Sáens sárt ent.
 Secure the area.,Damagá pahréz.
 See what I mean?,Bechár mani ché maksad ent?
@@ -12644,7 +12718,7 @@ That's a pagoda.,Á pagódháé.
 That's a pencil.,Á penselé.
 That's a relief.,É ásudagié.
 That's a relief.,É ráhaté.
-That's a school.,Á eskulé.
+That's a school.,Á eskólé.
 That's about it.,Á eshiay bábatá ent.
 That's an order.,É parmáné.
 That's cheating.,É dohkahié.
@@ -13296,7 +13370,7 @@ Tom passed away.,Thám bérán but.
 Tom picks on me.,Thám maná dar ch ent.
 Tom plays piano.,Thám payánó jant.
 Tom plays rugby.,Thám rabi kant.
-Tom quit school.,Thámá eskul yalah kot.
+Tom quit school.,Thámá eskól yalah kot.
 Tom ran outside.,Thám dhanná tatk.
 Tom read a book.,Thámá ketábé want.
 Tom read novels.,Thámá gedár want.
@@ -14080,7 +14154,6 @@ He is a moocher.,Á mozhdah wáré.
 Come and get it.,Byáet bwaret.
 Did Tom confess?,Thámá wati mayár mannet?
 Didn't Tom sing?,Thámá sawt najat?
-Do you watch TV?,Taw thiwi cháray?
 Don't apologize.,Paheli malóth.
 Don't bother me.,Maná béwár makan.
 Drink more beer.,Géshter biar bwar.
@@ -14111,10 +14184,8 @@ I looked at Tom.,Man Thám cháret.
 I never laughed.,Man beh nakandet.
 I protected Tom.,Man Thám paházet.
 I said I'm fine.,Man gosht man barábar án.
-I saw Tom on TV.,Man Thám thiwiá dist.
 I saw the movie.,Man támor cháret.
 I shook my head.,Man wati sar chandhet.
-I'm a TV addict.,Man thiwi cháragá héldár án.
 Green suits you.,Shinz pa taw barábar ent.
 He began to cry.,Á gréwagá lagget.
 He got the ball.,Áia ból raset.
@@ -14204,6 +14275,23 @@ You weak coward!,Taw nezór bozdel!
 That is a curse!,É nálaté!
 You betrayed us!,Taw márá dagá dát!
 He swears badly!,Á harábén sawgend wárt!
+It is hot today.,Marchi garm ent.
+The team trains.,Thím hélkári kant.
+I love football.,Maná pothbál dóst bit.
+He has the ball.,Áiay kerrá ból ent.
+We won the game!,Má layb katthet!
+We see the game.,Má laybá chárén.
+The cup is gold.,Kapp telah ent.
+They tried hard.,Áyán sakk johd kot.
+Tom is a lawyer.,Thám wakilé.
+Tom is innocent.,Thám bégonáh ent.
+I am not guilty.,Man mayárig nayán.
+Tom needs proof.,Thámá sabut pakár ent.
+Tom wants proof.,Thám sabut lóthit.
+He was arrested.,Á dazgir but.
+This is a crime.,É jormé.
+Is this culture?,É dód ent?
+They used a gun.,Áyán topang kármarz kot.
 A dog is barking.,Kochekké chángagá ent.
 A girl phoned me.,Jenekkéá maná pawn kot.
 Any book will do.,"Har wadhén ketábé bit, rawá ent."
@@ -14382,7 +14470,7 @@ I study medicine.,Man tebb wánán.
 I waited for you.,Man pa taw wadár kot.
 I walk every day.,Man har róch gardán.
 I walk every day.,Man harróch pádrawi kanán.
-I walk to school.,Man eskulá pádáná rawán.
+I walk to school.,Man eskólá pádáná rawán.
 I want vengeance.,Man bér gerag lóthán.
 I was happy then.,Á wahdi man galatán.
 I will buy a car.,Man gádhié gerán.
@@ -14422,7 +14510,7 @@ It can't be true.,É rástén gappay wadhá naent.
 It can't be true.,É rást bit nakant.
 It may rain soon.,Balkén zittán hawr bebit.
 It was a mistake.,É radié at.
-It was at school.,É eskulá but.
+It was at school.,É eskólá but.
 It was not cheap.,É arzán nayat.
 It's a good book.,É sharrén ketábé.
 It's a good deal.,É sharrén sawdáé.
@@ -15197,6 +15285,19 @@ You are a coward!,Taw bozdelé ay!
 You dirty person!,Taw ádhálén mardom!
 You crazy person!,Taw ganókén mardom!
 They spread lies!,Á drógá porr kanant!
+They are playing.,Á laybá ant.
+We love football.,Márá pothbál dóßt bant.
+We have the ball.,May kerrá ból ent.
+Give me the ball.,Bólá maná beday.
+Four players ran.,Chár gwáziger tatkant.
+He is not guilty.,Á mayárig naent.
+He broke the law.,Áiá kánun prósht.
+The case is over.,É jédhah halás ent.
+"No, it is murder.","énna, é kósh ent."
+She was innocent.,Á bégonáh at.
+He has no regret.,Áiá hecch apsózi naent.
+Raise your voice.,Wati tawár borz bekan.
+Guilty of murder.,Koshay mojrem.
 Add a little milk.,Kammé shiry mán kan.
 Are we good to go?,Má jádhién?
 Are you all ready?,Shomá drost jádhi et?
@@ -16032,6 +16133,23 @@ That is an insult!,É béezzatié!
 That is rude talk!,É badtamizi gappé!
 You make me angry!,Taw maná ásig kanay!
 She cursed loudly!,Áiá trondiá nálat kot!
+The match is here.,Layb edá ent.
+Today is the game.,Marchi layb ent.
+Ten days are left.,Dah roch pasht kaptag.
+They are innocent.,Á bégonáh ant.
+Tom is not guilty.,Thám mayárig naent.
+I have a contract.,Mani kerrá kawlbandié hast.
+The judge decided.,Káziá paysalah kot.
+Show the evidence.,Sabutá pésh dár.
+They hid the body.,Áyán lásh chér dát.
+He is in jail now.,Á ni jélá ent.
+Protect the women.,Zálbulán paház.
+Who is the killer?,Koshendah kay ent?
+No one helped her.,Hecchkasá áiay madat nakot.
+They used a knife.,Áyán kárch kármarz kot.
+We want the truth.,Má rástiá lóthén.
+Her name was Mary.,Áiay nám Maryam at.
+Break the silence.,Bétawáriá prósh.
 A cat scratched me.,pesshiéá maná chánkorr pátk.
 A child needs love.,Chokká mehr pakár ent.
 A child needs love.,Chokké mehr lóthit.
@@ -16284,7 +16402,7 @@ Pull the other one.,Ádegerá kasshán kan.
 Rats breed rapidly.,Moshk téziá chokk o bar kanant.
 Remember last year.,Párigén sálá gir byár.
 Remember last year.,Párigén sálá yát kan.
-Schools were built.,eskul bandag bitant.
+Schools were built.,Eskól bandag bitant.
 She almost drowned.,Á bokkagi but.
 She became a nurse.,Á narsé but.
 She came to see me.,Á mani cháragá atk.
@@ -16320,7 +16438,7 @@ Take what you want.,Harchi tará lóthit bezir.
 Tell Tom hi for me.,Thámá mani némagá salám kan.
 That book is small.,Á ketáb kasán ent.
 That is intriguing.,É delchaspén gappé.
-That is our school.,Á may eskul ent.
+That is our school.,Á may eskól ent.
 That isn't my wife.,Á mani lógbánok naent.
 That isn't my wife.,Á mani jan naent.
 That was my finger.,Á mani lankok at.
@@ -16489,7 +16607,7 @@ You only live once.,Taw éoká yakk baré zendag bay.
 You'll feel better.,Taw gehter bay.
 You're not dressed.,Tará god gwará nést.
 You're quite right.,Taw belkol rást goshay.
-You're quite right.,Taw belkul rást goshay.
+You're quite right.,Taw pakkáyá rást goshay.
 You're still young.,Taw angat kasánay.
 Your bath is ready.,Tai jánshódi kondhi jádhi ent.
 Your son is a hero.,Tai bacch bámardé.
@@ -16640,7 +16758,6 @@ I wanted red shoes.,Man sohrén kawsh lóthet.
 I was expecting it!,Maná hameshiay omét at!
 It was worth a try.,Eshiá yakk denné karzetagat.
 It's going to rain.,Hawr bit.
-Let's not watch TV.,Byá thiwi nachárén.
 My fate was sealed.,Mani kesmatá lekkatagat.
 She's my classmate.,Á mani hamjomáet ent.
 Stop wasting water.,Ápá zawál makan.
@@ -16819,7 +16936,7 @@ Tom loves football.,Thámá pothbál dóst bit.
 Breakfast is ready.,Nahári tyár ent.
 The baby is asleep.,Nonnok wáb ent.
 The child is tired.,Chokk dam bortag.
-Tom goes to school.,Thám eskulá rawt.
+Tom goes to school.,Thám eskólá rawt.
 Tom write a letter.,Thám kágadé nebeshtah kant.
 He is not a doctor.,Á dáktaré naent.
 Go to the hospital.,Nádráhjáhá boraw.
@@ -16869,6 +16986,15 @@ He is a bad person!,Á badén mardomé!
 She talks nonsense!,Á bésoddén gapp kant!
 He mocked my words!,Áiá mani gappáni kalág zort!
 Lies destroy trust!,Dróg óstá tabáh kant!
+The stadium is big.,Gwázijáh mazan ent.
+The fans are happy.,shaydái wassh ant.
+Five fans are here.,Panch shaydái edá ant.
+Forty days of game.,Laybay chel roch.
+Where is the court?,Adálat kojá ent?
+She cried for help.,Áiá pa madatá jhkár jat.
+She fled from home.,Á cha logá jest.
+Change the mindset.,Tabá badal bekan.
+She wanted freedom.,Áiá ázádi lóthet.
 A lion is an animal.,Shér jánwaré.
 A truck hit the dog.,Bárgádhiá kochekk gadh et.
 Accidents do happen.,Kazá allamá bant.
@@ -16995,8 +17121,8 @@ I disagree with you.,Man tai gappá namannán.
 I don't like coffee.,Maná kahwá wassh nabit.
 I don't like movies.,Maná támor dóst nabant.
 I don't like movies.,Maná támor wassh nabit.
-I don't like school.,Maná eskul dóst nabit.
-I don't like school.,Maná eskul wassh nabit.
+I don't like school.,Maná eskól dóst nabit.
+I don't like school.,Maná eskól wassh nabit.
 I don't really know.,Rásti man nazánán.
 I eat a lot of rice.,Man báz batth warán.
 I forgot to ask him.,Man áiay jost kanagá behál bitán.
@@ -17296,7 +17422,7 @@ When did you arrive?,Taw ché wahdá atk o rasetay?
 When did you arrive?,Taw che wahdá atkay?
 When did you get up?,Taw ché wahdá pád atkay?
 When did you get up?,Taw che wahdá pád atkay?
-When is school over?,eskul kadi band bit?
+When is school over?,Eskól kadi band bit?
 When will you leave?,Taw kadi raway?
 Where are the girls?,Jenekk koj ant?
 Where are those two?,Á doén koj ant?
@@ -17307,7 +17433,7 @@ Where does Tom live?,Thám kojá jahmenend ent?
 Where have you been?,Taw kojá butagay?
 Where is his family?,Áiay kahól kojá ent?
 Where is the office?,Kárges kojá ent?
-Where is the school?,eskul kojá ent?
+Where is the school?,Eskól kojá ent?
 Where is your house?,Tai ges kojá ent?
 Where's your sister?,Tai gohár kojá ent?
 Who are those girls?,Á jenekk kay ant?
@@ -17842,6 +17968,16 @@ I am angry with you!,Man gón taw zahr án!
 He is a wicked liar!,Á badkárén drógbandé!
 He is a cruel thief!,Á zálemén dozzé!
 Enough of your lies!,Tai drógán hadd ent!
+Welcome to the game.,Wasshatkay pa laybá.
+Eight cups are gold.,Hasht kapp telah ant.
+Thirteen heroes won.,Sézdah bámardán katthet.
+Fourteen teams lost.,Chárdah thímán báhént.
+She wanted to study.,Áiá wantag lóthagat.
+We need strict laws.,Márá trondén kánun pakár ent.
+Educate the society.,Chágardá balad bekan.
+Respect her choices.,Áiay gechénay sharapdári bebit.
+The grave was found.,Kabr dast kapt.
+The law was amended.,Kánun badal but.
 Add up these figures.,É hesábán hawár kan.
 All the meat was bad.,Drostén gósht gahetag at.
 All you need is love.,Tará bass mehr pakár ent.
@@ -17952,7 +18088,7 @@ His memory amazes me.,Áiay yádásht maná hayrán kant.
 How can you say that?,Taw chón chó gosht kanay?
 How do you know that?,Taw chón zánay?
 How much did you win?,Taw chinchok katthet?
-How was school today?,Marchi eskul chón at?
+How was school today?,Marchi eskól chón at?
 How's the water here?,Edá áp chón ent?
 I admire his courage.,Man áiay hemmatá sádhá án.
 I am eating an apple.,Man srópé waragá án.
@@ -18278,7 +18414,7 @@ Where is the mistake?,Radi kojá ent?
 Where is the problem?,Janjál kojá ent?
 Where is the station?,Esthéshan kojá ent?
 Where is your father?,Tai pet koj ent?
-Where is your school?,Tai eskul kojá ent?
+Where is your school?,Tai eskól kojá ent?
 Where's the pharmacy?,Darmánjáh kojá ent?
 Which book is better?,Kojám ketáb sharter ent?
 Which diet is better?,Kojám ward sharter ent?
@@ -18536,7 +18672,6 @@ Have a drink with me.,Gón man sharábé bwar.
 He asked me for help.,Áiá cha man madat lóthet.
 He began to feel ill.,Áiá nádráhiay samá bayagá lagget..
 He devoured his meal.,Áiá wati warag pelekketant.
-He likes to watch TV.,Áiá thiwiay chárag wassh bit.
 He wanted to be rich.,Áiá sér bayag lóthet.
 He wanted to succeed.,Áiá sóbmand bayag lóthet.
 "Hey, get off my bike.",Adhay Oo! Ér á cha mani saynkalá.
@@ -18544,7 +18679,6 @@ How do you know that?,Taw chón zanay?
 I had better ask her.,Sharter hamesh at ke man á jost bokotén.
 I looked for the key.,Man kelit patthet.
 I owe Tom an apology.,Maná paheliéá Thámay wámdár án.
-I sometimes watch TV.,Man baré baré thiwi chárán.
 May I use the toilet?,Man puiá kármarz kot kanán?
 Maybe she won't come.,Begenday á nayayt.
 Most people think so.,Bázén mardoméay hyál hamesh ent.
@@ -18686,7 +18820,7 @@ She got what he said.,Áiá harché gosht á sarpad but.
 That's pseudoscience.,É seudhó sáens ent.
 He has strange ideas.,Áiay ajabén hayál ant.
 I met a friend there.,Ódá man sangatéá dochár kaptán.
-That's a good school.,Á sharrén eskulé.
+That's a good school.,Á sharrén eskólé.
 I bought a newspaper.,Man rótáké bahá zort.
 I know what they are.,Man zánán á chi ant.
 Tom ran up the steps.,Thám padánkán dar kapt.
@@ -18800,6 +18934,15 @@ The long war is over.,Drajgén jang halás but.
 You shameless person!,Taw bélajjén mardomé!
 You heartless person!,Taw bédelén mardom!
 Stop your bad tongue!,Tai badén zobáná bedár!
+Tomorrow is the game.,Bándá layb ent.
+Seventy two fans run.,Haptád o do shaydai tachant.
+He killed his sister.,Áiá wati gohár kosht.
+Stop honour killings.,Gayratay námá kóshá band bekan.
+The case is in court.,Jédhah adálatá ent.
+Human life is sacred.,Ensáni zend sharap dárit.
+He was an accomplice.,Á hamkópagé at.
+She is gone too soon.,Á báz zutt shot.
+We must prevent this.,Márá eshiay ger o dár kanagi ent.
 "Above all, be patient.",Masterén chizz esh ent ke sabr kan.
 "All right, I'll do it.","Sharr ent, man kanány."
 "All right, I'll do it.","Sharr ent, many kanán."
@@ -18935,7 +19078,7 @@ I forgot to buy sugar.,Man shakaray geragá shamoshtán.
 I forgot to buy sugar.,Man shakaray geragá béhál bitán.
 I found that annoying.,Man dist ke delsyáhié.
 I gave Tom everything.,Man Thám harchizz dát.
-I go to school by bus.,Man eskulá basay sará rawán.
+I go to school by bus.,Man eskólá basay sará rawán.
 I got wet to the skin.,Man sakk missetán.
 I had my money stolen.,Mani zarr dozzag bitant.
 I have a good job now.,Ni maná sharrén káré rasetag.
@@ -19063,7 +19206,7 @@ Let's get ready to go.,Byá rawagay tyáriá kanén.
 Let's get ready to go.,Byá rawagay tayáriá kanén.
 Let's go to my office.,Byá mani kárgesá rawén.
 Let's go to the beach.,Byá tyábá rawén.
-Let's help each other.,Byá yakké dómiá madat kanén.
+Let's help each other.,Byá yakké domiá madat kanén.
 Let's just be friends.,Byá bass sangat bayén.
 Let's just be friends.,Byá bass sangat bén.
 Let's meet again soon.,Byá padá zitt dochár kapén.
@@ -19558,7 +19701,6 @@ I usually play tennis.,Man chónáyá ténes kanán.
 I want you to read it.,Man lóthán ke taw eshiá bwánay.
 I wanted to read them.,Man lóthet ke áyán bwánán.
 I'm sure I'll be fine.,Man deljam án ke man barábar bán.
-Let's turn off the TV.,Byá Thiwiá band kanén.
 "Like father, like son.","Anchó pet, anchó bacch."
 Our water pipes burst.,May ápay payp trakketant.
 Tom hasn't apologized.,Thámá paheli nalóthetag.
@@ -19636,7 +19778,7 @@ I think this is yours.,Mani hayálá é taig ent.
 Please take my advice.,Mehrabáni kan mani sójá bezir.
 Tom survived his wife.,Thám wati lógbánoká che rakk et.
 She almost passed out.,Á gendagá tost.
-I don't watch much TV.,Man báz ThiWi nachárán.
+I don't watch much TV.,Man báz Thi Wi nachárán.
 He picked up his toys.,Áiá wati laybuk zortant.
 He gets a high salary.,Áiá báz pagár rasit.
 It started as a hobby.,É chó shawká bendát but.
@@ -19816,8 +19958,29 @@ The people are crying.,Mahluk gréwagá ant.
 Stop talking nonsense!,Gapp makan bésodd!
 You disgusting person!,Taw bazzhenákén mardom!
 She teased me cruelly!,Áiá maná zór konnat kot!
+The world cup is here!,Álemi kapp edá ent!
+Two teams are playing.,Do thím laybá ent.
+He scored three goals.,Áiá say gól dát.
+Six matches are today.,Marchi shash layb ant.
+Nine players are fast.,Noh gwáziger téz ant.
+Eleven balls are here.,Yázdah ból edá ant.
+Seventeen fans jumped.,Habdah shaydáiyán dawr kot.
+Forty two players won.,Chel o do gwázigerán katthet.
+Seventy teams compete.,Drosti haptád thím ant.
+Hundred fans are fast.,Sad shaydái téz ant.
+It is against the law.,É kánuni heláp ent.
+She did nothing wrong.,Áiá hecch galat nakot.
+She sought protection.,Áiá panáh lóthet.
+They tracked her down.,Áyán dar gétk.
+The witness testified.,Gawáhá gawáhi dát.
+He thinks he is right.,Á sarpad bit ke á rást ent.
+The mother is weeping.,Mát gréwagá ent.
+The media reported it.,Hálkárán é hál perrént.
+Do not hide the truth.,Rástiá chér maday.
+The law will find you.,Kánun tará dar géjit.
+Justice for all women.,Ensáp drostén zálbulán.
 A stone does not float.,Seng trappal nabit.
-All right. It's a deal.,Sharr entsawdá laggetag.
+All right. It's a deal.,Sharr ent sawdá laggetag.
 All roads lead to Rome.,Drostén ráh rómá rawant.
 All you can do is wait.,Taw bass wadár kot kanay.
 An old lady sang to me.,Yakk pirzáléá pa man sawté jat.
@@ -20093,7 +20256,7 @@ No one could deny this.,Kassá charéshiá enkár kot nakot.
 No one knew who did it.,Kassá nazánt ke é kayá kot.
 Nobody came to help me.,Kass mani madatá nayatk.
 One must do one's best.,Mardomá wati was kanag lóthit.
-Our school burned down.,May eskul sotk o por but.
+Our school burned down.,May eskól sotk o por but.
 Pick your favorite bat.,Wati pasonday pabbá bezir.
 Please drive carefully.,"Mehrabáni kan, pa enán gádhi betách."
 Please drive carefully.,"Mehrabáni kan, pa sambáli gádhi betách."
@@ -20464,7 +20627,7 @@ Tom changes jobs a lot.,Thám kárán sakk badal kant.
 I thank you for coming.,Man pa tai áyagá mennatwár án.
 He has a beautiful tan.,Áiay kerrá Dhawldárén thené hast.
 I'm quite sure of that.,Maná eshiay sará pakká barósah ent.
-How big is your school?,Shomay eskul chincho mazan ent?
+How big is your school?,Shomay eskól chincho mazan ent?
 Tom is a soccer player.,Thám pothbálay laybié.
 I asked Tom to explain.,Man Thámárá gosht ke gisshgiwáry bekan.
 I think I can fix this.,Mani hayálá man eshiá thahént kanán.
@@ -20518,10 +20681,8 @@ Did you watch the game?,Taw layb cháret?
 He exploded with anger.,Á cha zahrá trakket.
 He took a notebook out.,Áiá kápié kasshet.
 He was dressed in blue.,Áiá sabzén god gwará at.
-I was watching TV then.,Á wahdi man thiwi cháragá atán.
 I'll miss your cooking.,Man pa tai kanwará zahirwár bán.
 I'm filing for divorce.,Man pa sawná arzi jamá kanagá án.
-Mary likes watching TV.,Maryamá thiwi chárag wassh bit.
 My mother cut the cake.,Mani mátá kék borret.
 She asked him for help.,Áiá cha áiá madat lóthet.
 She likes blue dresses.,Áiá sabzén darés dóst bit.
@@ -20581,7 +20742,7 @@ How much is that worth?,Eshiay nehád ché ent?
 Is Tom still with Mary?,Thám angá Maryamay pajjigá ent?
 I think we should talk.,Mani hayálá gapp kanag lóthit.
 How will you stop them?,Taw áyan chón dáray?
-He often appears on TV.,Á ThiWiá modám gendag bit.
+He often appears on TV.,Á Thi Wiá modám gendag bit.
 Why do you believe Tom?,Taw parchá Thámay sará yakin kanay?
 Tom tried to be polite.,Thámá shehm bayagay johd kot.
 "That surprised me, too.",Eshiá maná ón ajakkah kot.
@@ -20658,7 +20819,7 @@ Stand by for my orders.,Mani hogmán bósht.
 I don't want the money.,Maná zarr nalóthit.
 I need to feed the dog.,Maná kochekk warag dayagi ent.
 Tom watched Mary dance.,Thámá Maryam nách cháret.
-Tom saw Mary at school.,Thámá Maryam eskulá dist.
+Tom saw Mary at school.,Thámá Maryam eskólá dist.
 He lived a simple life.,Áiá sádagén zendé gwázént.
 I always carry a knife.,Mani kerrá modám kárché zirán.
 Tom only saw Mary once.,Thámá bass yakkrandé Maryam dist.
@@ -20689,10 +20850,10 @@ This is my final offer.,É mani goddhi péshkassh ent.
 I found my car missing.,Man dist ke mani gádhi gár ent.
 I was stuck in traffic.,Man Thraypeká pass etán.
 Tom also speaks French.,Thám ón Paránsi gap jant.
-Is Tom still in school?,Thám angat eskulá ent?
+Is Tom still in school?,Thám angat eskólá ent?
 Tom seemed to be happy.,Thám gendagá wash at.
 I don't know the truth.,Man rástá nazánán.
-She was late to school.,Áiá eskulá rawagá béwahd but.
+She was late to school.,Áiá eskólá rawagá béwahd but.
 My father's car is new.,Mani petay gádhi nókén ent.
 That's not what I mean.,Mani morád é naent.
 Tom is really friendly.,Thám rásti dóstánag ent.
@@ -20712,7 +20873,7 @@ Nothing really matters.,Rásti hecch park nabit.
 Tom kept staring at me.,Thámá maná rók róká cháretag.
 I'm lonely without you.,Man bétaw eók án.
 Do you have some money?,Tai kerrá kammé zarr hast?
-Tom is skipping school.,Thám eskulá sar gwazagá ent.
+Tom is skipping school.,Thám eskólá sar gwazagá ent.
 Tom owns a golf course.,Thám gólp Kórséay wáhond ent.
 Tom is trying on shoes.,Thám kawsháni pádán kanagay kóshestá ent.
 I can handle it myself.,Man waty sambálet kanán.
@@ -20782,7 +20943,7 @@ She gave him a sweater.,Áiá áiárá suttharé dát.
 Mary can sew very well.,Maryam báz sharr dótk kant.
 Tom's child is healthy.,Thámay chokk dreng ent.
 The child is safe here.,Chokk edá mahpuz ent.
-The kids are at school.,Gwandhu eskulá ant.
+The kids are at school.,Gwandhu eskólá ant.
 Tom is in the hospital.,Thám nádráhjáhá ent.
 They are catching fish.,Á máhig geragá ant.
 Where do you sell fish?,Taw máhig kojá bahá kanay?
@@ -20814,6 +20975,25 @@ They quarreled angrily!,Á zahrá medhetant!
 They are wicked people!,Á sherrén mardom ant!
 Enough of your insults!,Tai béezzatiá hadd ent!
 Your cursing must stop!,Wati nálat band kan!
+Seven stadiums are big.,Hapt gwázijáh mazan ant.
+Eighteen matches ended.,Hazhdah layb halás but.
+Twenty one goals total.,Kol bist o yakk gól.
+Thirty two matches won.,Si o do layb katthet.
+Forty three teams lost.,Chel o say thímán báhént.
+Sixty matches are done.,Shasht layb butant.
+Sixty nine players won.,Shasht o nóh gwázigerán katthet.
+Ninety teams are ready.,Nawad thím tyár ant.
+Ninety one goals total.,Drosti nawad o yakk gól ant.
+Five hundred teams won.,Panch sad thímán katthet.
+Eight million fans run.,Hasht melyun shaydái tachant.
+Ten billion fans watch.,Dah belyun shaydái chárant.
+One hundred heroes won.,Yakk sad bámardá katthet.
+Justice must be served.,Ensáp allamá bebit.
+It happened last night.,É dushi but.
+Do not support killers.,Koshendahán madat makan.
+We will not forget her.,Má áiá nashamoshén.
+Awareness is spreading.,Sarpadi waddán ent.
+End honour killing now.,Gayratay námá kóshoká ni band bebit.
 A bear can climb a tree.,Mamm drachká sar kapt kant.
 A lot of people do that.,Báz mardom anchó kant.
 All our attempts failed.,May drostén kóshest bésób bitant.
@@ -20909,7 +21089,7 @@ How far is it from here?,É chedá chinchok dir ent?
 How long will they stay?,Á dán kadéná jallant?
 How's the project going?,Porójekt chón rawagá ent?
 How's the project going?,Porójekt chón rawagá ent.
-I always walk to school.,Man modám pádáná eskulá rawán.
+I always walk to school.,Man modám pádáná eskólá rawán.
 I am her brother in law.,Man áiay waserkán.
 I bought this yesterday.,É man zi bahá zort.
 I can see what you mean.,Man sarpad bayán ke tai morád ché ent.
@@ -20918,7 +21098,7 @@ I can't believe my eyes.,Maná wati chammáni sará báwar nakant.
 I can't go into details.,Man tapsilá shot nakanán.
 I can't stay long today.,Man marchi dérán jallet nakanán.
 I can't use a fork well.,Man chárpánch sharriá kármarz kot nakanán.
-I come to school by bus.,Man basay sará eskulá ká án.
+I come to school by bus.,Man basay sará eskólá ká án.
 I don't have a solution.,Mani kerrá tawjilé nést.
 I don't know what to do.,Man nazánán chón bekanán.
 "I don't like it, either.",Maná é ón dóst nabit.
@@ -21427,7 +21607,6 @@ He declined my proposal.,Áiá mani péshnehád namannet.
 He doesn't need to work.,Áiá kár kanagay hájat nést.
 He drowned in the river.,Á kawrá bokket.
 He looked up at the sky.,Áiá borzá ázmánay némagá cháret.
-He sometimes watches TV.,Á baré baré thiwi chárit.
 He was blind from birth.,Á cha pédáeshá kór at.
 He witnessed the murder.,Á kóshay sháhed at.
 Her kindness touched me.,Áiay mehrabáni mani delá lagget.
@@ -21479,7 +21658,7 @@ You don't have to study.,Allami naent ke taw bwánay.
 He is a disabled person.,Á langén mardomé.
 He came to my residence.,Á mani lógá atk.
 How far is it from here?,É chedá chincho dir ent?
-I come to school by bus.,Man basay sará eskulá káyán.
+I come to school by bus.,Man basay sará eskólá káyán.
 I'll be back in an hour.,Man kalákéay tahá padá káyán.
 I'll explain this later.,Man ranterá eshiay gishwáriá kanán.
 I'll visit you tomorrow.,Man bándá tai gendokiá káyán.
@@ -21501,6 +21680,28 @@ The enemy is retreating.,Doshmen pad kenzagá ent.
 Your tongue speaks lies!,Tai zobán dróg bandit!
 She scolded him harshly!,Áiá á sakk hakkal dát!
 They shouted rude words!,Áyán dozhmán dát!
+Twelve groups are ready.,Dowázdah thólig tyár ant.
+Fifteen goals were made.,Pánzdah gól butagat.
+Twenty nine days remain.,Bist o nóh roch pasht kapat.
+Thirty teams train hard.,Si thím sakk kóshest kanant.
+Thirty one goals scored.,Si o yakk gól but.
+Fifty nine fans arrived.,Panjá o nóh shaydái atk.
+Sixty five fans love us.,Shasht o panch shaydáiyán má dóst én.
+Seventy one goals total.,Drosti haptád o yakk gól ant.
+Eighty one goals scored.,Hashtád o yakk gól butag.
+Eighty seven heroes won.,Hashtád o hapt bámardá katthet.
+Ninety nine fans jumped.,Nawad o nóh shadáiyán dawr kot.
+Four million fans cheer.,Chár melyun mardom wassh ant.
+Six million balls total.,Drost shash melyun ból ant.
+Five billion goals made.,Panch belyun gól but.
+No one is above the law.,Hichkas kánuná borzter naent.
+The police arrested him.,Polisá á dazgir kot.
+The court sentenced him.,ámidgesá á sezá dát.
+Silence is a crime here.,Edá betawari jormé.
+It was a planned murder.,É shawrbandén kóshé at.
+Traditions can be cruel.,Rawáj zórák bit kanant.
+Youth are fighting back.,Warná medhagá ant.
+Freedom is a birthright.,Ázádi butanni hakké.
 "A glass of water, please.","Mehrabáni kan, gelásé áp byár."
 A lot of people like Tom.,Báz mardom Thámá pasond kant.
 A lot of people like Tom.,Báz mardomá Thám dóst bit.
@@ -22159,7 +22360,6 @@ I think maybe I can help.,Mani hayálá begenday man madat kot kanán.
 I worked hard last month.,Man gwastagén máhá sakk kár kot.
 I'm going out in an hour.,Man ganthahéay tahá dhanná rawán.
 I'm going to miss Boston.,Man pa Bóstoná zahirwár bán.
-I'm tired of watching TV.,Man thiwiay cháragá dam bortag.
 Is your wife a good cook?,Tai zál sharrén waraggrádé?
 It's a system that works.,É nezámé ke kár kant.
 It's really bothering me.,É rásti maná béwár kanagá ent.
@@ -22182,7 +22382,7 @@ Tom is reading the Bible.,Thám Enjil wánagá ent.
 Tom is wanted for murder.,Thám kóshay jormá darkár ent.
 Tom said he was so sorry.,Thámá gosht maná sakk apsóz ent.
 Tom took what wasn't his.,Thámá hamá zort ke áiay nayat.
-Tom watched TV yesterday.,Thámá zi thiwi cháret.
+Tom watched TV yesterday.,Thámá zi Thi Wi cháret.
 "Tom, look at what I made!","Thám, bechár man chié addh kot!"
 Wait till the rain stops.,Dán hawray tam kanagá wadár kan.
 Walk as fast as possible.,"Haminchok téz pád jat kanay, bejan."
@@ -22229,6 +22429,34 @@ I cannot stand your lies!,Man tai drógán sagget nakanán!
 She is a shameless woman!,Á bélajjén zálbué!
 Control your angry mouth!,Tai zahrén dapá bedár!
 Your words are worthless!,Tai gapp békár ant!
+The tournament has begun.,Gwázired bendát butag.
+Sixteen days of football.,Pothbálay shánzdah roch.
+Nineteen players trained.,Nózdah Gwázigerán hélkári kot.
+Thirty five heroes train.,Si o panch bámard hélkári kanant.
+Thirty nine fans shouted.,Si o nóh shaydáiyán kukár kot.
+Fifty one balls are gold.,Panjá o yakk ból sohr ant.
+Sixty one goals are made.,Shasht o yakk gól butant.
+Sixty six balls are here.,Shasht o shash ból edá ant.
+Eighty two players train.,Hashtád o do laybari hélkári kanant.
+Eighty six balls are new.,Hashtád o shash ból nók ant.
+Ten thousand fans jumped.,Dah hazár shaydáiyán dawr kot.
+Two million people watch.,Do melyun mardom chárant.
+Five million people came.,Panch melyun mardom atk.
+Two billion fans love us.,Do belyun mardomán má dóst én.
+Four billion balls ready.,Chár belyun ból jádhi ant.
+Six billion heroes train.,Shash belyun bámard hélkári kanant.
+This tradition must stop.,É rawáj band bebit.
+They judged her unfairly.,Áyán gón eshiá náhakki kot.
+The law must punish them.,Kánuná áyán sezá bedant.
+Their decision was wrong.,Áyáni paysalah rad at.
+Honour is not in killing.,Kóshá gayrat nést.
+Activists are protesting.,Johdkár zahrsháni kanagá ant.
+They buried her secretly.,Áyán chérókái kall o kasárat kot.
+We stand with the victim.,Má ámáchay hambráhdári kanén..
+This provides some peace.,Cha eshiá kammé sokun rasit.
+Loopholes must be closed.,Nezóri allamá band bebant.
+The brother was arrested.,Brát dazgir but.
+He followed old mindsets.,Á kwahnén tabay hampallawi kot.
 A fork fell off the table.,Cha thébalá chárpánché kapt.
 A penny for your thoughts.,Tai hayálán zánag lóthán.
 A wood floor is beautiful.,Dáray parsh dhawldár ent.
@@ -22295,7 +22523,7 @@ He is handsome and clever.,Á brahdár o shiwár ent.
 He is old enough to drive.,Á gádhi táchagay omrá ent.
 He is old enough to drive.,Á inchok mazan ent ke gádhi behalláénit.
 He just wants to have fun.,Á bass delwasshi kanag lóthit.
-He likes his school a lot.,Áiá wati eskul sakk dóst bit.
+He likes his school a lot.,Áiá wati eskól sakk dóst bit.
 He lost his father at sea.,Áiay pet daryáyá wati harján jat.
 He must be from the South.,Á allamá cha zerbárá ent.
 He narrowly escaped death.,Á pardagé bemerit.
@@ -22427,7 +22655,7 @@ I'm afraid of earthquakes.,Maná zeminchandhay kerrá torsit.
 I'm aware of your problem.,Man tai jédhahá sarpadán.
 I'm glad to see you again.,Man galán ke tará padá dist.
 I'm going through changes.,Man badaliáni tahá gwazagá án.
-I'm going to leave school.,Man eskulá yalah dayagá án.
+I'm going to leave school.,Man eskólá yalah dayagá án.
 I'm interested in science.,Maná gón sáensá hodónáki hast.
 I'm looking for my gloves.,Man wati dastián patthagá án.
 I'm not going to tell Tom.,Man Thámá hál nadayán.
@@ -22499,7 +22727,7 @@ Please open your suitcase.,Mehrabáni kan wati shantáyá pach kan.
 Press any key to continue.,Pa jári dáragá bathané bejan.
 "Read it once more, please.","Mehrabáni kan, eshiá yakk baré padá bewán."
 Reservations are required.,Rezarwayshan darkár ent.
-School begins at 8:30 a.m.,eskul sabáhay 8:30á bongéj bit.
+School begins at 8:30 a.m.,Eskól sabáhay 8:30á bongéj bit.
 Second semester has ended.,Domi semestar halletag.
 She bore the pain bravely.,Áiá gón mazandeli dard sagg et.
 She doesn't listen to him.,Á áiay gappán gósh nadárit.
@@ -22585,8 +22813,8 @@ Tom didn't touch anything.,Thámá hecch chizz dast naj at.
 Tom has a stuffed-up nose.,Thámay pónz band ent.
 Tom has his father's eyes.,Thámay chamm petayg ant.
 Tom has hundreds of books.,Thámay kerrá sadán ketáb hast.
-Tom hates going to school.,Thámá eskulay rawag konnat ent.
-Tom hates going to school.,Thámá cha eskulay rawagán naprat ent.
+Tom hates going to school.,Thámá eskólay rawag konnat ent.
+Tom hates going to school.,Thámá cha eskólay rawagán naprat ent.
 Tom left the next morning.,Thám endege sabáhá dar atk o shot.
 Tom looks very busy today.,Thám gendagá marchi sakk dazgatth ent.
 Tom never breaks promises.,Thám beh wádahán napróshit.
@@ -22714,7 +22942,7 @@ He is old enough to drive.,Á inchok mazan ent ke gádhi betáchit.
 His illness may be cancer.,Áiay nádráhi shummak bit kant.
 I didn't need to tell him.,Maná pakár nayat ke áiá begoshán gón.
 I may be gone for a while.,Man balkén kammokéá rand rawán.
-I'm going to leave school.,Man eskulá yalah dayagá án
+I'm going to leave school.,Man eskólá yalah dayagá án
 I'm not going to tell Tom.,Man Thámá nagoshán gón
 I've been here for a week.,Man edá dán haptagéá bitagán.
 Is there any life on Mars?,Bahrámay sará zend hast?
@@ -22769,15 +22997,13 @@ He bought a dress for her.,Áiá paráiá darésé zort.
 He narrowly escaped death.,Á kammoké meragá rakket.
 I can read Spanish easily.,Man Espéni ásániá want kanán.
 I can't force you to talk.,Man tará pa gapp janagá parmát nakanán.
-I can't live without a TV.,Man bé thiwiéá zendag bit nakanán.
 I doubt if he is a lawyer.,Maná shakk ent ke á wakilé naent.
-I have a TV in my bedroom.,Maná thiwié hast ke mani wábjáhá ent.
 I intend to clean my room.,Man erádah kotag ke wati kóthiá sapá kanán.
 I leaned against the tree.,Man drachká tekah dát.
 I love competing with you.,Maná gón taw mokábelah kanag wassh bit.
 I want to eat out tonight.,Man lóthán ke enshapi dhanná warag bwarán.
 I was nearly hit by a car.,Maná gádhiéá janagi kot.
-I watched TV this morning.,Man marchi sabáhá thiwi cháret.
+I watched TV this morning.,Man marchi sabáhá Thi Wi cháret.
 I'll give you this camera.,Man tará é kémráyá dayán.
 I'm not going to tell Tom.,Man Thámá nagoshán gón.
 It was the right decision.,Rástén paysalah hamesh at.
@@ -22799,10 +23025,10 @@ The meeting was held here.,Diwán edá barjam dárag but.
 Today is Independence Day.,Marchi ájuiay róch ent.
 Tom and Mary both laughed.,Thám o Maryam doénán kandet.
 Tom didn't touch anything.,Thámá hecch chizz dast najat.
-Tom hates going to school.,Thámá cha eskulay rawagá naprat ent.
+Tom hates going to school.,Thámá cha eskólay rawagá naprat ent.
 Tom wanted an economy car.,Thámá arzángozárén gádhié lóthet.
 "We need action, not words.","Márá gapp na, kár pakár ent."
-We watched TV after lunch.,Má sobáregá rand thiwi cháret.
+We watched TV after lunch.,Má sobáregá rand Thi Wi cháret.
 Were you tired last night?,Taw dushi dam bortagat?
 Whales feed on small fish.,Lidhay warák kasánén máhig ant.
 What time are you leaving?,Taw che wahdá sar geray?
@@ -22838,6 +23064,34 @@ Nobody believes your lies!,Tai drógán kass báwar nakant!
 Keep your evil mouth shut!,Tai sellén dapá band kan!
 Bad speaking harms people!,Badén gapp mardomán táwán dayant!
 Insults break friendships!,Béezzati sangatiá próshit!
+Twenty stadiums are ready.,Bist gwázijáh tyár ant.
+Twenty six fans are happy.,Bist o shash shaydái gal ant.
+Twenty seven players fell.,Bist o hapt gwáziger kaptant.
+Thirty six balls are gold.,Si o shash ból telah ant.
+Forty one balls are ready.,Chel o yakk ból jádhi ant.
+Forty six fans look there.,Chel o shash shyadái ódá chárant.
+Forty seven heroes jumped.,Chel o hapt bámardá dawr kot.
+Fifty teams love football.,Panjá thímán pothbál dóst bit.
+Fifty three fans are fast.,Panjá o say shaydai téz ant.
+Sixty three teams are big.,Shasht o say thím mazan ant.
+Eighty matches are played.,Hashtád bázi layb butag.
+Eighty five fans are here.,Hashtád o panch shaydái edá ant.
+Eighty nine fans run fast.,Hashtád o nóh mardom téz tachant.
+One hundred matches today.,Marchi yakk sad layb ant.
+Two hundred fans are here.,Do sad shaydái edá ant.
+Six thousand fans shouted.,Shash hazár shaydayá kár dát.
+Eight thousand heroes won.,Hasht hazár bámardá katthet.
+Seven million heroes play.,Hapt melyun bámard layb kanant.
+One million cups are gold.,Yakk melyun kapp telah ant.
+Honour killing is a crime.,Gayratay kósh jormé.
+She was killed for honour.,Á pa gayrat kosshag but.
+She chose her own husband.,Áiá wati logwája gechén kot.
+He confesses to the crime.,Á wati jormá mannit.
+We demand justice for her.,Má pa áiá ensáp lóthén.
+They destroyed her dreams.,Áyán áiay wáb barbád kotant.
+They threatned her before.,Áyán á pésará ham béhár datag.
+You cannot escape justice.,Taw chá hakká narakkay.
+He must pay for his crime.,Áiá wati jormay sezá allamá berasit.
 A good idea occurred to me.,Maná sharrén hayálé atk.
 "Above all, watch your diet.","Drostán géshter, wati wardá bedár."
 All you need to do is wait.,"Tará hecch kanagi naent, bass wadár kanagi ent."
@@ -22858,11 +23112,11 @@ Can you see the difference?,Taw parká dist kanay?
 Could you help me find Tom?,Taw Thámay dar géjagá maná madat kot kanay?
 Destiny is sometimes cruel.,Kesmat baré baré zolm kant.
 Did you find your passport?,Taw wati páspóth dist?
-Did you go to school today?,Taw marchi eskulá shotay?
+Did you go to school today?,Taw marchi eskólá shotay?
 Did you receive the letter?,Tará kágad ras et?
 Do I look like I'm kidding?,Tai hayálá man maskaráay wadhá án?
 Do you come here every day?,Taw edá harróch ká ay?
-Do you go to school by bus?,Taw eskulá basay sará raway?
+Do you go to school by bus?,Taw eskólá basay sará raway?
 Do you have an appointment?,Tará hókéné hast?
 "Do you swim very fast, too?",Taw ón ózhnágá tézay?
 "Do you swim very fast, too?",Taw ham ózhnágá tézay?
@@ -23044,7 +23298,7 @@ My father bought a new car.,Mani petá nókén kárgádhié zort.
 My father bought a new car.,Mani petá nókén gádhié zort.
 My father has a restaurant.,Mani petá hóthalé hast.
 My son entered high school.,Mani bacch háiayskólá dákel but.
-My son entered high school.,Mani bacch hái eskulá dákel but.
+My son entered high school.,Mani bacch hái eskólá dákel but.
 Neither Tom nor I did that.,NaThámá o nay man chó kot.
 Neither Tom nor I did that.,Na Thámá o nay man chó kot.
 No one expected Tom to win.,Kassá gomán nayat ke Thám katthit.
@@ -23070,9 +23324,9 @@ Put the carrots in the pot.,Gazzerkán darpá kan.
 Rome wasn't built in a day.,Rum yakkén róchá addh kanag nabut.
 She asked me how old I was.,Áiá mani omr jost kot.
 She didn't come before two.,Á doá pésar nayatk.
-She goes to school on foot.,Á pádáná eskulá rawt.
+She goes to school on foot.,Á pádáná eskólá rawt.
 She has five older sisters.,Áiá panch masterén gohár hast.
-She likes her school a lot.,Áiá wati eskul sakk dóst bit.
+She likes her school a lot.,Áiá wati eskól sakk dóst bit.
 She plays tennis every day.,Á harróch thénes kant.
 She poured me a cup of tea.,Áiá cháhé pálát o maná dát.
 She speaks relatively fast.,Á chó téz gapp jant.
@@ -23125,14 +23379,14 @@ This is a low-budget movie.,É kamharchén támoré.
 This is never going to end.,É beh nakotthit.
 This is really interesting.,É rásti delchasp ent.
 This is why I quit the job.,Hamé sawabá man é nawkari yalah dát.
-This school has no heating.,É eskulá garménag nést.
+This school has no heating.,É eskólá garménag nést.
 This surprised many people.,Eshiá bázén mardomé hayrán kot.
 This wall is painted green.,É diwál shinzén rang jatag.
 This word comes from Greek.,É gál cha yunániá kayt.
 This word has two meanings.,É labzay do máná ant.
 Today I'm not feeling well.,Marchi man wassh wassh nayán.
 Tom and I are here to help.,Man o Thám pa madatá óshtátagén.
-Tom comes to school by car.,Thám gádhiay sará eskulá kayt.
+Tom comes to school by car.,Thám gádhiay sará eskólá kayt.
 "Tom doesn't hate you, Mary.","Thám gón taw naprat nakant, Maryam."
 "Tom doesn't hate you, Mary.","Thám cha taw naprat nakant, Maryam."
 Tom doesn't look convinced.,Thám goshay deljam naent.
@@ -23174,7 +23428,7 @@ We can do nothing about it.,É bárawá má hecch kot nakanén.
 We didn't see her anywhere.,Má á hecch jágah nadist.
 We enjoyed playing cricket.,Má cha kerkethay laybá mawj kot.
 We had unexpected visitors.,May kerrá anchén sayláni atk ke márá gomán nést at.
-We have no school tomorrow.,Márá bándá eskul nést.
+We have no school tomorrow.,Márá bándá eskól nést.
 We have to do the shopping.,Márá haridári kanagi ent.
 We have to start somewhere.,Márá cha jáhéá bendát kanagi ent.
 We just need a little time.,Márá bass kammé wahd pakár ent.
@@ -23341,13 +23595,11 @@ Are you going to visit Tom?,Taw Thámay gendoká raway?
 Did you receive the letter?,Tará kágad raset?
 Do you come here every day?,Taw edá harróch káay?
 Don't move till I get back.,"Dánke man padá nayáyán, masor."
-Don't you want to watch TV?,Taw thiwi chárag nalóthay?
 He decided to quit smoking.,Áiá segréthay yalah kanagay paysalah kot.
 He invited me to his house.,Áiá máná wati gesá lóthet.
 He is talking on the phone.,Á pawná gappá ent.
 He plays World of Warcraft.,Á Waldháp Wárkrápthay kant.
 I can't wait till tomorrow.,Man dán bándátá wadár kot nakanán.
-I don't watch TV very much.,Man sakk báz thiwi nachárán.
 I need to apologize to Tom.,Maná cha Thámá paheli lóthag pakár ent.
 I really enjoy coming here.,Maná eday áyag rásti wassh bit.
 I should have left earlier.,Man pésarterá dar atkénán.
@@ -23393,7 +23645,6 @@ What would you like to eat?,Taw ché warag lóthay?
 Why are you being so noisy?,Taw incho shór parchá kanagá ay?
 Why are you so tired today?,Taw marchi parchá incho dam bortag?
 Why does Tom worry so much?,Thám parchá incho paréshán bit?
-Would you like to watch TV?,Taw thiwi chárag lóthay?
 You and I are the same age.,Man o taw hamomr én.
 You must fulfill your duty.,Taw lázom wati parzá purah kan.
 You must get ready quickly.,Taw lázom goshádiá tayár bi.
@@ -23414,6 +23665,27 @@ The war changed everything.,Jangá harchiz badal kot.
 You talk too much nonsense!,Taw báz bésoddén gapp kanay!
 Your talk is pure nonsense!,Tai gapp sarjamá bésench ant!
 I will not listen to abuse!,Man záh gósh nadárán!
+Twenty two heroes are fast.,Bist o do bámard téz ant.
+Twenty three balls are new.,Bist o say ból nók ant.
+Twenty four teams are here.,Bist o chár thím edá ant.
+Twenty eight cups are here.,Bist o hasht kapp edá ant.
+Thirty three fans run fast.,Si o say shaydái téz tachant.
+Thirty seven teams arrived.,Si o hapt thím atk.
+Forty five goals were high.,Chel o panch gól gésh atant.
+Fifty two matches are here.,Panjá o do layb edá ant.
+Seventy four stadiums open.,Haptád o chár gwázijáh pach ant.
+Seventy seven players fell.,Haptád o hapt gWaziger kaptant.
+Seventy nine cups are gold.,Haptád o nóh kapp telah ant.
+Eighty three teams arrived.,Hashtád o say thím atk.
+Ninety five fans are happy.,Nawad o panch shaydái gal ant.
+Ninety six balls are ready.,Nawad o shash ból jádhi ant.
+Nine million people see us.,Nóh melyun mardom márá gendant.
+Ten million fans are happy.,Dah melyun shaydái gal ant.
+Nine billion matches total.,Drost Nóh belyun layb ant.
+The village elders decided.,Halkay masterán paysalah kot.
+The judge read the verdict.,Káziá paysalah want.
+Life imprisonment sentence.,Omr kayday sezá.
+No forgiveness for killers.,Pa koshendahán hecch paheli nést.
 A lot of tourists come here.,Edá bázén saylánié kayt.
 A mouse is a timid creature.,Moshk rittacharzén sorendahé.
 A sane man wouldn't do that.,Sárén mardom chosh nakant.
@@ -23569,7 +23841,7 @@ I will transfer the officer.,Man apsará badal kanán.
 I will transfer the teacher.,Man ostádá badal kanán.
 I wish you'd told me before.,Drégatén taw maná pésará begoshtén gón.
 I won't talk to him anymore.,Man ni gón áiá gapp najanán.
-I work in a language school.,Man zobánay eskuléá kárá án.
+I work in a language school.,Man zobánay eskóléá kárá án.
 I would do anything for Tom.,Man pa Thámá harchizz kanán.
 I would like a tourist visa.,Man sayláni wizáé lóthán.
 I'd like to sing you a song.,Man lóthán ke pa taw sawté bejanán.
@@ -23635,7 +23907,7 @@ My father has gone to China.,Mani pet chiná shotag.
 My father is in good health.,Mani pet dráh o dhaddh ent.
 My future remains uncertain.,Mani áendag tahárdém ent.
 My head still ached dizzily.,Mani sar angat taragá ent.
-My house is near the school.,Mani ges eskulay nazzikká ent.
+My house is near the school.,Mani ges eskólay nazzikká ent.
 My little finger is swollen.,Mani chonki lankok gwát ent.
 My mother has gone to India.,Mani mát Hendostáná shotag.
 My mother left me a message.,Mani mátá pa man paygámé eshtag.
@@ -23840,7 +24112,7 @@ I would do anything for Tom.,Man pa Thámá harchi kanán.
 I'm neither rich nor famous.,Man na sérán na námdár án.
 I'm taking a walk in a park.,Man párkéá payádarawi kanagá án.
 I've been learning to drive.,Man gádhiay táchag dar baragá bitagán.
-My house is near the school.,Mani ges eskulay nazziká ent.
+My house is near the school.,Mani ges eskólay nazziká ent.
 She rides a motorcycle well.,Á parpath sharriá tátk kant.
 That was what Tom told Mary.,Hamé gapp at ke Thámá Maryamárá gosht.
 They believed he was honest.,Áyán yakin at ke á imándáré.
@@ -23901,7 +24173,6 @@ I'm taking a walk in a park.,Man párkéá pád janagá án.
 I've lost your phone number.,Man tai pawn lambar gár kotag.
 Is it so difficult to write?,Nebeshtah kanag anchó grán ent?
 It is an endangered species.,É hatarámáchén záté.
-My TV is on the fritz again.,Mani thiwi padá haráb ent.
 Not everybody can be a poet.,Harkas sháeré bit nakant.
 Read the bottom of the page.,Tákdémay boná bwán.
 She saved a hundred dollars.,Áiá sad dhálar sar áort.
@@ -23933,6 +24204,28 @@ We take wheat to the market.,Má gandimá bázárá barén.
 I am offended by your words!,Man cha tai gappá delranj án!
 Your behavior is disgusting!,Tai kár bazzhenák ent!
 Do not speak bad words here!,Edá badén gapp makan!
+Thirty eight matches remain.,Si o hasht layb hast.
+Forty four stadiums are big.,Chel o chár laybjáh mazan ant.
+Fifty four stadiums are new.,Panjá o chár laybjáh nók ant.
+Fifty five heroes won today.,Panjá o panch bámardá marchi katthet.
+Fifty seven goals were nice.,Panjá o hapt gól jwán atant.
+Sixty two players are ready.,Shasht o do laybari jádhi ant.
+Eighty eight matches remain.,Hashtád o hasht layb hast ant.
+Ninety two players are fast.,Nawad o do laybari téz ant.
+Ninety seven heroes trained.,Nawad o hapt bámardán hélkári kot.
+Seven hundred cups are gold.,Hapt sad kapp telah ant.
+Eight hundred fans run fast.,Hasht sad mardom téz tachant.
+One thousand fans are happy.,Yakk hazár shaydái gal ant.
+Two thousand balls are here.,Do hazár ból edá ant.
+Three thousand players came.,Say hazár laybari atkant.
+Four thousand teams compete.,Drost chár hazár thím ant.
+Seven thousand goals scored.,Hapt hazár gól but.
+Three million tickets ready.,Say melyun thikatt jádhi ant.
+They call it honour killing.,Á eshiá gayrati kósh goshant.
+The community stayed silent.,Chágard bétawár but.
+It is a violation of rights.,É hakkáni pádmáli ent.
+Every woman deserves safety.,Har zálbul salámatiay hakkdár ent.
+But it won't bring her back.,Balay é áiá bérand nakanit.
 A dog is a man's best friend.,Kochekk mardomay sharterén sangat ent.
 A good idea crossed his mind.,Áiay sassáyá sharrén hayálé atk.
 A hungry man is an angry man.,Shodigén mardom damáná zahr gept.
@@ -23987,7 +24280,7 @@ He couldn't possibly succeed.,Gomán esh ent ke á sóbmand nabut.
 He did what he had been told.,"Harchi ke áiá goshag butag at, koty."
 He doesn't achieves his aims.,Á wati mólán puró nakant.
 He is allergic to house dust.,Áiá gesay danz nasáchit.
-He is always late for school.,Á modám eskulá béwahdá kayt.
+He is always late for school.,Á modám eskólá béwahdá kayt.
 He is anxious to go with you.,Á gón taw rawagá takánsar ent.
 He is more lucky than clever.,Á inchok shiwár naent chó ke bahtáwar ent.
 He is preparing for the test.,Á thesthay tyáriá kanagá ent.
@@ -24150,7 +24443,7 @@ She has a son and a daughter.,Áiá yakk mardénchokké o yakk janénchokké has
 She is almost as tall as you.,Á borziá kamm o gésh tai kaddá bit.
 She left him for another man.,Áiá dege mardéay wástá á yalah dát.
 She patiently waited for him.,Áiá pa sabr áiay wadár kot.
-She rides her bike to school.,Á saynkalay sará eskulá kayt.
+She rides her bike to school.,Á saynkalay sará eskólá kayt.
 She told me to open the door.,Áiá maná gosht ke darwázagá pach kan.
 She turned around and smiled.,Áiá chakk jat o bechkand et.
 She turned down his proposal.,Áiá áiay sój nazort.
@@ -24217,7 +24510,7 @@ Tom carefully lifted the box.,Thámá gón hayáldári piti chest kot.
 Tom carefully lifted the box.,Thámá gón sambáli piti chest kot.
 Tom didn't tell us the truth.,Thámá gón má rástén gapp naj at.
 Tom finally stopped laughing.,Godhsará Thámá kandag band kot.
-Tom has never gone to school.,Thám beh eskulá nashotag.
+Tom has never gone to school.,Thám beh eskólá nashotag.
 Tom is a construction worker.,Thám bánbandén mozzuré.
 Tom is a very good craftsman.,Thám sharrén kárigeré.
 Tom is going to love it here.,Thámá edá wassh bit.
@@ -24300,8 +24593,8 @@ You had me completely fooled.,Taw maná sharr rad dát.
 You have to follow the rules.,Tará rahbandni randgiri kanagi ent.
 You have to get enough sleep.,Tará maksadá wapsagi ent.
 You must follow office rules.,Tará kárgesay rahbandáni randgiri allamá kanagi ent.
-You must follow school rules.,Tará eskulay rahbandáni randgiri lázom kanagi ent.
-You must follow school rules.,Tará eskulay rahbandáni randgiri allamá kanagi ent.
+You must follow school rules.,Tará eskólay rahbandáni randgiri lázom kanagi ent.
+You must follow school rules.,Tará eskólay rahbandáni randgiri allamá kanagi ent.
 You should come to Australia.,Tará Ástrayliáyá áyag lóthit.
 You should keep your promise.,Tará wati wádah dárag lóthit.
 You should obey your parents.,Tará wati mát o petáni parmánbardári kanag lóthit.
@@ -24412,6 +24705,20 @@ She bought new running shoes.,Áiá pa tachagá nókén kawsh bahá zort.
 Wheat is expensive this year.,É sálá gandim grán ent.
 They are talking about peace.,Á ásudagiá trán ant.
 They are talking about peace.,Á ásidagiá trán ant.
+Twenty five matches are left.,Bist o panch layb pasht kaptag.
+Forty eight matches are over.,Chel o hasht layb halás ant.
+Fifty six players are strong.,Panjá o shash gwáziger zreng ant.
+Fifty eight matches tomorrow.,Bándá panjá o hasht layb ant.
+Sixty eight matches are fast.,Shasht o hasht layb téz ant.
+Seventy five heroes are here.,Haptád o panch bámard edá ant.
+Seventy six matches are over.,Haptád o shash layb butagant.
+Seventy eight fans are happy.,Haptád o hasht shaydái gal ant.
+Eighty four stadiums are big.,Hashtád o chár hand mazan ant.
+Four hundred players trained.,Chár sad gwázigerán hélkári kot.
+Six hundred stadiums are big.,Shash sad gwázijáh mazan ant.
+Nine hundred goals were made.,Nóh sad gól butagat.
+Nine thousand matches remain.,Nóh hazár layb hast ant.
+Seven billion fans are happy.,Hapt belyun shaydái gal ant.
 A dolphin is a kind of mammal.,Gókén yakk tahréay shirendagé.
 A good coach trains this team.,É thimá sharrén kóché hélkári dant.
 "Above all, children need love.","Drostán géshter, zahgán mehr pakár ent."
@@ -24511,8 +24818,8 @@ How will we pay our debts now?,Ni má wati wámán chón dayén?
 I admire his skill at driving.,Man áiay dheléwariay honerá sádhá án.
 I admire you for your courage.,Tai hemmat satá karzit.
 I also attended Tom's wedding.,Thámay sirá man ón shotagán.
-I am a student of this school.,Man é eskulay maktabié án.
-I am a student of this school.,Man é eskulay tálebé án.
+I am a student of this school.,Man é eskólay maktabié án.
+I am a student of this school.,Man é eskólay tálebé án.
 I am happy to hear your voice.,Man galán ke tai tawár eshkot.
 I appreciate your cooperation.,Man tai dazkomakkiá sádhá án.
 I came here hoping to see Tom.,Man hamé ométá edá atkán ke Thámá gendán.
@@ -24550,8 +24857,8 @@ I learned to live without her.,Man bé áiá zendag bayagay wadh dar bort.
 I like coffee better than tea.,Maná kahwá cha cháhá washter bit.
 I live close to a golf course.,Man gólpay laybjáhéay nazzikká jahmenend án.
 I love playing music with you.,Maná tai pajjiá sázay janag wassh bit.
-I met her on my way to school.,Man dém pa eskulá rawagay wahdá gón áiá dhikk dát.
-I met Tom on my way to school.,Man dém pa eskulá rawagay wahdá gón Thámá dochár kaptán.
+I met her on my way to school.,Man dém pa eskólá rawagay wahdá gón áiá dhikk dát.
+I met Tom on my way to school.,Man dém pa eskólá rawagay wahdá gón Thámá dochár kaptán.
 I must have my watch repaired.,Maná wati gadhiál lázom addh kanáénag lóthit.
 I must have my watch repaired.,Maná wati gadhiál allamá addh kanáénagi ent.
 I owe my success to my friend.,Mani sóbmandi mani sangatay barkatá ent.
@@ -24640,7 +24947,7 @@ May I have a sip of your wine?,Man cha tai wáená gotthé begerán?
 Maybe you can help me do that.,Balkén ke eshiay kanagá taw maná madat kot kanay.
 Maybe you can help me do that.,Bit kant ke eshiay kanagá taw maná madat kot kanay.
 Music is a universal language.,Zémer jahángirén zobáné.
-My brother skips school often.,Mani brát báz bará eskulá sar gwaz kant.
+My brother skips school often.,Mani brát báz bará eskólá sar gwaz kant.
 My cholesterol levels are low.,Mani kolestrólay lasun jahl ent.
 My computer needs to be fixed.,Mani kampyuthar addh kanag lóthit.
 My father bought me a bicycle.,Mani petá pa man saynkalé gept.
@@ -24664,7 +24971,7 @@ Please bring it back tomorrow.,Mehrabáni kan eshiá bándá padá byár.
 Please close the door quietly.,Mehrabáni kan darwázagá bétawárá band kan.
 Please close the door quietly.,Mehrabáni kan darwázagá hámóshiá band kan.
 Please help me take this down.,Mehrabáni kan eshiay karójagá maná madat kan.
-School begins at eight-thirty.,eskul hasht o némá bendát bit.
+School begins at eight-thirty.,Eskól hasht o némá bendát bit.
 Shake the bottle before using.,Kármarzá pésar bótalá sorén.
 She asked him if he was happy.,Áiá á jost kot ke taw wassh ay.
 She can count from one to ten.,Á yakká beger dán dahá hesáb kot kant.
@@ -24787,7 +25094,7 @@ Try to remember what happened.,Harchi but áiay yát kanagay johdá bekan.
 Watermelons are in season now.,Ni kitthagay mósom ent.
 We did not attend his wedding.,Má áiay sirá nashotén.
 They enjoyed playing baseball.,Áyán baysbálay laybá mawj kot.
-We have a nice school library.,May eskulá shawkén ketábjáhé hast.
+We have a nice school library.,May eskólá shawkén ketábjáhé hast.
 We have time. There's no rush.,May kerrá wahd hasteshtáp naent.
 We immediately became friends.,Má damáná sangat bitén.
 We must do away with violence.,Márá jang o chóp halás kanag lóthit.
@@ -24903,7 +25210,7 @@ I was caught in a traffic jam.,Man thraypek jámá passetán.
 I went for a walk in the park.,Man pa payádarawiá párká shotán.
 I write poems in my free time.,Man wati paiyakén wahdá jawakk nebeshtah kanán.
 It looks like Tom's been busy.,Gendagá Thám dazgatth bitag.
-My brother skips school often.,Mani brát báz bará eskulá sar gawzit.
+My brother skips school often.,Mani brát báz bará eskólá sar gawzit.
 My father bought me a bicycle.,Mani petá pa man saynkalé zort.
 Nobody answered the telephone.,Kassá thélpun jawáb nakot.
 She asked him if he was happy.,Áiá á jost kot ke taw wayashay.
@@ -24961,6 +25268,22 @@ The match ended before sunset.,Bází cha rózardá pésar halás but.
 The agricultural work is done.,Kesht o kesháray kár halás but.
 We need a Balochi translation.,Márá Balóchi rajánkáré pakár ent.
 Rude words show bad character!,Badén gapp badén kerda pésh dárant!
+Thirty four stadiums are open.,Si o chár gwázijáh pach ant.
+Sixty four stadiums are ready.,Shasht o chár hand tyár ant.
+Sixty seven heroes train hard.,Shasht o hapt bámard sakk hélkári kanant.
+Seventy three balls are ready.,Haptád o say ból jádhi ant.
+Ninety three matches are here.,Nawad o say layb edá ant.
+Ninety four stadiums are open.,Nawad o chár laybjáh pach ant.
+Ninety eight matches are over.,Nawad o hasht layb halás butant.
+Three hundred balls are ready.,Say sad ból jádhi ant.
+Twelve thousand players train.,Dowázdah hazár gwáziger hélkári kanant.
+Three billion people are here.,Say belyun mardom edá ant.
+One thousand matches are over.,Yakk hazár layb halás butant.
+Key issues are still unsolved.,Mazanén jédhah angat nagisshetagant.
+They broke her heart and life.,Áyán áiay del o zend prósht.
+The investigation has started.,Patth o pól bendát but.
+He claims it was self-defence.,Á goshit é wati rakkénag at.
+No tradition justifies murder.,Hecch dód kóshá jáez krár nadant.
 A fire broke out near my house.,Mani lógay nazzikká ás kapt.
 "Answer the telephone, will you?","Taw thélpunay passawá day, genday?"
 "Answer the telephone, will you?","Taw thélpunay passawá dayay, genday?"
@@ -25160,7 +25483,7 @@ I was late for the appointment.,Man hókéná béwahd kaptán.
 I was taken in by the salesman.,Bahákárá maná baddh et.
 I went to bed later than usual.,Man cha pésarigá randter waptán.
 I went to high school with Tom.,Man Thámay pajjiá háiayskólá shotán.
-I went to high school with Tom.,Man gón Thámá hái eskulá shotán.
+I went to high school with Tom.,Man gón Thámá hái eskólá shotán.
 I will stay here all this week.,Man é dráhén haptagá hamedá jallán.
 I woke up at five this morning.,Marchi sabáhá man panchá pád atkán.
 I work every day except Sunday.,Man béke Yakshambehá harróch kár kanán.
@@ -25210,7 +25533,7 @@ Kyoto is not as large as Osaka.,Kyótaw chó osákahá mazan naent.
 Last weekend was boring for me.,Gwastagén haptagán pa man békayp at.
 Let me help you with your work.,Bell ke man tai kárá tará madat bekanán.
 Let's meet here again tomorrow.,Byá bándá padá hamedá dochár kapén.
-Let's play tennis after school.,Byá eskulá rand thénes kanén.
+Let's play tennis after school.,Byá eskólá rand thénes kanén.
 Let's ponder that for a moment.,Byá damáné eshiay sará chár o bicchár kanén.
 Let's sing the song in English.,Byá sawtá engréziá janén.
 Let's split the bill four ways.,Byá bellá chár wadhá bahr kanén.
@@ -25257,7 +25580,7 @@ My plane leaves at six o'clock.,Mani báli shash bajá rawt.
 My shoes are bigger than yours.,Mani champal cha taigán master ant.
 My sister goes to a university.,Mani gohár dáneshgáhéá rawt.
 My uncle lives in an apartment.,Mani náku apárthmenthéá jahmenend ent.
-My uncle lives near the school.,Mani náku eskulay nazzikká jahmenend ent.
+My uncle lives near the school.,Mani náku eskólay nazzikká jahmenend ent.
 My wallet was stolen yesterday.,Mani bathwá zi dozzg but.
 Next spring I want to graduate.,Démay baháray mósomá man lóthán ke grayjuayshan bekanán.
 Next spring I want to graduate.,Démay bahárgáhá man lóthán ke grayjuayshan bekanán.
@@ -25266,8 +25589,8 @@ None of that actually happened.,Esháni tahá yakké ham rásti nabut.
 "Now, let me ask you a question.",Ni man tará josté kanán.
 One of my suitcases is missing.,Mani shantá án yakké gár ent.
 Our father goes to work by car.,May pet gádhiay sará kárá rawt.
-Our school is near the station.,May eskul esthéshanay nazzikká ent.
-Our school was founded in 1990.,May eskulay bonpad 1990á ér kanag butag at.
+Our school is near the station.,May eskól esthéshanay nazzikká ent.
+Our school was founded in 1990.,May eskólay bonpad 1990á ér kanag butag at.
 Paris is the capital of France.,Payres Paránsay bondar ent.
 Perhaps she will come tomorrow.,Begenday á bándá kayt.
 Perhaps you should do that now.,Begenday tará é kár anni kanag lóthit.
@@ -25338,8 +25661,8 @@ She waited for hours and hours.,Áiá ganthaháni ganthah wadár kot.
 She warmed herself by the fire.,Áiá ásay kerrá watá garm dát.
 She warned him not to go alone.,Áiá á habrdár kot ke éoká maraw.
 She was afraid to travel alone.,Áiá éoká sapar kanag tors et.
-She was almost late for school.,Á pa eskulá dér butag at.
-She was almost late for school.,Áiá pa eskulá béwahd butag at.
+She was almost late for school.,Á pa eskólá dér butag at.
+She was almost late for school.,Áiá pa eskólá béwahd butag at.
 She was arrested by the police.,Á polisá gept.
 She was buried in her hometown.,Á wati hankéná kall kotesh.
 She was on the verge of crying.,Á gréwagi at.
@@ -25451,7 +25774,7 @@ We danced well at your wedding.,Má tai sirá wassh nách kot.
 We discussed the plan with him.,Má gón áiá shawray bárawá gapp o trán kot.
 We found the front door locked.,Má dist ke démay darwázag kobl ent.
 We played basketball yesterday.,Má zi básketbál kot.
-We wear uniforms at our school.,Má eskulá wardi gwará kanén.
+We wear uniforms at our school.,Má eskólá wardi gwará kanén.
 We were just talking about you.,Má anni tai bárawá gappá atén.
 What did she write in the will?,Áiá wasiatá ché nebeshtah kot?
 What did Tom write in the will?,Thámá wasiatá ché nebeshtah kot?
@@ -25573,15 +25896,15 @@ My brother has become a priest.,Mani brát dini péshwáé jódh bitag.
 My father lives in the country.,Mani pet kucchagá neshtag.
 My parents live in the country.,Mani mát o pet kucchagá neshtagant.
 My uncle lives in an apartment.,Mani náku apáthmenthéá neshtag.
-My uncle lives near the school.,Mani náku eskulay nazziká neshtag.
-Our school is near the station.,May eskul esthéshanay nazziká ent.
-Our school was founded in 1990.,May eskulay bonpad 1990á ér kanag but.
+My uncle lives near the school.,Mani náku eskólay nazziká neshtag.
+Our school is near the station.,May eskól esthéshanay nazziká ent.
+Our school was founded in 1990.,May eskólay bonpad 1990á ér kanag but.
 She has a lot of English books.,Áiay kerrá báz Engrézi ketáb hast.
 She has very few close friends.,Áiay nazzikén sangat sakk kamm ant.
 She lives in a two-story house.,Á dotabakkén geséá neshtag.
 She may not come here tomorrow.,Balkén á bándá edá atk makant.
 She used to be a very shy girl.,Á sakkén lajjuén jenekké bitag.
-She was almost late for school.,Áiá pa eskulá béwahd bitag at.
+She was almost late for school.,Áiá pa eskólá béwahd bitag at.
 This is a list of what we need.,"Harchi ke márá pakár ent, é hamá áni ladhé."
 Tom and Mary went to the beach.,Thám o Maryam tayábá shotant.
 Tom causes me a lot of trouble.,Thám pa man báz janjál kárit.
@@ -25623,6 +25946,13 @@ The match drew a massive crowd.,Bázíá sakk báz mahluká gón watá delgósh 
 The two countries are fighting.,Doén molk medhetagant.
 The soldiers are at the border.,Sepáhig simsará ant.
 Education gives girls a choice.,Tálim jenekkán gechéná dant.
+Forty nine players train today.,Chel o nóh laybari marchi hélkári kanant.
+Eleven thousand balls are gold.,Yázdah hazár ból sohr ant.
+Hundred thousand fans are here.,Sad hazár shaydái edá ant.
+One million fans love football.,Yakk arab shaydáiyán pothbál dóst bit.
+Eight billion people look here.,Hasht belyun mardom edá chárant.
+The family committed the crime.,Kahólá jorm kot.
+Medical reports confirm murder.,Medhikal rapóthá kósh pakká but.
 A computer is a complex machine.,kampyuthar péchenén meshiné.
 A penny saved is a penny earned.,Zarray darp kanag zarray katthagay baróbar ent.
 A refrigerator keeps meat fresh.,Peréj góshtá tázag dárit.
@@ -25699,8 +26029,8 @@ He will never break his promise.,Á beh wati wádahá napróshit.
 "Hey, what are you talking about?","Adhay, taw chéay bábatá gappá ay?"
 "Hey, what are you talking about?","Adhay, taw chéay bárawá gappá ay?"
 His help is indispensable to us.,Áiay madat pa má hazhdari ent.
-His mother was a school teacher.,Áiay mát eskulay ostádé at.
-His mother was a school teacher.,Áiay mát eskuli ostádé at.
+His mother was a school teacher.,Áiay mát eskólay ostádé at.
+His mother was a school teacher.,Áiay mát eskóli ostádé at.
 His son became a famous pianist.,Áiay bacch námdárén pyánaw janóké jódh but.
 How could you not say something?,Taw chetawr hecch gosht nakanay?
 How did Tom know where Mary was?,Thámá chón zánt ke Maryam kojá ent?
@@ -26108,7 +26438,7 @@ We use a lot of water every day.,Má harróch gappadhé áp kármarz kanén.
 We went to the museum last week.,Má gwastagén haptagá myuziamá shotén.
 "We'll find a solution, I'm sure.","Má tawjilé dar géjén, man jazmán."
 We've made arrangements for you.,Má pa taw bandobast kotag.
-Were you at school at that time?,Taw á wahdá eskulá atay?
+Were you at school at that time?,Taw á wahdá eskólá atay?
 What are you punishing them for?,Taw áyán parchá shezá dayagá ay?
 What are you thinking about now?,Taw anni chéay bárawá hayál kanagá ay?
 What did you put into the boxes?,Taw dhabbaháni tahá ché mán kot?
@@ -26268,6 +26598,11 @@ The hockey match ended in a tie.,Hákiay bází sar pa sará halás but.
 She is a talented young athlete.,Á jwánén o warnáén gwázigeré.
 You brought shame to the family!,Taw hándánay sar jahl kot!
 Everyone hates your rude speech!,Harkas tai badtamizi gappán gón naprat kant!
+He kicked the ball into the net.,Áiá ból rogay tahá shuth kot.
+The uranium will be downblended.,Yuréniom kamm tarénang bit.
+The US sees this as a major win.,Amrikay nezzá é mazanén sóbmandié.
+The state must protect everyone.,Reyásat allamá harkasá berakkénit.
+The father committed the murder.,Petá kosht.
 A man without a woman is nothing.,Bé janéná mardén hecché naent.
 A toothache deprived me of sleep.,Dantánay dardá maná wapsagá naesht.
 A toothache deprived me of sleep.,Dantánay dardá maná cha wábá zebahr kot.
@@ -26336,7 +26671,7 @@ He will not absorb these charges.,Á é bohtámán jazb nakant.
 He will often forget his promise.,Á géshter wati wádahá béhál kant.
 He works in the planning section.,Á shawrbandiay bahragá kárá ent.
 His father in law is a physician.,Áiay náku tabbibé.
-His son was expelled from school.,Áiay bacch cha eskulá kasshag but.
+His son was expelled from school.,Áiay bacch cha eskólá kasshag but.
 How did you know what she wanted?,Taw chón zánt ke á ché lóthit?
 How many are there in your class?,Tai kelásá chinchok ant?
 "Hurry up, or you'll miss the bus.","Goshád kan, agan nabasá pasht kapay."
@@ -26463,7 +26798,7 @@ Keep medicine away from children.,Darmánán cha chokkán dir bedár.
 Kenya became independent in 1963.,Kényá 1963á ázát but.
 Let me know if you hear anything.,Agan taw chizzé eshkot maná hál day.
 Let's discuss that problem later.,Byá é jédhahay sará randterá gapp janén.
-Let's play baseball after school.,Byá eskulá rand baysbál kanén.
+Let's play baseball after school.,Byá eskólá rand baysbál kanén.
 Let's talk about why you're here.,Byá é bábatá gapp janén ke taw parchá edá ay.
 Let's talk about why you're here.,Byá é bárawá gapp janén ke taw parchá edá ay.
 "Look at the blackboard, everyone.","Syahtagá bechár et, haryakké."
@@ -26495,8 +26830,8 @@ Please tell us about your family.,Mehrabáni kan wati kahólay bárawá márá b
 Quite a few people have two cars.,Bázén mardoméay kerrá do kárgádhi hast.
 Quite a few people have two cars.,Bázén mardoméay kerrá do gádhi hast.
 Remember what happened last year.,Yát kan ke pári ché but.
-School begins at half past eight.,eskul hasht o némá bendát bit.
-School begins at half past eight.,eskul hasht o némá shoru bit.
+School begins at half past eight.,Eskól hasht o némá bendát bit.
+School begins at half past eight.,Eskól hasht o némá shoru bit.
 Shall we go to my place or yours?,Mani jágahá rawén yá taigá?
 She asked me if he was all right.,Áiá cha man jost kot ke á dhaddh o jódh ent.
 She didn't give me my money back.,Áiá mani zarr padá maná nadátant.
@@ -26692,7 +27027,7 @@ We went out in spite of the rain.,Hawr bayagá at bale padá ón má dhanná sho
 We went out in spite of the rain.,Hawr bayagá at bale má dhanná shotén.
 We went to the movies last night.,Má dushi támorjáhá shotén.
 We will not absorb these charges.,Má é bohtámán jazb nakanén.
-We will play soccer after school.,eskulá rand má pothbáli kanén.
+We will play soccer after school.,Eskólá rand má pothbáli kanén.
 We're going to Boston to see Tom.,Má Thámay cháragá Bósthoná rawagá én.
 We're going to have a test today.,Marchi may ázmáeshé bayagá ent.
 We're going to have a test today.,Marchi márá thesthé hast.
@@ -26899,6 +27234,8 @@ He is preparing for the marathon.,Á pa dráj tachiá tyári kanagá ent.
 He hit the ball with great force.,Áiá trondiá shuth kot.
 He is the head coach of our team.,Á may thímay masterén kóch ent.
 The stadium entrance was crowded.,Gwázijahay dará mahluk moch at.
+Five thousand stadiums are ready.,Panch hazár laybjáh jádhi ant.
+Many questions remain unanswered.,Bázén jost béjawáb ant.
 All of my friends are out of town.,Mani drostén sangat shahrá dhannant.
 Birds of a feather flock together.,Har morg wati ramá.
 Boston is not at all like Chicago.,Bósthon shekágaway hecch wadhá naent.
@@ -27060,7 +27397,7 @@ Is there a cash machine near here?,Edá nazzikká nagday meshin hast?
 Is there a cash machine near here?,Edá nazzikká nagdi meshin hast?
 Is this your first visit to Japan?,É Jápáná tai awali chakkar ent?
 Is this your first visit to Japan?,É Jápáná tai awali chakkar ent.
-Is your school far from your home?,Tai eskul cha tai lógá dir ent?
+Is your school far from your home?,Tai eskól cha tai lógá dir ent?
 It is a lot of fun to drive a car.,Gádhiay táchagá tamáshahé mán.
 It is a lot of fun to drive a car.,Gádhiay halláénag sakk wassh ent.
 It looks like we fell into a trap.,Anchó gomán bit goshay má dáméá kaptén.
@@ -27539,6 +27876,8 @@ He broke his own high jump record.,Áiá wati borz dawr kanagay rekhárdh prósh
 He works as a sports photographer.,Á gwázíay aks-kasshi kár kant.
 She won the gold medal in archery.,Áiá tirgwáziá telahay bámozz katthet.
 She teaches martial arts to women.,Á zálbuláni jangbázi wánénit.
+One billion people watch the game.,Yakk belyun mardom laybá chárant.
+Iran benefits only if it complies.,Éráná hamá wahdá sitt rasit wahdé wati wádahá purá kant.
 A cat came out from under the desk.,Pisshé cha dheskay chérá dar atk.
 A cat came out from under the desk.,Pesshié cha dheskay chérá dar atk.
 Achilles was an ancient Greek hero.,Akiliz wahdi yunáni bámardé butag.
@@ -27657,7 +27996,7 @@ I was wining and the tom was happy.,Man katthagá atán o Thám gal at.
 I was wondering when you'd be back.,Man hayál kanagá atán ke taw kadi wátarray.
 I was wondering when you'd be back.,Man hayál kanagá atán ke taw kadi wátarr bay.
 I wasn't impressed by what Tom did.,Man cha Thámay kotagénán asargir nabitán.
-I went to a commercial high school.,Man bápári hái eskuléá shotán.
+I went to a commercial high school.,Man bápári hái eskóléá shotán.
 I will be glad to help you anytime.,Man har wahdá pa tai madat kanagá gal bayán.
 I will be glad to help you anytime.,Man har wahdá pa tai madat kanagá gal bán.
 I wish you would do as you're told.,Mani wáhag ent ke taw hamá paym bekanay ke tará goshag bit.
@@ -27688,8 +28027,8 @@ It looks like it'll be clearing up.,Anchó dará bit ke jambar borrant.
 It was a nerve-wracking experience.,É sargáshén tajrobahé at.
 It's a popular tourist destination.,É mahshurén tarr o tábi jágahé.
 It's a popular tourist destination.,É námdárén tarr o tábi jágahé.
-It's been raining since last night.,Cha dóshigá hawr ent.
-It's been raining since last night.,Dóshigén ent hawr ent.
+It's been raining since last night.,Cha dushigá hawr ent.
+It's been raining since last night.,Dushigén ent hawr ent.
 It's more difficult than you think.,É cha tai hayál o gománá gránter ent.
 It's time for you to buy a new car.,Ni wahd atkag ke taw nókén gádhié begeray.
 It's time for you to buy a new car.,Ni wahd atkag ke taw nókén gádhié beziray.
@@ -27948,6 +28287,9 @@ He won the local tennis tournament.,Áiá shahri ténes bází katthet.
 He won the gold medal in wrestling.,Áiá médhá telahay bámozz katthet.
 The team spirit is very high today.,Thímay báhand marchi báz borz ent.
 He is a passionate football player.,Á pothbálay zabardastén gwázigeré.
+The match ended in a dramatic draw.,Layb dharámahi wadhá baróbariá halás but.
+The 60-day countdown has now begun.,60 róchay  chapshomári ni shoru butag.
+The agreement is performance-based.,Kawlbandi kerday bonyádá ent.
 A friend in need is a friend indeed.,Sangat hamá ent ke sakkiay wahdá kárá byayt.
 A friend of mine is studying abroad.,Mani sangaté darmolká wánagá ent.
 "Above all, don't forget to write me.","Drostán géshter, pa man kágaday janagá béhál mabay."
@@ -28117,8 +28459,8 @@ I'm looking forward to our ski trip.,Man may eskiay chakkaray wadárá án.
 I'm looking forward to our ski trip.,Man eskiay chakkaray wadárá án.
 I'm not even sure if this is my key.,Man wa pakká ón nayán ke é kelit manig ent.
 I'm not even sure if this is my key.,Man wa pakká ham nayán ke é mani kelit ent.
-I'm not going to go to school today.,Man marchi eskulá narawán.
-I'm not going to school on Saturday.,Man Shambehá eskulá narawán.
+I'm not going to go to school today.,Man marchi eskólá narawán.
+I'm not going to school on Saturday.,Man Shambehá eskólá narawán.
 I'm not likely to forget to do that.,Man eshiay kanagá béhál nabayán.
 I'm not likely to forget to do that.,Man eshiay kanagá béhál nabán.
 I'm not taking a vacation this year.,Man é sálá chotthi nagerán.
@@ -28375,6 +28717,10 @@ Every girl deserves a bright future.,Har jenekká rozhnáén bándátay hakk has
 Young brides face high health risks.,Kasánén bánór jánsalámatiay mazanén jédhaháni ámách bant.
 Early marriage robs girls of choice.,Kasán omriay sir deldóstén jenekká pach gept.
 Young girls drop out of high school.,Kasánén jenekk mazanén eskólá yalah dayant.
+They treat human rights like a joke.,Á ensáni hakkán maskráé mánkár ant.
+The conflict will end on all fronts.,Cha drostén sanagrán dáwah halás bit.
+Iran has been hard-hit by sanctions.,Érán Bandeshán trondiá érjig kotag.
+Trump says this was 99% of his goal.,Thramp goshit é mani 99% maksad butag.
 A drowning man will catch at a straw.,Bokkókén mardom bucchoká ón gept.
 A drowning man will catch at a straw.,Bokkókén mardom bucchoká ham gipt.
 A lot of tourists invaded the island.,Gappadhé saylániá zerwánay sará algár kot.
@@ -28389,8 +28735,8 @@ Anybody who wants to come is invited.,Harkas ke áyag lóthit áiá dáwat ent.
 Anybody who wants to come is invited.,Harkas ke áyag lóthit byayt.
 Arabic is written from right to left.,Arabi cha rástá pa chappá nebisag bit.
 Arabic is written from right to left.,Arabi cha rástá dém pa chappá nebeshtah kanag bit.
-Are you a senior high school student?,Taw séniarén hái eskulay maktabié ay?
-Are you a senior high school student?,Taw séniarén hái eskulay tálebé ay?
+Are you a senior high school student?,Taw séniarén hái eskólay maktabié ay?
+Are you a senior high school student?,Taw séniarén hái eskólay tálebé ay?
 Are you going to Tom's party tonight?,Taw eshapi Thámay marágahá raway?
 Are you sure you know how to do this?,Taw pakkáyá eshiay kanagá zánay?
 "At one time, there was a bridge here.","Yakk wahdé, edá pohlé hast at."
@@ -28530,8 +28876,8 @@ Mary looked at herself in the mirror.,Maryamá watá ádénkay tahá chár et.
 Mary seems to be bored with the game.,goshay Maryam charé laybá bór ent.
 "May I see your driver's license, sir?","Wájah, wati dheléwari laysená maná pésh dáray?"
 Most people don't drink enough water.,Géshter mardom maksadá áp nawárt.
-Most students come to school on foot.,Géshter maktabi pádáná eskulá káyt.
-Most students come to school on foot.,Géshter táleb pádáná eskulá káyt.
+Most students come to school on foot.,Géshter maktabi pádáná eskólá káyt.
+Most students come to school on foot.,Géshter táleb pádáná eskólá káyt.
 My aunt gave me a book for Christmas.,Mani triá pa kresmesá maná ketábé dát.
 My father doesn't let me drive a car.,Mani pet maná gádhi táchagá naylit.
 My father doesn't let me drive a car.,Mani pet maná gádhi halláénagá naylit.
@@ -28555,8 +28901,8 @@ Nothing remained in the refrigerator.,Peréjá hecch pasht nakapt.
 Peach trees require lots of sunshine.,Álagay drachk báz rótáp lóthant.
 Peach trees require lots of sunshine.,Shaptáluay drachk báz rótáb lóthant.
 Please clean the floor with this mop.,Mehrabáni kan gón é póncháyá parshá sapá kan.
-School begins the day after tomorrow.,eskul póshi bendát bit.
-School starts in September in Europe.,Yuropá eskul satambará shoru bit.
+School begins the day after tomorrow.,Eskól póshi bendát bit.
+School starts in September in Europe.,Yuropá eskól satambará shoru bit.
 She divided the cake into six pieces.,Áiá kék shash chondhá bahr kot.
 She is getting prettier and prettier.,Á róch pa róch dhawldárter bayán ent.
 She needs him more than he needs her.,"Áiá áiay inchok hájat naent, inchok ke áiá áiay hájat ent."
@@ -28735,6 +29081,8 @@ Early marriage stops personal growth.,Kasániay sir mardomay jendi rodómá dár
 They are forced by family traditions.,Á cha kahólay dódáni majbur ant.
 "A child should play, not get married.","Zahg báyad ent layb bekanant, sir makanant."
 Child marriage is a cycle of poverty.,Kasániay sir garibiay mántarré.
+Argentina played very well yesterday.,Arjentiná zi báz wassh layb kot.
+Where is the human rights protection?,ensáni hakkáni paházók kojá ant?
 A drowning man will clutch at a straw.,Bokkókén mardom bucchokéá ón dárit gón.
 A drowning man will clutch at a straw.,Bokkókén mardom bucchoká ham dárit gón.
 "After the lightning, came the thunder.","Geróká rand, grand atk."
@@ -28846,9 +29194,9 @@ It is indeed a remarkable achievement.,É allamá mazanén sóbmandié.
 It'll only take a minute of your time.,É bass cha tai wahdá yakk meletthé zirit.
 Japan imports oranges from California.,Jápán cha kalipórniáyá mósombi lótháénit.
 "Just do the essential repairs, please.","Mehrabáni kan, bass allamién morammatán bekan."
-"Last night, he studied all night long.","Dóshi, áiá drostén shapá want."
-Let's forget last night ever happened.,Byá dóshigén shapá harché butag shamoshénesh.
-Let's forget last night ever happened.,Byá dóshigén shapay jendá béhál kanén.
+"Last night, he studied all night long.","Dushi, áiá drostén shapá want."
+Let's forget last night ever happened.,Byá dushigén shapá harché butag shamoshénesh.
+Let's forget last night ever happened.,Byá dushigén shapay jendá béhál kanén.
 Let's not waste time arguing about it.,Má wati wahdá eshiay sará gapp janagá zawál makanén.
 Let's not waste time arguing about it.,Má wati wahdá eshiay sará báwast kanagá zawál makanén.
 Let's see what we're up against first.,Byá awalsará chárén ke má chéay helápén.
@@ -29037,7 +29385,7 @@ Your daughters have turned into women.,Tai jenekk rostag o janén bitagant.
 Do you know what time it is in Boston?,Taw zánay Bóstoná che wahd ent?
 I had my thirtieth birthday last week.,Mani siomi bitenróch pésari haptagá at.
 I studied in Boston from 2003 to 2007.,Man 2003á dán 2007á Bóstoná want.
-Let's forget last night ever happened.,By dóshigén sahpay jendá béhál kanén.
+Let's forget last night ever happened.,By dushigén sahpay jendá béhál kanén.
 Tom has a dentist appointment at 2:30.,Thámá danátánay dáktaray kerrá 2:30á hókéné hast.
 We returned to Boston on October 20th.,Má Aktubaray 20á Bóstoná wátarr bitén.
 What specifically are you looking for?,Taw hás chéay shóházá ay?
@@ -29049,7 +29397,7 @@ He will have to account for the money.,Áiá zarráni hesáb dayagi ent.
 Please don’t violate any traffic rule.,Thraypekay hecch rahband pádmál makan.
 He will get in trouble because of you.,Á tai sawabá mosibatá kapit.
 He has joined us for 15 days training.,Á pa 15 róchay hélkáriá gón má awár butag.
-The school won the inter-district cup.,eskulá zellahi báj katthet.
+The school won the inter-district cup.,Eskólá zellahi báj katthet.
 He runs five kilometers every morning.,Á har sohbah panch kilóméthar tachit.
 The athlete ran with incredible speed.,Gwáziger sakk téziá tatk.
 He is a dedicated table tennis player.,Á thébal ténesay námién gwázigeré.
@@ -29062,6 +29410,8 @@ Young girls are forced to marry early.,Kasán sálén jennekán kasániá pa sá
 Poverty and early marriage are linked.,Garibi o kasáni sir hamgranch ant.
 They face continuous health struggles.,Eshán pa dráhjániá yakkó johd kanag kapit.
 They are too weak to fight the custom.,Á gón é dódá sakk nezor ant.
+The US-Iran agreement has been signed.,Amrikah o Éránay kawlbandi daznám butag.
+Frozen Iranian funds will be released.,Éránay dáshtagén zarr ázát kanag bant.
 A widower is a man whose wife has died.,Sarózám hamá mard ent ke lógbánoky mortag.
 A widower is a man whose wife has died.,Sarózám hamá mard ent ke jany mortag.
 All you need to do is listen carefully.,"Harchi ke tará kanagi ent, esh ent ke sharriá gósh dár."
@@ -29104,8 +29454,8 @@ How could I forget something like that?,Man choshén chizzá chón béhál kot k
 "How do you say ""thank you"" in Japanese?","Jápániá ""mennatwár"" chetawr goshant?"
 How many mosques are there in Istanbul?,Estanbólá chinchok masit hast?
 How many rooms are there in your house?,Tai gesay kóthi chinchok ant?
-"Hurry up, or you'll be late for school.","Goshád kan, agan natará eskulá dér bit."
-"Hurry up, or you'll be late for school.","Goshád kan, agan na tará eskulá dér bit."
+"Hurry up, or you'll be late for school.","Goshád kan, agan natará eskólá dér bit."
+"Hurry up, or you'll be late for school.","Goshád kan, agan na tará eskólá dér bit."
 "I accept, but only under one condition.",Man kabul kanán bale bass yakk shartéá.
 "I accept, but only under one condition.",Man mannán bale éoká yakk shartéá.
 I can't forget about that stupid movie.,Man á bésarén támorá shamosht nakanán.
@@ -29276,7 +29626,7 @@ Your examination results are excellent.,Tai chakkásay ásar zabardast ant.
 Your reaction wasn't surprising at all.,Tai radde amal hayráni gappé nayat.
 This was seventeen years old young boy.,É abdah sáli warnáén bachakké at.
 This airplane is twenty five years old.,É báligorábay omr bist o panch sál ent.
-He had taken black board to the school.,Áiá bórdh eskulá bortag at.
+He had taken black board to the school.,Áiá bórdh eskólá bortag at.
 She is 1st woman who went to the space.,Á 1li janén ent ke kelahá shot.
 Costa Rica defeated Czech by 8 wickets.,Kóstá Rikáyá Chék 8 Wakethá babá dát.
 Ghana beat French Polynesia by 9 goals.,Gánahá Paránsi Pólinéshiah 9 gólá kath et.
@@ -29334,12 +29684,17 @@ Early marriage limits a girl's freedom.,Kasán omrén sir jenekkáni ájuiá had
 Early marriage is a violation of youth.,Kasániay sir warnáiay pádmáli ent.
 Early marriage stops economic progress.,Kasániay sir ektesádi démrawiá ósht ámách kant.
 Early marriage causes emotional stress.,Kasán omrén sir jazbagi érjigi pédá kant.
+The conflict broke out four months ago.,Chár máh pésar jang bená butagat.
+Traffic will start flowing immediately.,thrépekay aw o á zitt bendát bit.
+De-mining operations will be conducted.,Bárudi sorongáni sáp kanagay kár barjam bant.
+Waivers for oil exports will be issued.,Thélay dhanná baragay parmán sheng bant.
+The MoU was signed at a post-G7 dinner.,Em o Yu G7ay shámá pad daznám butag.
 All of my grandparents are still living.,Mani drostén pirok o ballok angat zendagant.
 All you have to do is tell Tom to leave.,Tai kár bass hamésh ent ke Thámá begosh boraw.
 "Because of the bad weather, I didn't go.","Harábén mósomay sawabá, man nashotán."
 Can you translate English into Japanese?,Taw engréziá mán Jápániá rajánk kot kanay?
-Children begin school at the age of six.,Zahg shash sálay omrá eskulá rawag shoru kanant.
-Children begin school at the age of six.,Chokk shash sálay omrá eskulá rawag shoru kanant.
+Children begin school at the age of six.,Zahg shash sálay omrá eskólá rawag shoru kanant.
+Children begin school at the age of six.,Chokk shash sálay omrá eskólá rawag shoru kanant.
 Could I get a little piece of that cake?,Maná chará kéká chondhé rasit?
 Could you give me a ride to the station?,Taw maná sawár kanay o esthéshaná baray?
 Darwin changed the way we see the world.,Dhárwená donyá árá cháragay may wadh badal kot.
@@ -29381,7 +29736,7 @@ Her ambition is to become an ambassador.,Áiay wáhag ent ke sapiré bebán.
 His wife goes with him wherever he goes.,Á harjágah rawt lógbánoky rawt gón.
 His wife goes with him wherever he goes.,Á harjágah rawt jany rawt gón.
 How many people did you see in the park?,Taw párká chinchok mardom dist?
-How many schools are there in your city?,Tai shahrá chinchok eskul hast?
+How many schools are there in your city?,Tai shahrá chinchok eskól hast?
 Humans were never meant to live forever.,Ensán bayagay morád é nabutag ke dáem zendag bebit.
 I am thinking of going to the mountains.,Man hayál kanagá án ke kóhá borawán.
 I assume the two of you know each other.,Man delá goshtag shomá doén yakké domigá zánay.
@@ -29573,15 +29928,15 @@ That’s the same thing he said about you.,Áiá ón tai bábatá anchosh gosht.
 The players are warming up on the field.,Gwáziger maydáná watá tyár kanagá ant.
 He received a red card from the referee.,Áiá cha réperiá sohrén kárdhé raset.
 She was selected for the national squad.,Á molki thímay háterá dar chég but.
-He teaches physical education at school.,Á eskulá jasadi sar o sójá dant.
+He teaches physical education at school.,Á eskólá jasadi sar o sójá dant.
 The bad weather ruined the cricket game.,Harábén mósomá kerkethay layb haráb kot.
 She works as a voluntary sports referee.,Á pa razákári laybán kárá kant.
-Our school team won the football league.,May eskulay thímá Pothbálay líg katthet.
+Our school team won the football league.,May eskólay thímá Pothbálay líg katthet.
 The sports news segment is very popular.,Laybay háláni bahr báz mahshur ent.
 The sports minister visited the stadium.,Layb o gwáziay wazirá cha gwázijáhay tarotáb kot.
 He scored three goals in the first half.,Áiá awali kappá say gól jatant.
 Our team won the championship yesterday.,May thímá zí champinshep katthet.
-Our school has a great sports tradition.,May eskulá layb o gwáziay jwánén dódé hast.
+Our school has a great sports tradition.,May eskólá layb o gwáziay jwánén dódé hast.
 They do not go to school after marriage.,Á cha sángá pad eskólá narawant.
 They do not go to school after marriage.,Á cha sirá rand eskólá narawant.
 Early marriage is common in rural areas.,Má har róch kasán omrén siray kessahán eshkonén.
@@ -29590,6 +29945,12 @@ They cannot make their own life choices.,Á wati jenday zendmáná gechén kot n
 We must help young girls stay in school.,Márá kasánén jenekk madat kanag lóthant ke eskólá bebant.
 Young brides have no power in the house.,Kasánén bánórán lógá wass o wák nabit.
 Early marriage keeps women from working.,Kasáni sir janénáná cha kárá dárit.
+The goalkeeper stopped a dangerous shot.,Góliá hatarnákén shuthé dásht.
+Brazil has won the World Cup five times.,Brázilá álemi kapp panch randá katthetag.
+They bought tickets for the final match.,Áyán goddhi gwáziay theketh bahá zort.
+The penalty shoot-out is very stressful.,Paylánthi shuth janag báz érigén káré.
+We love watching the World Cup together.,Márá hóriá álemi kappay chárag dóst bit.
+This will happen under IAEA supervision.,É ái Ea Ie Eaay negrániá bit.
 "A long time ago, there was a bridge here.","Dérigén gappé, edá pohlé hast at."
 A number of experts attended the meeting.,Bázén kawwásé diwáná atk.
 A number of experts attended the meeting.,Bázén kawásé diwáná atk.
@@ -29702,7 +30063,7 @@ The students learned many poems by heart.,Maktabián bázén jawakké delá yát
 The students learned many poems by heart.,Tálebán bázén jawakké delá yát kot.
 The students learned this story by heart.,Maktabián é kessah delá ytát kot.
 The students learned this story by heart.,Tálebán é kessah delá ytát kot.
-The teacher is with the school principal.,Ostád eskulay sarwaray hamráh ent.
+The teacher is with the school principal.,Ostád eskólay sarwaray hamráh ent.
 The TV remote control is under the couch.,ThWay remóth némkathay chérá ent.
 The unconscious mind is your larger mind.,Bégománén damág tai masterén damág ent.
 The world is full of gossipers and liars.,Donyá cha gappi o dróg bandá porr ent.
@@ -29723,11 +30084,11 @@ Throw a stick and watch the dog fetch it.,Latthé chagal day o kochekká bechár
 "Today, I was done with my homework early.","Marchi, man mahlaw wati lókár chóthéntant."
 Tom became depressed after Mary left him.,Maryamá ke Thám yalah dát godhá Thám mónjá but.
 Tom converted his bedroom into an office.,Thámá wati wábjáh kárgeséay tahá badal kot.
-Tom doesn't want to go to school anymore.,Thám nalóthit ke chedo pad eskulá borawán.
+Tom doesn't want to go to school anymore.,Thám nalóthit ke chedo pad eskólá borawán.
 Tom has decided to start studying French.,Thámá paysalah kotag ke Paránsiay wánagá bendát kanán.
 Tom is drinking directly from the faucet.,Thám tachká cha nalá waragá ent.
-Tom isn't qualified to teach high school.,Thám pa hái eskulay wánénagá láhek naent.
-Tom isn't qualified to teach high school.,Thám hái eskulá wánénagay láhek naent.
+Tom isn't qualified to teach high school.,Thám pa hái eskólay wánénagá láhek naent.
+Tom isn't qualified to teach high school.,Thám hái eskólá wánénagay láhek naent.
 Tom isn't sure whether he's ready or not.,Thám pakká naent ke jádhián yá na.
 Tom isn't yet able to write his own name.,Thám daninga wati námá nebeshtah kot nakant.
 "Tom looked around, but didn't see anyone.",Thámá kash o gwará cháret bale kass nadist.
@@ -29774,9 +30135,9 @@ I saw a fox run across the road just now.,Man anni róbáhé dist ke tacháná d
 I want to answer the last question first.,Man goddhi jostay jawábá pésará dayag lóthán.
 I was afraid of getting lost in the dark.,Maná hamé tors at ke taháriá gár bán.
 It looks like this house is a total mess.,Anchó dará bit ke ges chathá gandé.
-The teacher is with the school principal.,Ostád eskulay sarwará gón ent.
+The teacher is with the school principal.,Ostád eskólay sarwará gón ent.
 There's been an accident at the worksite.,Káray jágahá eksidhanthé bitag.
-Tom isn't qualified to teach high school.,Thám hái eskulá wánénagay ahl naent.
+Tom isn't qualified to teach high school.,Thám hái eskólá wánénagay ahl naent.
 We need to do the important things first.,Márá arzeshti kár pésará kanag pakár ent.
 Why didn't you tell me Tom would be here?,Taw maná parchá nagosht gón ke Thám kayt?
 Did you know they were coming here today?,Taw zántag ke á marchi pédágant?
@@ -29809,6 +30170,8 @@ We want an end to early forced marriages.,Má kasán omrién sángán halás kan
 We want an end to early forced marriages.,Má kasán omriay sirán halás kanagá lóthén.
 We want an end to early forced marriages.,Má kasán omriay árósán halás kanagá lóthén.
 We must speak up for young girls' rights.,Márá kasánén jenekkáni hakkáni háterá gapp janagi ent.
+Necessary measures will be taken by Iran.,Érán azhdari gámgéj zirit.
+Negotiations for a final deal will start.,Pa goddhi kawlbandiá gapp o trán bendát bit.
 A widow is a woman whose husband has died.,Janózám hamá janén ent ke áiay lógwájah mortag.
 A widow is a woman whose husband has died.,Janózám hamá janén ent ke áiay mard mortag.
 "After a while, the man came into the room.","Kammokéá rand, mard kóthiá atk."
@@ -29920,8 +30283,8 @@ She smiled and accepted my little present.,Áiá bechkandet o mani kasánén saw
 She unconsciously resented her stepfather.,Áiá pa násarpadi wati petuay sará zhri darshán kot.
 She was advised by him to give up smoking.,Á áiá sój dát ke segréthay kasshagá yalah kan.
 She was advised by him to give up smoking.,Á áiá sój dát ke tambákasshiá yalah kan.
-Shouldn't you be getting ready for school?,Tará pa eskulá tyár bayag nalóthit?
-Shouldn't you be getting ready for school?,Tará pa eskulá tayár bayag nalóthit?
+Shouldn't you be getting ready for school?,Tará pa eskólá tyár bayag nalóthit?
+Shouldn't you be getting ready for school?,Tará pa eskólá tayár bayag nalóthit?
 "Since you're here, we might as well begin.",Má ón begenday shoru kot kanén parcháke taw hamedá ay.
 "Since you're here, we might as well begin.",Má ham begenday shoru kot kanén parcháke taw hamedá ay.
 Some of my friends can speak English well.,Mani lahté sangat engréziá sharriay sará gapp jat kant.
@@ -29948,7 +30311,7 @@ Tom hasn't written to Mary in a long time.,Thámá dér ent ke Maryamay sará k�
 Tom hopes you're able to attend his party.,Thámá omét ent ke taw áiay marágahá bahr ziray.
 Tom is able to speak three languages well.,Thám say zobáná sharriay sará gapp jat kant.
 Tom is extremely handsome and he knows it.,Thám sakk brahdár ent o á é gappá zánt.
-Tom is going to boarding school next year.,Thám démay sálá bawrdheng eskulá rawagá ent.
+Tom is going to boarding school next year.,Thám démay sálá bawrdheng eskólá rawagá ent.
 Tom is going to pay for what he did to us.,Thámá harchi ke gón má kot áiay mozzá dant.
 Tom is planning to study abroad next year.,Thám shawr bandagá ent ke démay sálá darmolká wánagá rawán.
 Tom isn't strict enough with his students.,Thám gón wati maktabián sakk trond naent.
@@ -30030,6 +30393,11 @@ Many young girls suffer in poor countries.,Wárén molkán bázén kasánén jen
 The culture of early marriage must change.,Kasnániay siray dód badal kanag bebit.
 We support the education of poor children.,Má wárén zahgáni tálimay pallámorziá kanén.
 Many young girls are married to older men.,Bázén kasánén jenekkán  gón pirén mardán sir dayant.
+Fans cheer loudly for their favorite team.,Shyadái wati deldóstén thimá pa kukár wasshatk kanant.
+The stadium is full of excited spectators.,Gwázijáh cha porjóshén tamáshahián por ent.
+The captain leads the team onto the field.,Kepthen maydáná thimay rahshóni kant.
+This was a major obstacle in negotiations.,É tránkáriay mazanén adhándé at.
+Implementation of the MoU will begin soon.,Em ó Yuay kárbandag zitt bená bit.
 All Tom really needed was to be left alone.,Rásti Thámá bass éoki lóth et.
 All Tom really wanted was something to eat.,Rásti Thámá bass lóthet ke chizzé bewarán.
 All you have to do is read these two pages.,Tará bass é doén tákdém wánagiant.
@@ -30082,7 +30450,7 @@ I think this table takes up too much space.,Mani hayálá é thébal báz jágah
 I think this table takes up too much space.,Mani hayálá é thébal báz jágah gipt.
 I want to thank everyone for their support.,Man haryakkéay mennatwár án ke áyán komakk kot.
 I was only thirteen years old at that time.,Á wahdá mani omr bass sézdah sál at.
-I will wait for you in front of the school.,Man eskulay démá pa taw wadár kanán.
+I will wait for you in front of the school.,Man eskólay démá pa taw wadár kanán.
 I won't play because I've twisted my ankle.,Man layb nakanán parcháke mani páday mocch chér modhetag.
 "I'd be unhappy, but I wouldn't kill myself.","Man nawassh bayán, bale watá nakoshán."
 "I'd be unhappy, but I wouldn't kill myself.","Man nawassh bán, bale watá nakoshán."
@@ -30126,7 +30494,7 @@ Local shops do good business with tourists.,Handi dokkán gón saylánián sharr
 Maybe you can tell me where I can find Tom.,Balkén taw maná gosht kanay ke man Thámá kojá dar begéján.
 Maybe you can tell me where I can find Tom.,Bit kant taw maná gosht kanay ke man Thámá kojá dar begéján.
 Muslims believe that there is only one God.,Mosolmánáni setk esh ent ke Hodá bass yakké.
-My name is known to everybody in my school.,eskulá mani námá harkas zánt.
+My name is known to everybody in my school.,Eskólá mani námá harkas zánt.
 My older sister often drinks tea with milk.,Mani masterén gohár géshter shircháh wárt.
 My pocket money does not cover my expenses.,Mani harchi mani harchán puró nakant.
 My wife makes two hundred US dollars a day.,Mani lógbánok róché do sad amriki dhálar kamáénit.
@@ -30238,7 +30606,7 @@ What’s the source of your bread and butter?,Tai rózigay wasilah ché ent?
 He works as a professional fitness trainer.,Á pa hélkáriá kasabgeri kár kant.
 Our team had a wonderful performance today.,May thímá marchi jwánén kerd pésh dásht.
 The soccer field was muddy due to the hawr.,Cha hawrá pothbálay maydán missstag at.
-He works as a sports analyst on television.,Á Thi.Wiá sará laybáni chamshánkáré.
+He works as a sports analyst on television.,Á Thi Wiá sará laybáni chamshánkáré.
 Many girls drop out of school for marriage.,Bázén jenekk pa sirá eskólá yalah dayant.
 Poverty forces parents to make this choice.,Garibi mát o petán pa é payslahá majbur kanant.
 We must stop early marriage in our village.,Márá wati halká kasán omrén sir ger o dár kanag lóthant.
@@ -30248,6 +30616,16 @@ Early marriage is a barrier to development.,Kasániay sir démrawiay keshká gat
 We must educate parents about health risks.,Márá mát o pet dráhjájiay hatarán sarpad kanag lóthant.
 Child marriage creates uneducated families.,Kasán omriay náwánendahén kahól pédá kant.
 Every child has the right to grow up first.,Hamakk zahgá pésará rodagay hakk hast.
+Spain has a strong football team this year.,Espayná é sálá zrengén pothbál thimé hast.
+Many countries want to host the tournament.,Báz molk lóthit ke thórnamenthay mehmándári bekant.
+This administration lacks basic competence.,É entezámiahá bonyádi budnákiay kammi ent.
+The blockade will end fully within 30 days.,Bandesh 30 róchay tahá sarjamá halás bit.
+Emiratis could build a power plant in Iran.,Emarat balkén Éráná laynay kárjáhé addh bekant.
+Both sides will deal with enriched uranium.,Doén némag pazórén yuréniomá sambálant.
+Iran insisted on the release of its assets.,Éráná pa wati maddhiáni ázátiá merr kot.
+Procedures for release will be agreed upon.,Ázátiay wadh o dhawl tepák kanag bant.
+A monitoring mechanism will be established.,Negahdáriay rahbandé addh bit.
+The US perspective is focused on Hezbollah.,Amrikahay chamm Hezbollahá sakk ant.
 A bird in the hand is worth two in the bush.,Dastay yakk morgé cha pochay do morgá démáter ent.
 A little knowledge can be a dangerous thing.,Kammok elm hatarnák bit kant.
 A pelican can fit a lot of fish in its beak.,Méshmorg gappadhé máhig wati chombá jágah dát kant.
@@ -30420,19 +30798,24 @@ She has trained more then thousand trainees.,Áiá hazárá gésh hélgeráná h
 The sports journalist wrote a great article.,Gwázi hálkárá jwánén nebeshtánké nebeshtah kot.
 The cycling race will pass through the city.,Saynkali tách cha shahrá gwazit.
 She enjoys hiking in the northern mountains.,Áiá gorichay kóháni sará gardag wassh bit.
-The regional alliance signed a defense pact.,Damagi ethádá paházi kawlbandié daznám jat.
+The regional alliance signed a defense pact.,Damagi ethádá paházi kawlbandié daznám kot.
 Poverty is the main cause of child marriage.,Garibi kasán omrén  sángay bonyád ent.
 Tradition should not justify child marriage.,Dód o rahband gwandhuáni sirá rást pésh dásht nakant.
 Many organizations work to save young girls.,Bázén gall warnáén jenekkáni paházagay kárá ant.
 Third world societies need modern education.,Saymi donyáay rájmánán nókén tálim pakár ent.
 The community should support girls' schools.,Chágerdá báyad ent jenekkáni eskóláni hampallaw bebit.
 This system is completely broken and unfair.,É nezám sarjamá prosht o próshay ámách ent o náhakk ent.
+The tournament takes place every four years.,É thórnamenth hamakk chár sálá pad bit.
+The crowd went crazy after the winning goal.,Mahluk bájgólá pad ganók butant.
+The forward passed the ball to his teammate.,Párwadhá wati thimay gwázigerárá pás dát.
+Neither side will start military operations.,Hecch némagá che póji kárwáhi shoru nabit
+The US will not pay a cent of money to Iran.,Amrikah Éráná gabarré ón nadant.
 "After my exercise class, my whole body ached.",Mani warzeshay kelásá pad mani téwagén ján dardá at.
 Are you sure thay haven't forgotten anything?,Taw pakká ay ke áyán hecch chizz nashamoshtag?
 Are you sure thay haven't forgotten anything?,Taw pakká ay ke áyán hecch chizz béhál nakotag?
 "As soon as he saw the policeman, he ran away.","Anchó ke áiá polisay sepáhig dist, dar shot."
 "At last, I graduated from junior high school.","Néth, man cha juniar háiayskólá grayjuayshan kot."
-"At last, I graduated from junior high school.","Néth, man cha juniar hái eskulá grayjuayshan kot."
+"At last, I graduated from junior high school.","Néth, man cha juniar hái eskólá grayjuayshan kot."
 Can you tell me how to get to Lincoln center?,Taw maná gosht kanay ke lenkan santhará chón rawant?
 Did it not occur to you to close the windows?,Tai delá é hayál nayatk ke darigán band bekanán?
 Do I really have to go to Australia with Tom?,Maná hakk o del gón Thámá Ástrayliá á rawagi ent?
@@ -30459,7 +30842,7 @@ His pocket money does not cover his expenses.,Áiay harchi áiay harchán puró 
 How many people did you invite to your party?,Taw wati marágahá chinchok mardom dáwat dát?
 How many people did you invite to your party?,Taw wati marágahá chinchok mardom lóthetag?
 How much did you have to pay for the tickets?,Theketth tará pa chinchoká kaptant?
-"Hurry up, and you will be in time for school.","Goshád bekanay, eskulá pa wahd sar bay."
+"Hurry up, and you will be in time for school.","Goshád bekanay, eskólá pa wahd sar bay."
 I am going to do it whether you agree or not.,Taw mannay yá namannay man eshiá kanán.
 I broke down the door because I lost the key.,Man darwázag prósht parcháke man kelit gár kotant.
 I can't possibly finish the work by tomorrow.,Bit kant ke dán bándátá man kárá halás kot nakanán.
@@ -30590,6 +30973,13 @@ Child marriage is against children's freedom.,Zahgi sir zahgáni ájuiay dozhmen
 Child marriage takes away a person’s dignity.,Zahgiá sir mardom ezzat pach gept.
 We need awareness campaigns in every village.,Márá hamokk halká sarpadi dháhay zarurat ent.
 Poverty makes early marriage a survival tool.,Garibi kasán omriay sirá zenday wasilah jódh kant.
+Football players run fast on the green field.,Pothbálay gwáziger sabzén pedhá téz tachant.
+He scored a beautiful goal in the first half.,Áiá awali némagá dhawldárén gólé dát.
+Every player wants to lift the golden trophy.,Har gwáziger tahén thrópiá shest kanag lóthit.
+It is a 14-point Memorandum of Understanding.,É 14 noktaqwi rázinámahi yádáshté.
+Ship traffic will be restored proportionally.,Gorábáni sangár padá barjáh bit.
+Gulf states would never accept a toll system.,Khaliji molk oláki rahband hejbar kabul nakanant.
+The 9th and 10th points specify a status quo.,Nohomi o dahomi noktaw hastén jáwarán darshán kanant.
 An ant can lift more than 50 times its weight.,Yakk móré cha wati wazaná 50 sari géshter wazan chest kot kant.
 Aren't you worried that Tom might get injured?,Taw paréshán nayay ke Thám thappi bit kant?
 "As soon as we sat down, she brought us coffee.","Anchó ke má neshtén, áiá pa má kahwá áort."
@@ -30736,7 +31126,7 @@ I cannot thank you enough for your assistance.,Man nazán án paré komakká tai
 You're definitely the best player on the team.,Taw pakkáyá thimay sharterén laybi ay.
 You're not going to like what I'm going to do.,Hamá kárá ke man kanagi án tará dóst nabit.
 She is going to London for one month training.,Á pa máhéay hélkáriá Landaná rawagá ent.
-They are practicing for the school sports day.,Á pa eskulay layb róchá hélkáriá ant.
+They are practicing for the school sports day.,Á pa eskólay layb róchá hélkáriá ant.
 The stadium was decorated with colorful flags.,Gwázijáh gón rang rangén bérekán sambáentagat.
 This custom hurts the health of young mothers.,É dód kasánén mátáni jánsalámatiá táwán dant.
 Parents decide the marriage of young children.,Mát o pet kasánén chokkáni siray paysalahá kanant.
@@ -30748,6 +31138,14 @@ Poor families think marriage reduces expenses.,Garibén kahól sarpad bant ke si
 The child marriage system must end completely.,Kasániay siray rahband allamá halás bebit.
 They live in fear after forced early marriage.,Kasániay zabardastiay sirá pad á bimmámáchiá zend gwázénant.
 They lose their health due to early pregnancy.,Cha kasániá chokmát bayagá á wati drengiá gár kanant.
+"They only care about wealth, not the citizens.","Eshán bass dawlatay waswás ent, mahlukay naent."
+The defender blocked the striker from scoring.,Démpáná oroshkár cha gól kanagá dásht.
+The media is hiding the truth from the public.,Rasánkdar cha mahluká rástiá chér dayagá ent.
+We are tired of your endless excuses and lies.,Má cha tai bésarén nimón o drógán dam bortagén.
+There was supposed to be a ceremony in Geneva.,Jenéwáyá rasamé bayagi at.
+The US will begin removing its naval blockade.,Amrikah wati daryái bandeshay halás kanagá bená kant.
+This includes UN Security Council resolutions.,Eshiay taha Yu En Sékórithi Kawnsalay krárdád ón mán.
+The schedule for sanctions removal is unclear.,Bandesháni dir kanagay barnámag paddar naent.
 A woman like you doesn't deserve a man like me.,Tai paymén janén mani paymén mardéné nakarzit.
 All you have to do is to take care of yourself.,Tará bass hamé kár kanagi ent ke wati jenday hayálá bedár.
 Almost every tourist carries a camera with him.,Kamm o gésh har saylániá kémráé gón.
@@ -30813,7 +31211,7 @@ She kept feeling the nagging ache in her heart.,Á wati delá dard máragá ent.
 Spending time with your children couldn't hurt.,Gón wati zahgán wahday gwázénagá taklip nadát.
 Spending time with your children couldn't hurt.,Gón wati chokkán wahday gwázénagá taklip nadát.
 "Tell Tom that when he's finished, he can leave.","Thámá begosh wahdé kárá halás kanay, shot kanay."
-The bell had already rung when I got to school.,Man ke eskulá sar bitán ganthi pésará laggetag at.
+The bell had already rung when I got to school.,Man ke eskólá sar bitán ganthi pésará laggetag at.
 The boy could not find his way out of the maze.,Bachakk cha hapráhá dar atk nabut.
 The concert concluded with the national anthem.,Maypalay halási gón ráji sawtá but.
 The heavy rain prevented us from going fishing.,Hawr o harragán márá naesht ke máhigay geragá borawén.
@@ -30854,7 +31252,7 @@ You won't get there on time if you don't hurry.,Agan taw goshád makanay pa wahd
 You're not going to like what I'm going to say.,Hamá gappá ke man janagián tará dóst nabit.
 You're undoubtedly the best player on the team.,Taw béshakk thimay sharterén laybiay.
 Mary paid ninety five thousand for her tuition.,Maryamá pa wati thuishaná nawad o panch hazár dát.
-My house is only one kilometer from the school.,Cha eskulá mani lóg bas yakk kelumitter ent.
+My house is only one kilometer from the school.,Cha eskólá mani lóg bas yakk kelumitter ent.
 BJP will hold a public gathering on 25th April.,BJP Aprélay 25mi róchá las mahlukay mocchi barjam dárit.
 PNP will hold a public gathering on 8th August.,BNP Agastay 8mi róchá las mahlukay mocchi barjam dárit.
 Everything was fine until Tom started drinking.,Dán Thámay sharábnóshiay shoru kanagá harchi baróbar at.
@@ -30877,7 +31275,7 @@ The local tournament attracted many spectators.,Damagi gwáziredá báz chárók
 He scored the winning point in the last second.,Áiá godí damáná katthókén pawenth eskór kot.
 The sports equipment was imported from Germany.,Laybay sámán cha Jarmanyá árag butagant.
 The sports equipment was imported from Germany.,Gwáziay sámán cha Jarmanyá árag butagant.
-The tournament was organized by the government.,Laybred hókumatá barjam kot.
+The tournament was organized by the government.,thórnamenth hókumatá barjam kot.
 The tournament was organized by the government.,Gwázired hókumatá barjam kot.
 The sports federation introduced testing rules.,Laybay o gwázi galla ázmáeshi rahband pésh kotant.
 BBC reported that the main highway is now open.,Bi.Bi.Siá hál dát ke sháhdagg maróchi pach ent.
@@ -30893,6 +31291,10 @@ She was only twelve years old when she married.,Á  bass dwázdah sálay omrá a
 Young boys are also affected by early marriage.,Kasánén bachakk ham kasániay siray ámách abant.
 They do not understand the meaning of marriage.,Á siray mánáya sarpad nabant.
 Families believe early marriage protects honor.,Kahól sarpad bant ke kasániay sir ezzatá rakkénit.
+We will not tolerate this injustice any longer.,Má é náhakkiá géshter bardásht nakanén.
+Millions of people watch the World Cup matches.,Melyunáni mahluk álemi kappay laybán charant.
+The coach tells the players the match strategy.,Kóch gwázigerán laybay kárchálá goshit.
+The US and Iran will refrain from interference.,Amrikah o Érán dast mánjani makanant.
 A boy like Tom doesn't deserve a girl like Mary.,Thámay wadhén bachakké Maryamay wadhén jenekké nakarzit.
 A child could not have understood the situation.,Yakk chokké begenday é jáwarálá sarpad nabutag at.
 A known mistake is better than an unknown truth.,Zántagén radié cha nazántagén rástá sharter ent.
@@ -30958,7 +31360,7 @@ Old woman has refused to return from Luxembourg.,Pirzálá cha Laksambargá wát
 Please forgive me for not having written sooner.,Mehrabáni kan maná pahell kan ke zitter pa taw kágad nalekk et.
 Please inform me of any change in his condition.,Mehrabnái kan áiay hálatá har badalié kayt maná hál day.
 "Robinson is a practical, rational and brave man.","Róbensan yakk amali, agli o bahádorrén mardomé."
-She looks exactly the same as she was at school.,Á chath hamá paymá dará bit ke eskulay zamánagá butag.
+She looks exactly the same as she was at school.,Á chath hamá paymá dará bit ke eskólay zamánagá butag.
 That guy who was just here gave me this for you.,Hamé bachakk ke anni hamedá at maná eshi dát ke tará bedayány.
 That guy who was just here gave me this for you.,Hamé mardom ke anni hamedá at maná eshi dát ke tará bedayány.
 The accident happened because he wasn't careful.,Eksidhanth hamé wástá but ke áiá hayál nadásht.
@@ -30974,7 +31376,7 @@ The problem is that solar energy costs too much.,Jédhah esh ent ke shamsi tawá
 There was only a little milk left in the bottle.,Bótalá éoká kammok shir pasht kaptag at.
 There's a drinking fountain by the tennis court.,Thénesay laybjáhay kerrá waragi ápay chammagé hast.
 They did not save money from their pocket money.,Áyán cha wati harchiá zarr narakként.
-They usually go to school from Monday to Friday.,Á yakkashá Doshambehá beger dán Ádénagá eskulá rawant.
+They usually go to school from Monday to Friday.,Á yakkashá Doshambehá beger dán Ádénagá eskólá rawant.
 This book is too difficult for me to understand.,É ketábay sarpad bayag pa man grán ent.
 This is the first time for me to read the Bible.,É mani awali rand ent ke Enjil wánagá án.
 This is the place where the incident took place.,É hamé jágah ent ke edá wákiah but.
@@ -31014,7 +31416,7 @@ I'm trying my best to forget that ever happened.,Man was kanagá án ke béhál 
 It didn't really happen the way Tom said it did.,Asalá chó nabut ke Thámá gosht ke bit.
 It is impossible to finish the report in a week.,Yakk haptagéá rapóthay halás kanag nabitagén gappé.
 Japan has economically become a powerful nation.,Jápán gozránki hesábá yakk zórmandén ostománé jódh bitag.
-She looks exactly the same as she was at school.,Á chath hamá paymá dará bit ke eskulay zamánagá bitag.
+She looks exactly the same as she was at school.,Á chath hamá paymá dará bit ke eskólay zamánagá bitag.
 That guy who was just here gave me this for you.,Hamé mardom ke anni hamedá at maná eshi dát ke tará edayáni.
 "Tom didn't have to tell me, but I'm glad he did.","Thámay sará hojj nayat ke maná begoshit gónt, bale man galán ke maná goshty gón."
 What time did you leave your house this morning?,Marchi sabáhá taw che wahdá cha gesá dar atk o shotay?
@@ -31029,13 +31431,24 @@ He was selected as the best player of the month.,Á máhay sharterén laybár da
 The sports channel broadcasts twenty-four hours.,Layb o gwáziay chénal bist o chár kaláká chálu ent.
 The supreme court rejected the new security law.,Mazan ámidgesá pa pahrézagá nókén kánun radd kot.
 The supreme court rejected the new security law.,Mazan ámidgesá pa pahrézagá nókén kánud radd kot.
-The president signed a historic trade agreement.,Sarkamáshá táriki sawdágeri kawlbandié daznám jat.
+The president signed a historic trade agreement.,Sarkamáshá táriki sawdágeri kawlbandié daznám kot.
 The labor union demanded fair wages for workers.,Poryágeráni yuniyaná pa kárdárán hakkigén mozzay lóth kot.
 The energy sector is moving towards solar power.,Enerjiay pedh sólaray némagá jonzán ent.
 Illiteracy increases the rate of early marriage.,Rájmáná kasán omrén sángáni démá allamá óshtag lóthit.
 They lose their childhood due to early marriage.,Á cha kasán omrén siray sawabá wati kasániá gár kanant.
 Early marriage leads to early divorce sometimes.,Kasániay sir báz bará zitt sawná sar kanant.
 Many young girls are sad because of this custom.,Bázén kasánén jenekk é dódá ranjéntagant.
+This decision is a direct attack on our freedom.,É payslah may ázátiay sará tachkén horoshé.
+The referee blew the whistle to start the match.,Réparia sithi jat o laby bendát kot.
+The player received a red card from the referee.,Gwázigerá cha répariay némagá sohrén kádhé raset.
+There is a $300 billion fund for reconstruction.,Éshiá pa nobondaga 300 belyun dhálaray pandhé mán ent.
+Iran said Lebanon must be included in the truce.,Éráná gosht ke jangbandiá Lobnán  allamá awár kantag bebit.
+They will not interfere in each other's affairs.,Á yakk degeray kármánán dast mán nakanant.
+Iranian dissidents may react negatively to this.,É dargatá bit kant ke Éránay wasshnayatk náwasshi darshán bekanant.
+Iran will work with Oman on a broader agreement.,Érán Ománá gón masteerén kawlbandiay sará kár kant.
+Iran has agreed to not procure a nuclear weapon.,Érán pa étomi seláh nageragá rázi but.
+Tehran wants Lebanon to be covered by the truce.,Tehrán lóthit ke Lobnán jangbandiá gón bebit.
+The signing ceremony may still happen in Geneva.,Daznámay rasam balkén padá Jenéwáyá bebit.
 He doesn't know how to relax and just enjoy life.,Á nazánt ke chetawr árám bebán o bass cha zendá mawj bekant.
 Did you receive the message I sent you yesterday?,Tará hamé paygám sar but ke man zi dém dátag at?
 Do you remember the day when we saw the accident?,Tará hamá róch yát ent ke má hamá eksidhanth dist?
@@ -31116,7 +31529,7 @@ Why didn't you tell me there was a meeting today?,Taw maná parchá nagosht gón
 "You are young. I, on the other hand, am very old.","Taw kasánayo padá, man sakk pirán."
 You may take either the big box or the small one.,Taw doenáni tahá mazanén dhabbahá yá kasánéná zort kanay.
 Tom has scored thirty two goals in thirty matches,Thámá mán si maychán si o do gól dátag.
-Schools are closed here for sixty days in summer.,Edá mán garmág eskul shast róchá band ant.
+Schools are closed here for sixty days in summer.,Edá mán garmág eskól shast róchá band ant.
 He doesn't know how to relax and just enjoy life.,Á Gwáderá neshtag bale Panjápá wánagá ent.
 He was the 22nd man to have lived over 100 years.,Á 22mi pirterén mard at ke 100 sálá gésh zendag butag.
 He was the 23rd man to have lived over 100 years.,Á 23mi pirterén mard at ke 100 sálá gésh zendag butag.
@@ -31150,7 +31563,7 @@ The defense minister inspected the military base.,Paház Wazirá póji addhah ch
 A massive protest happened outside the city hall.,Shahray hálay démá baláhén zahrshánié but.
 The prime minister held a press conference today.,Mazan Wazirá maróchi pres kánprens kot.
 An agreement was reached on cross-border trading.,Pa darsimsari sawdágeriá kawlbandié thahet.
-BBC News covered the launch of the new satellite.,Bi.Bi.Si Neuzá Nókén sethláithay lánchag hálént.
+BBC News covered the launch of the new satellite.,Bi Bi Si Neuzá Nókén sethláithay lánchag hálént.
 The city clean-up campaign was highly successful.,Shahray palgáragay dháh sakk báz sóbén but.
 The society must stand up against child marriage.,Rájmáná kasán omrén sángáni démá allamá óshtag lóthit.
 They face domestic problems after early marriage.,Á kasán omrén sirá pad lógay janjálán dochár kapant.
@@ -31160,6 +31573,11 @@ Poverty reduction helps eliminate early marriage.,Garibiay kammi kasán omriay s
 Early marriage isolates young women from friends.,Kasáni sir zálbulán cha dazgohárán éok kant.
 Child marriage violates international human laws.,Kasán omriay sir myánostománi ensáni kánunay pádmáli ent.
 Early marriage is an outdated traditional system.,Kasán omri sir kwahnkaptagén dódéay rahbandé.
+Trump signed the deal at the G7 summit in France.,Thrampá Pránsá G7 diwáná sawdá daznám kot.
+The US is not required to contribute to the fund.,Amrikahá pa pandhá wandh dayagi naent.
+The timeline can be extended with mutual consent.,Hamtepákiá gón wah o pás wadénag bit kant.
+Technical and military obstacles will be removed.,Tekniki o póji gatth dir kanag bant.
+A final deal will be endorsed by a UN resolution.,Goddhi rázibázi Yu Enay krárdádéá gón pakká kanag bit.
 A number of tourists were injured in the accident.,Eksidhanthá bázén saylánié thappi but.
 A pretty girl like you will definitely be noticed.,Tai wadhén sharrangén jenekká allamá gendant.
 "After they had finished their work, they went out.","Wati káray halás kanagá rand, á dhanná shotant."
@@ -31240,7 +31658,7 @@ We are responsible for his protection from now on.,Ched o rand má áiay páspá
 We cannot distinguish her from her younger sister.,Má pajjárt nakanén ke á kojám ent o áiay kasterén gohár kojám ent.
 We have a lot of work to do before we can go home.,Márá lógá rawagá pésar báz kár kanagi ent.
 We haven't seen a lot tourists around here lately.,Má annigán edá báz sayláni nadistag.
-We were late for school because it rained heavily.,Sakk hawr but pameshká má eskulá dérá ras etén.
+We were late for school because it rained heavily.,Sakk hawr but pameshká má eskólá dérá ras etén.
 We're sorry but this video is no longer available.,Bebaksh ke é támorband ni dastyáb naent.
 "What's important is not the goal, but the journey.","Arzeshdárén chizz menzel naent, sapar ent."
 Would you rather be fat and ugly or thin and sexy?,Taw lóthay zandh o baddhawl bebay yá bárag o seksi?
@@ -31286,6 +31704,15 @@ The peace treaty was celebrated across the nation.,Téwagén rájá ásidagi kaw
 The peace treaty was celebrated across the nation.,Téwagén rájá ásudagi kawlbandiay shátkámi kot.
 Child marriage destroys the future of young girls.,Kasán omrén sáng warnáén jenekkáni bándátá tabáh kan.
 We ask for strict implementation of marriage laws.,Má siray kánunáni kármarzagay trondéá lóth kanén.
+They are ignoring the basic rights of poor people.,Á nezórén mahlukay bonyádi haddán sargwaz kanagá ant.
+He watches football on the television every night.,Á har shap Thi Wiá póthbál charit.
+You have betrayed the trust of the entire village.,Taw téwagén halkay óstán gón dagá kot.
+You have betrayed the trust of the entire village.,Taw téwagén halkay óstán gón bájui kot.
+The agreement aims to reopen the Strait of Hormuz.,É kawlbandiay mól o morád  Hormozay tank padá pach kanag ent.
+Iran promises it will never have a nuclear weapon.,Éráná wádah kant ke hejbar étami seláh nadárit.
+Iran's President Masoud Pezeshkian also signed it.,Éránay Págwájah Masúd Pezeshkiáná ón daznám kot.
+Iran will allow safe passage for commercial ships.,Érán tejárati gorábán pa salámati gwázagay ejázat dant.
+Iran warned that necessary measures will be taken.,Éráná ózhár kotag ke allami gámgéj zirag bebant.
 A beautiful object like that never loses its value.,Choshén dhawldárén chizzay kimmat beh kamm nabit.
 A collection of her verses has just been published.,Áiay shayráni daptaré anni sheng butag.
 Don't worry about my dog. He won't do you any harm.,Mani kochekkay sawabá paréshán mabayé tará hecch nakant.
@@ -31414,6 +31841,20 @@ Many activists fight against forced early marriage.,Bázén johdkár kasániay z
 Early marriage limits work opportunities for women.,Kasnániay sir zálbuláni káray móhán hadd o band kant.
 The law must punish those who force child marriage.,Zahgán pa kasániy sirá majbur kanókán kánun allamá sezá bebant.
 The global community fights against child marriage.,Myánostománi chágerd kasán omrén siray helápá jangá ent.
+The whole institution is full of corrupt officials.,Téwagén gall cha selkárén kárdárán porr ent.
+Your ignorance is the main reason for this failure.,Tai násarpadi é bésóbiay bonyád ent.
+They are selling national assets for personal gain.,Á pa jendi sittá ráji maddhiyá bahá kanagá ant.
+We will raise our voices against this cruel system.,Má é zálémén nezámay démá wati tawárá borz kanén.
+The White House confirmed the ceasefire to the BBC.,Waith Háusá  Bi Bi Si jangbandiay hál pakká kot.
+"Earlier, Trump promised help to Iranian protesters.","Chareshiá pésar, Thrampá gón Éráni zahrshánkárán  komakkay wádah kotag butag."
+The US military will return to its pre-war posture.,Amriki pój padá jangá pésaray jáhá wátar bit.
+There will be no charge for ships using the Strait.,Pa gorábán tankay kármarzagá hecch nehád nabit.
+Licences and permissions will be granted by the US.,Parmán o ejázat Amrikáh dant.
+The US campaign sought to cut Iran off financially.,Amriki kárwáhiá Érán ektesádi dróshomá sendagay kóshest kot.
+Some assets will be released during post-MoU talks.,Em ó Yuay myáná lahté maddhi ázát kanag bant.
+Israeli operations in Lebanon would be a violation.,Lobnáná Ezráili kawlbandiyá pádmáli bant.
+"From now on, neither side will threaten each other.","Ched o rand,  cha hecch némagá yakk degerá pátráp nadant."
+The US will remove disturbances from Iranian ports.,Amrikah Éráni bandanán janjálán dir kant.
 A caged cricket eats just as much as a free cricket.,Kabassay cherett haminchok wárt ke ázátén cherett wárt.
 A lot of people are coming out of the movie theater.,Gappadhé mardom cha támor jáhá dar áyagá ent.
 Achievement provides the only real pleasure in life.,Sóbmandi zendá rástén wasshi dayant.
@@ -31523,7 +31964,12 @@ Tom doesn't actually live within Boston city limits.,Thám asalá Bóstonay shah
 I haven't eaten since breakfast and I'm very hungry.,Man harazbandá rand hecch nawártag o sakk shodig án.
 Practicing yoga makes the body flexible and healthy.,Yugáay tamrin badaná narmtáb o dráh kant.
 "Without a doubt, you're the best player on the team.","Bé shakk, taw thimay sharterén laybi ay."
-BBC News reported on the discovery of ancient ruins.,Bi.Bi.Si Neyuzá kwahn o rotkagén hankénay dar géjagay hál dát.
+BBC News reported on the discovery of ancient ruins.,Bi Bi Si Neyuzá kwahn o rotkagén hankénay dar géjagay hál dát.
+We demand an immediate investigation into this scam.,Má é dagábázi zitt patth o pólay lóth kanén.
+Your continuous negligence has caused this disaster.,Tai modámi béparwáhi é tabáhiay bonyád ent.
+Israeli action in Lebanon would break the agreement.,Lobnáná Ezráilay kárwáhi kawlbandiyá prósh kant.
+The leaders have a 60-day timeline for a final deal.,Rahshónáni kerrá pa goddhi sawdáyá 60 rócháni wahd o pás hast.
+Trump signed the document at a dinner in Versailles.,Thrampá  Wayrsáyá sháméá kágad daznám kot.
 Do you have a showroom for your products in the city?,Tará pa wati jódh kotagén chizzán shahrá shawrumé hast?
 Do you have any idea who would do this kind of thing?,Tará chó andázah hast ke choshén kár kay kant?
 Do you really want me to tell Tom about you and Mary?,Taw rásti lóthay ke man Thámá taig o Maryamay bárawá begoshán gón?
@@ -31587,7 +32033,7 @@ Do you really want me to tell Tom about you and Mary?,Taw rásti lóthay ke man 
 "If you're wrong, admit it. If you're right, be quiet.","Agan taw rad ay, bemann. Agan rást ay, hámósh bi."
 A militants organization have claimed responsibility.,Sarmacháráni galléá zemmahwári kabul kotag.
 The stadium has a seating capacity of fifty thousand.,Gwázijáhá panjáh hazár mahlukay nendagay gonjáesh hast.
-BBC News reported a major strike in the capital city.,Bi.Bi.Si Neyuzá hákomgesá mazanén zahrshániéay hál dát.
+BBC News reported a major strike in the capital city.,Bi Bi Si Neyuzá hákomgesá mazanén zahrshániéay hál dát.
 Economic growth increased by three percent this year.,É sálá ektesádi rodóm say darsad wadet.
 A diplomatic delegation arrived in the country today.,Sepárati dhallé marchi molká sar but.
 A severe energy crisis is affecting local industries.,Enerji bohráná halkay kárjáhán érjig kanán ent.
@@ -31595,6 +32041,8 @@ The border dispute was resolved peacefully yesterday.,Simsaray jédhah zi pa ás
 The health minister praised the work of local nurses.,Jándráhiay wazirá narsáni kerday tawsip kot.
 A major highway project will connect remote villages.,Sháhdaggi mazané shawrbandiay dir drájén kuchagán hamgranch kant.
 Local leaders must support the ban on early marriage.,Halkay rahshónán kasán omrén sará bandeshay hampallaw bayag lóthit.
+There is a plan for $300bn for Iran's reconstruction.,Pa Éránay nobondagá wástá 300 belyun dhálaray shawrbandi hast.
+The US will not impose new sanctions in the meantime.,É myáná Amrikah nókén bandesh najant.
 A few important facts emerged after the investigation.,Porspólá rand chizzé arzeshdárén rástál démá atk.
 A few important facts emerged after the investigation.,Porspólá rand chizzé arzeshdárén hakikat démá atk.
 A hundred and fifty diplomats came to that conference.,Yakk sad o panjáh sapáratkár á kánperensá atk.
@@ -31602,7 +32050,7 @@ A note was attached to the document with a paper clip.,Yakk nóthé keleppéay s
 At first he had trouble getting used to his new house.,Awalsará áiá wati nókén lógay wadhay chenagá janjáli but.
 At first he had trouble getting used to his new house.,Awalsará á wati nókén lógay wadhay chenagá janjál but.
 "Back in high school, I got up at 6 a.m. every morning.","Pésará ke man háiayskólá atán, har sabáh 6á pád atkán."
-"Back in high school, I got up at 6 a.m. every morning.","Pésará ke man hái eskulá atán, har sabáh 6á pád atkán."
+"Back in high school, I got up at 6 a.m. every morning.","Pésará ke man hái eskólá atán, har sabáh 6á pád atkán."
 Do you really think that I'm going to let you do that?,Taw hakk o del hamé wadh hayál kanay ke man tará chó kanagá kellán?
 Do you really think that I'm going to let you do that?,Taw rásti hamé wadh hayál kanay ke man tará chó kanagá kellán?
 Getting both sides to agree was a notable achievement.,Hardowén nemagáni tepák bayag mazanén sóbmandié.
@@ -31677,7 +32125,7 @@ Why is Boston such a popular destination for tourists?,Pa saylánián Bóston pa
 They approached the tourists and asked them for money.,Á saylániáni kerrá atkant o charáyán zarresh lóth et.
 A separatist organization have claimed responsibility.,Gestái lóthókán galléá zemmahwári kabul kotag.
 The election results will be announced tomorrow night.,Gechénkári ásaráni jár bándá shap darashán bant.
-Children returned to school after the summer holidays.,Garmágay mókalán pad zahg eskulá watar butant.
+Children returned to school after the summer holidays.,Garmágay mókalán pad zahg eskólá watar butant.
 New laws will protect women from workplace harassment.,Nókén kánun zálbulán cha kárhandi paréshániá mahpuz kant.
 A prominent scientist received an international award.,Námdárén sáensdánéá myánostománi dádé raset.
 Civil society organizations call for election reforms.,Rájmáni gall gechénkári gissh o giwáray lóth kanant.
@@ -31686,6 +32134,12 @@ The agriculture minister promised subsidies for seeds.,Kesht o kesháray wázir 
 Many families in poor countries choose early marriage.,Garibén molkán bázén hándán kasán omrén sáng gechén kanant. 
 Child marriage prevents sustainable development goals.,Kasániay sir pádárén démrawiá ósht ámách kant.
 The child marriage system harms the country's economy.,Kasán omrén sir molkay ektesádi nezámá táwán dant.
+Your corruption has destroyed the future of the youth.,Tai selkáriyán warnáyáni bándát barbád kotag.
+The authorities are sleeping while the crisis worsens.,Wákdár wáb ant wahdé ke bohrán tróndter buán ent.
+The FIFA World Cup is the biggest football tournament.,Pipá álemi kapp pothbálay masterén thórnamenth ent.
+The FIFA World Cup is the biggest football tournament.,Pipá álemi kapp pothbálay masterén gwázired ent.
+Their actions are creating absolute chaos in the city.,Áyáni kárwáhi sarjamém shahrá sheng o sháng kanagá ant.
+"Within 30 days, US forces will leave Iran's proximity.",30 róchay tahá Amriki pój Éránay nazziká yallah kant.
 "After ten minutes of flight, the helicopter is missing.",Cha bál kanagá dah meletth pad، bálgard bégwáh ent.
 All Tom really wanted was a place to sit down and rest.,Thámá bass anchén jáhé lóthet ke ódá benendit o dam bekant.
 "Although I didn't like math, I had to study logarithms.","Maná hesáb pasond nayat, bale majburatán ke lógartam bewánán."
@@ -31727,16 +32181,16 @@ The student council discussed plans for the graduation.,Tálebáni jergahá gray
 Those who live in glass houses should not throw stones.,Hamá ke kánchay gesán jahmenend ant áyán seng janag nalóthit.
 Tom has written hundreds of articles and several books.,Thámá sadán nebeshtánk o chandé ketáb nebisetag.
 Tom has written hundreds of articles and several books.,Thámá sadán nebeshtánk o chandé ketáb nebeshtah kotag.
-Tom played Moonlight Sonata at his high school recital.,Thámá wati hái eskulay zémeri marágeshá munlá eth sonátá jat.
+Tom played Moonlight Sonata at his high school recital.,Thámá wati hái eskólay zémeri marágeshá munlá eth sonátá jat.
 Tom says he's willing to do just about anything for me.,Thám goshit ke man pa taw har káray kanagá óshtátagán.
 Tom told me that he does thirty push-ups every morning.,Thámá maná gosht ke man har sabáh si poshap kanán.
-We are going on a school trip to Osaka Castle tomorrow.,Má bándá eskulay némagá osáká ay kalátay tarr o tábá rawagá én.
+We are going on a school trip to Osaka Castle tomorrow.,Má bándá eskólay némagá osáká ay kalátay tarr o tábá rawagá én.
 "When we're children, everything around us looks so big.","Wahdé má gwandhu én, may chapp o chágerday harchi gendagá mazan ent."
 "When will you be back? ""It all depends on the weather.""","Taw kadi padá ká ay? ""é téwagá mósomay sará ent."""
 Elephants still exist in thirty three forests of India.,Hendostánay si o say jangalán pil angat ón hast.
 The population of Balochistan is more than 150 million.,Balóchestánay ábádi sad o panjah melyuná gésh ent.
 The population of Balochistan is more than 150 million.,Balóchestánay ábádi yakk sad o panjah melyuná gésh ent.
-He completed his primary education from Saeedia School.,Áiá wati bendáti wánag cha Saidá eskulá sarjam kot.
+He completed his primary education from Saeedia School.,Áiá wati bendáti wánag cha Saidá eskólá sarjam kot.
 KPP will hold a public gathering on Thursday next week.,KPP áyókén Passhambehá las mahlukay mocchi barjam kant.
 PNM will hold a public gathering on Saturday next week.,PNM áyókén Shambehá las mahlukay mocchi barjam kant.
 "If Tom finds out we told you this, he'll be very angry.","Agan Thámá hál begipt ke má tará goshtag gón, sakk zahr gipt."
@@ -31769,6 +32223,9 @@ A new study links air quality with urban public health.,Yakk nókén path o pól
 Communities need to talk about child marriage problems.,Chágerdá lóthit ke kasániay siray janjáláni dargatá gapp bekan.
 Early marriage is a traditional system in some regions.,Bázén damagán kasán omrén sir dódmáni rahbandé.
 Third world problems include early marriage frameworks.,Saymi donyáay janjáláni tahá kasán omrén siray rahband ham hast.
+This law is outdated and must be abolished immediately.,É kánud kahnkaptag o zitt halás kanag bebit.
+You are destroying the cultural values of this society.,Taw é chágerday  dód o rabédagá barbád kanagá ay.
+All economic sanctions against Iran will be terminated.,Éránay sará drostén ektesádi bandeshán halás kanag bant.
 A bunch of people thrust their way toward the rear exit.,Borré mardomá dar áyagay poshti ráhay némagá zór jat.
 A considerable number of students want to go to college.,Bázén maktabié kálejá rawag lóthit.
 A considerable number of students want to go to college.,Bázén tálebé kálejá rawag lóthit.
@@ -31823,7 +32280,7 @@ Whoever committed this crime was surely out of his mind.,Harkasá ke é jorm kot
 You look like you've been doing something you shouldn't.,Gendagá taw anchén káréay kanagá butagay ke báyad ent makanay.
 You must hand in your homework by Thursday without fail.,Tará wati lókár dán Passhambehá haru baru árag o dastá dayag lóthant.
 The Prime Minister of Kuwait has visited Mali yestarday.,Kwaytay Mazan wazirá zi Máliay tar o táb kotag.
-Along with school his father taught him at home as well.,eskulay pajigá á wati petá lógá ón wánéntag.
+Along with school his father taught him at home as well.,Eskólay pajigá á wati petá lógá ón wánéntag.
 His poetry touches the hearts of millions of youngsters.,Áiay lacchahkári lakkán warná áni delán gón jant.
 BBB will hold a public gathering on Wednesday next week.,BBB áyókén Chárshambehá las mahlukay mocchi barjam kant.
 A lot of students around the world are studying English.,Donyáyá báz táleb Engrézi wánagá ent.
@@ -31879,9 +32336,9 @@ There are many housewives who complain about high prices.,Báz ges sambálókén
 There's no reason that Tom would say something like that.,Hecch sawab nést ke Thám choshén gappé bejant.
 "Today it's very sunny, so everyone is wearing sunglasses.","Marchi sakk róch ent, pameshká harkasá róchashmak chammá ent."
 "Today it's very sunny, so everyone is wearing sunglasses.","Marchi sakk róch ent, pameshká harkasá róchashmak chammá."
-Tom bequeathed half of his estate to schools for orphans.,Thámá wati jáedádáni ném chóraháni eskulán wasiat kotag.
-Tom bequeathed half of his estate to schools for orphans.,Thámá wati mirásay ném chóraháni eskulán wasiat kotag.
-Tom bequeathed half of his estate to schools for orphans.,Thámá wati melk atay ném chóraháni eskulán wasiat kotag.
+Tom bequeathed half of his estate to schools for orphans.,Thámá wati jáedádáni ném chóraháni eskólán wasiat kotag.
+Tom bequeathed half of his estate to schools for orphans.,Thámá wati mirásay ném chóraháni eskólán wasiat kotag.
+Tom bequeathed half of his estate to schools for orphans.,Thámá wati melk atay ném chóraháni eskólán wasiat kotag.
 Tom can't stay for long so let's get the meeting started.,Thám dérán jallet nakant pameshká byá et diwáná bendát kanén.
 Tom complained of a nausea after eating what Mary cooked.,Thámá Maryamay grástagénáni waragá rand kommádhiay zang jat.
 Tom finished writing the report in less than three hours.,Thámá rapóthay nebisag say kaláká pésar halás kot.
@@ -31910,6 +32367,9 @@ A major technological upgrade was implemented in banking.,Baynkári gón maznén
 The historical museum will reopen to the public tomorrow.,Táriki miuziyam pa mahluká bándá padá pach bit
 The space agency captured high-resolution images of Mars.,Espés ajensiá Marsay báz jwánén aks kasht.
 Early marriage is a big problem in third world countries.,Kasán omrén sáng saymi donyáay molkáni maznén janjálé.
+Your false promises cannot deceive the community anymore.,Tai drógén kól o karár chágerdá geshter dagá dát nakanant.
+The US and Iran will declare a permanent end to fighting.,Amrikah o Érán medhagay modámi halásiay járá janant.
+The US believes Iran will assert its rights aggressively.,Amrikahay hayálá Érán wati hakkáná trondiá pésh kant.
 "A big bomb fell, and a great many people lost their lives.",balahén bambé kapt o bázén mardomé mort.
 "A big bomb fell, and a great many people lost their lives.",balahén bambé kapt o sakk báz mardom mort.
 "As far as I know, the book is not translated into Chinese.","Daná haddá ke man zánán, é ketáb chiniá rajánk nabutag."
@@ -31947,6 +32407,7 @@ A unique archaeological site was discovered in the desert.,Rékpádá yaktáén 
 The aviation authority suspended flights due to the storm.,Pa tupánigi bálkári wáká báligoráb mahtal kotant.
 The finance minister presented the annual national budget.,Hazánagay wazirá ráji sálini zarrám pésh kot.
 A dramatic rescue operation saved hikers in the mountains.,Chó kasmánki kárwáhiéá kóhgard rakkéntantesh.
+The government is protecting criminals instead of victims.,Hokumat zadagáni badalá mojremán rakkénagá ent.
 "As soon as he arrived at the airport, he phoned his friend.","Anchó ke á báli patthá atk, áiá wati sangat pawn kot."
 "As soon as he arrived at the airport, he phoned his friend.","Anchó ke á bálipatthá atk o ras et, áiá wati sangat pawn kot."
 "As soon as he arrived at the airport, he phoned his office.","Anchó ke á báli patthá atk o ras et, áiá wati kárges pawn kot."
@@ -32011,6 +32472,9 @@ Heavy security was deployed for the national holiday event.,Pa ráji mókalá tr
 The communication network was restored after the breakdown.,Rasánki kárdám harábiá pad barjáh kotagesh.
 The educational institute introduced online learning tools.,Wánagi gallá ánláen sójgeri ózár pajjár kanáéntagant.
 The sports ministry announced dates for the national games.,Gwáziay wazirá ráji gwáziyáni tárikáni jár perrént.
+The sovereignty and integrity of Lebanon will be protected.,Lobnánay hákomi o salámati paházag bit.
+The US and Iran will respect each other's internal affairs.,Amrikah o Érán yakk degeray tahi kármánáni sharapdári kanant.
+Vessel traffic will be proportional to Iranian restoration.,Gorábáni sangár Éránay barjáhiá gón bit.
 "As far as I know, the novel is not translated into Japanese.","Daná haddá ke man zánán, é gedár Jápániá rajánk nabutag."
 "As soon as I finish writing the report, I'll send it to you.","Anchó ke man rapóthay nebisagá halás kanán, pa taw démi dayán."
 "As soon as I finish writing the report, I'll send it to you.","Anchó ke man rapóthay nebeshtah kanagá halás kanán, pa taw démi dayán."
@@ -32068,6 +32532,9 @@ Journalists protested against restrictions on media freedom.,Médhiáay ájuiay 
 The president emphasized the importance of higher education.,Sarkamáshá bosterén táliay arzeshtay sará zór dát.
 The cross-border economic corridor is now fully operational.,Darsimsari ektesádi ráhdári ni sarjamá barjam ent.
 Third world nations struggle with child marriage traditions.,Saymi donyáay molk kasániay siray dódán gón johdá ant.
+Trump is worried about Israeli operations against Hezbollah.,Thramp  Hezbollahay helápá Ezráilay kárwáhiyán  paréshán ent.
+The final goal is the permanent termination of the conflict.,Goddhi maksad jangay modámi halás kanag ent.
+Trump promised help to Iranian protesters earlier this year.,Thrampá é sálá Éráni zahrshánkáráná komakkay wádah kot.
 At first he had trouble adjusting to living in his new house.,Shoruá á wati nókén gesá gég o gwar bayagá janjál but.
 At first he had trouble adjusting to living in his new house.,Awalsará á wati nókén gesá gég o gwar bayagá janjál but.
 Cancer can be cured easily if it is found in its first phase.,Agan shummak awali kandhagá zánag bebit arzániá eláj bit kant.
@@ -32147,6 +32614,7 @@ What makes you so sure Tom was the one who stole your bicycle?,Taw parchá sadda
 The city museum attracted thousands of international visitors.,Shahrray miuziyamá hazárán myánostománi swádi delgósh kot.
 The local industry increased production of emergency supplies.,Halkay sanatá emarjensi sámánáni pédáwár waddént.
 Third world countries need strict laws against early marriage.,Saymi donyáay molkán pa kasán omrén sángáni ger o dárá trondén kánun pakár ent.
+Rahshónáni kerrá pa goddhi sawdáyá 60 rócháni wahd o pás hast.,Thramp goshit é cha 2015ay sawdáyá jetá ent.
 "As soon as she heard the bell ring, she answered the telephone.","Anchó ke áiá ganthiay tawár eshkot, thélpuni gept."
 Do you remember what day of the week Blue Sky Sports is closed?,Tará yát ent ke haptagay kojám róchá Blu Eskái Ayspórths band ent?
 Do you remember what day of the week Blue Sky Sports is closed?,Tará yát ent ke haptagay kojám róchá Blu Eskái Espórths band ent?
@@ -32179,7 +32647,7 @@ Don't argue when you are angry and don't eat when you are full.,Agan taw zahray 
 Maybe you should turn off the television and do something else.,Begenday tará Thi Wi band kang o dege káré kanag lóthit.
 Don't argue when you are angry and don't eat when you are full.,Agan taw zahray báwast makan o agan taw sér ay mawar.
 89 Indians migrants have been arrested while entering Pakistan.,89 Hendostáni béwatan Pákestáná poteragay myáná dazgir butagant
-The government is planning to build new schools in rural areas.,Hokumat kuchagán nókén eskul addh kanagay shawrbandi kanagá ent.
+The government is planning to build new schools in rural areas.,Hokumat kuchagán nókén eskól addh kanagay shawrbandi kanagá ent.
 International leaders met to discuss the global climate crisis.,Myánostománi rahshónán donyáay mósomi janjáláni dargatá pa tráná gend o nend kot
 The prime minister called for national unity during the crisis.,Mazan wazirá bohránay wahdá pa ráji tepákiay gwánk jat.
 A man who does not learn from others can't hope to achieve much.,Mardomé ke cha degerán dar nabárt báz geragay omét kot nakant.
@@ -32389,7 +32857,7 @@ Today even after ninety seven days they have not received their salary.,Marchi n
 Today even after ninety eight days they have not received their salary.,Marchi nawad o hasht róchá pad ón áyán wati pagár narastag.
 Somebody came into our house and stole some stuff while we were asleep.,Má ke wáb atén yakké may gesá potert o lahté chizzi dozz et.
 We're looking for someone who can take care of these kinds of problems.,Má kaséay shóházá én ke é wadhén jédhahán besambálit.
-"If you get good grades at school, I'll let you go to Boston next summer.","Agan taw eskulá sahrrén darjah begeray, man tará démay garmágá Bósthonay rawagá kellán."
+"If you get good grades at school, I'll let you go to Boston next summer.","Agan taw eskólá sahrrén darjah begeray, man tará démay garmágá Bósthonay rawagá kellán."
 "Money isn't everything, but if you have no money, you can't do anything.",Saylániáni kacch o kesás waddetag.
 Today even after seventy three days they have not received their salary.,Marchi haptád o say róchá pad ón áyán wati pagár narastag.
 Today even after seventy seven days they have not received their salary.,Marchi haptád o hapt róchá pad ón áyán wati pagár narastag.
@@ -32401,7 +32869,7 @@ Mary will reach to Bhutan today and from there back to Bolivia tomorrow.,Maryam 
 He was born in the attractive peninsular town Gwadar on 21st April 1926.,Á 21mi Aprél 1926á delkasshén zerwán gónagén shahr Gwáderá wadi butag.
 He found out the ancient words and phrases of which were no more in use.,Áiá hamá wahdi gál o gálwár dar gétkant ke ni kármarz nabayagá atant.
 "Money isn't everything, but if you have no money, you can't do anything.","Zarr harchi naent, bale agan tará zarr mabit, taw hecch kot nakanay."
-"If you get good grades at school, I'll let you go to Boston next summer.","Agan taw eskulá sahrrén darjah begeray, man tará démay garmágá Bóstonay rawagá kellán."
+"If you get good grades at school, I'll let you go to Boston next summer.","Agan taw eskólá sahrrén darjah begeray, man tará démay garmágá Bóstonay rawagá kellán."
 I don't know when I'll have time to finish reading the rest of this book.,Man nazánán maná pasht kaptagén ketábay wánagay halás kanagá kadi wahd rasit.
 Mary will reach to Bahamas today and from there back to Bahrain tomorrow.,Maryam marchi Bahámásá sar bit o bándá ódá che Bahrená wátar bit.
 Mary will reach to Basotho today and from there back to Belarus tomorrow.,Maryam marchi Lesótuiá sar bit o bándá ódá che Belárusá wátar bit.
@@ -32462,7 +32930,7 @@ The first issue that we have to confront is violent extremism in all of its form
 "Tom tried to tell me something, but Mary interrupted before he could say anything.","Thámá maná gappé goshagay johd kot, bale ched o pésar ke chizzé begoshit Maryamá tahá dawr kot."
 You have the right to talk to a lawyer for advice before we ask you any questions.,Ched o pésar ke má tará josté bekanén tará é hakk hast ke pa sar o sójay geragá gón wakiléá gapp bejanay.
 "Tom tried to tell me something, but Mary interrupted before he could say anything.","Thámá maná gappé goshagay johd kot, bale ched o pésar ke chizzé bogoshit Maryamá tahá dawr kot."
-"He wrote ""Best regards"" at the end of the letter and then went on to sign his name.","Áiá kágaday halásiá ""nékén salám"" nebeshtah kot o wati daznám jat."
+"He wrote ""Best regards"" at the end of the letter and then went on to sign his name.","Áiá kágaday halásiá ""nékén salám"" nebeshtah kot o wati daznám kot."
 The boys were going to hospital from home and they were coming from home to office.,Bachakk cha lógá espetálá rawagá atant o á cha lógá kárgesá pédák atant.
 The doctors were playing football in beach and the ladies were swimming in the sea.,Dáktar tyábá pothbáliá atant o zálbul daryáyá ózhnágá atant.
 The Mauritius announced 500 million dollars in aid for the flood victims of Monaco.,Mórishasá pa Monákaway hár ámáchán 50 krodh dhalar komakkay jár jatag.
