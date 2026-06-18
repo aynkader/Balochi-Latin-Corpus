@@ -4,7 +4,7 @@ This repository contains a high-quality, verified linguistic dataset designed to
 
 ## 📊 Dataset Contents
 * **[Balóchiay Látini Syáhagay Rahband (PDF Book)](Balóchiay_Látini_Syáhagay_Rahband.pdf)**: A formal orthographic reference manual detailing standard syntax, diacritic rules, and morphological structures[cite: 2, 3].
-* **[More than 32,000 Sentences Dataset (CSV)](dataset.csv)**: A parallel corpus featuring bilingual sentence pairs mapped side-by-side for machine learning model alignment[cite: 3].
+* **[More than 33,000 Sentences Dataset (CSV)](dataset.csv)**: A parallel corpus featuring bilingual sentence pairs mapped side-by-side for machine learning model alignment[cite: 3].
 * 
 ## 🛠️ Orthographic Rules & Constraints
 When training tokenizers or language models on this dataset, engineers must adhere to the core linguistic constraints of the **Balochi Latin Syáhag** system:
