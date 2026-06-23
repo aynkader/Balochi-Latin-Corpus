@@ -6787,7 +6787,7 @@ We're humming.,Má noródagá én.
 We're in love.,Má eshká gereptár én.
 We're in town.,Má shahrá én.
 We're kidding.,Má maskará kanagá én.
-We're lawyers.,Má wakilén.
+We're lawyers.,Má wakil én.
 We're leaving.,Má rawagá én.
 We're married.,Má sir kotag.
 We're nervous.,Má gabretagén.
@@ -7106,7 +7106,6 @@ We're doctors.,Má dáktar én.
 We're enemies.,Má dozhmen én.
 We're fasting.,Má róchag én.
 We're friends.,Má sangat én.
-We're lawyers.,Má wakil én.
 We're patient.,Má sáber én.
 We're popular.,Má námdár én.
 We're special.,Má gechéni én.
@@ -10768,7 +10767,7 @@ We want to win.,Má katthag lóthén.
 Watch the game.,Laybá bechár.
 I see one ball.,Man yakk bólé gendán.
 He is a lawyer.,Á wakilé.
-We are lawyers.,Má wakilén.
+We are lawyers.,Má wakil én.
 He is innocent.,Á bégonáh ent.
 He needs proof.,Áiá sabut pakár ent.
 I am a suspect.,Man shakdáré án.
@@ -10777,6 +10776,7 @@ He's an ex-con.,Á péshigén jélié.
 I was captured.,Man dazgir bitán.
 She had dreams.,Áiay wáb atant.
 She was afraid.,Á torsetagat.
+Open your book.,Wati ketábá pach kan.
 3 times 5 is 15.,"3 zarab 5, 15 ent."
 4 times 5 is 20.,"4 zarabe 5, 20 ent."
 A boat capsized.,bójigé chappi but.
@@ -14292,6 +14292,9 @@ He was arrested.,Á dazgir but.
 This is a crime.,É jormé.
 Is this culture?,É dód ent?
 They used a gun.,Áyán topang kármarz kot.
+I go to college.,Man kálejá rawán.
+I love studying.,Maná wánag dóst bit.
+Is he a student?,Á tálebé?
 A dog is barking.,Kochekké chángagá ent.
 A girl phoned me.,Jenekkéá maná pawn kot.
 Any book will do.,"Har wadhén ketábé bit, rawá ent."
@@ -15298,6 +15301,7 @@ She was innocent.,Á bégonáh at.
 He has no regret.,Áiá hecch apsózi naent.
 Raise your voice.,Wati tawár borz bekan.
 Guilty of murder.,Koshay mojrem.
+Tom studied hard.,Thámá sakk want.
 Add a little milk.,Kammé shiry mán kan.
 Are we good to go?,Má jádhién?
 Are you all ready?,Shomá drost jádhi et?
@@ -16150,6 +16154,8 @@ They used a knife.,Áyán kárch kármarz kot.
 We want the truth.,Má rástiá lóthén.
 Her name was Mary.,Áiay nám Maryam at.
 Break the silence.,Bétawáriá prósh.
+I am studying now.,Ni man wánagá án.
+I failed the test.,Man chakkásá bésób bután.
 A cat scratched me.,pesshiéá maná chánkorr pátk.
 A child needs love.,Chokká mehr pakár ent.
 A child needs love.,Chokké mehr lóthit.
@@ -16995,6 +17001,9 @@ She cried for help.,Áiá pa madatá jhkár jat.
 She fled from home.,Á cha logá jest.
 Change the mindset.,Tabá badal bekan.
 She wanted freedom.,Áiá ázádi lóthet.
+They go to college.,Á kálejá rawant.
+He studies science.,Á sáens wánit.
+They study history.,Á gwastánká wánant.
 A lion is an animal.,Shér jánwaré.
 A truck hit the dog.,Bárgádhiá kochekk gadh et.
 Accidents do happen.,Kazá allamá bant.
@@ -17584,7 +17593,6 @@ I bought her a book.,Man paráiá ketábé zort.
 I have been to Rome.,Man Rumá bitagán.
 I tried to tell Tom.,Man lóthet ke Thámá bogoshán gón.
 Rome is an old city.,Rum kwahnén shahré.
-The computer is new.,Kampyutar nók ent.
 There comes the bus.,Á bas ent pédág ent.
 When are you coming?,Taw kadi pédágay?
 I am very sad today.,Man marchi sakk molur án.
@@ -17978,6 +17986,16 @@ Educate the society.,Chágardá balad bekan.
 Respect her choices.,Áiay gechénay sharapdári bebit.
 The grave was found.,Kabr dast kapt.
 The law was amended.,Kánun badal but.
+We go to university.,Má dánezhgáhá rawén.
+You study every day.,Taw har róch wánay.
+The college is good.,Kálej sharr ent.
+Bring the book here.,Ketábá edá byár.
+I am going to class.,Man kelásá rawagá án.
+Tom graduated today.,Thámá marchi dhegrié gept.
+Are you a professor?,Taw própésaré ay?
+Is the library open?,Ketábjáh pach ent?
+I am in the library.,Man ketábjáhá án.
+We studied together.,Má yajjáhá want.
 Add up these figures.,É hesábán hawár kan.
 All the meat was bad.,Drostén gósht gahetag at.
 All you need is love.,Tará bass mehr pakár ent.
@@ -18943,6 +18961,13 @@ Human life is sacred.,Ensáni zend sharap dárit.
 He was an accomplice.,Á hamkópagé at.
 She is gone too soon.,Á báz zutt shot.
 We must prevent this.,Márá eshiay ger o dár kanagi ent.
+We are studying here.,Má edá wánagá én.
+She reads many books.,Á báz ketáb wánit.
+I have a class today.,Marchi mani kelásé hast.
+We study mathematics.,Má hesáb wánén.
+Where is the library?,Ketábjáh kojá ent?
+I need to buy a book.,Maná ketábé bahá ziragi ent.
+Mars is a red planet.,Marik sohrén sayárahé.
 "Above all, be patient.",Masterén chizz esh ent ke sabr kan.
 "All right, I'll do it.","Sharr ent, man kanány."
 "All right, I'll do it.","Sharr ent, many kanán."
@@ -19586,9 +19611,7 @@ You need to come home.,Tará lógá áyag pakár ent.
 Your hair's beautiful.,Tai mid dhawldár ant.
 Always tell the truth.,Modám rást bogosh.
 Are you coming or not?,Taw pédágay yá na?
-Do you own a computer?,Tará kampyutar hast?
 I thought it was true.,Man gosht záná é rásté.
-I want a new computer.,Man nókén kampyutaré lóthán.
 Let's turn off the TV.,Byá Thi Wiá band kanén.
 Tell Tom I won't sing.,Thámá bogosh man sawt najanán.
 Tell me what happened.,Maná bogosh gón ché but.
@@ -19978,7 +20001,18 @@ The mother is weeping.,Mát gréwagá ent.
 The media reported it.,Hálkárán é hál perrént.
 Do not hide the truth.,Rástiá chér maday.
 The law will find you.,Kánun tará dar géjit.
-Justice for all women.,Ensáp drostén zálbulán.
+Justice for all women.,Ensáp pa drostén zálbulán.
+He goes to university.,Á dánezhgáhá rawt.
+The professor is here.,Própésar edá ent.
+The university is big.,Dánezhgáh mazan ent.
+The class has started.,Kelás bendát butag.
+The class is finished.,Kelás halás ent.
+Where is your college?,Tai kálej kojá ent?
+This is my university.,É mani dánezhgáh ent.
+They finished college.,Áyán kálej halás kot.
+We will study tonight.,Má enshapi wánén.
+Do not miss the class.,Kelásá pash makap.
+Keep your mobile safe.,Wati mobáilá rakkén.
 A stone does not float.,Seng trappal nabit.
 All right. It's a deal.,Sharr ent sawdá laggetag.
 All roads lead to Rome.,Drostén ráh rómá rawant.
@@ -20802,7 +20836,7 @@ Do you want to see Tom?,Taw Thámá chárag lóthay?
 Cats don't eat bananas.,Pesshi móz nawarant.
 I have a wife and kids.,Maná lógbánoké o chokk hast.
 Tom thought I was Mary.,Thámay hayálá man Maryam atán.
-Tom's computer crashed.,Thámay kampyutar tabáh but.
+Tom's computer crashed.,Thámay kampyuthar tabáh but.
 Who's the happy couple?,Wasshén jódhig kaig ent?
 I can't live on my own.,Man wati wadhá nesht nakanán.
 I have to brush my hat.,Maná wati kolah sáp kanagi ent.
@@ -20994,6 +21028,16 @@ Do not support killers.,Koshendahán madat makan.
 We will not forget her.,Má áiá nashamoshén.
 Awareness is spreading.,Sarpadi waddán ent.
 End honour killing now.,Gayratay námá kóshoká ni band bebit.
+We love our university.,Márá wati dánezhgáh dóst bit.
+I am a college student.,Man kálejay táleb án.
+That is a good college.,Á sharrén kálejé.
+I want to get a degree.,Man dhegrié gerag lóthán.
+I finished my homework.,Man wati lógkár halás kot.
+I won't miss the class.,Man kelásá pash nakapán.
+Go to your college now.,Ni wati kálejá boraw.
+This college is famous.,É kálej námdár ent.
+The classroom is clean.,Kelás sapá ent.
+I lost my mobile phone.,Mani wati mobáel gár but.
 A bear can climb a tree.,Mamm drachká sar kapt kant.
 A lot of people do that.,Báz mardom anchó kant.
 All our attempts failed.,May drostén kóshest bésób bitant.
@@ -21552,7 +21596,6 @@ Your house is very nice.,Taw ges sakk shawk ent.
 He sometimes watches TV.,Á baré baré Thi Wi chárit.
 His birthday is May 5th.,Áiay bitenróch 5 Maiá ent.
 I was prepared for this.,Man pareshiá tayár atán.
-It was a computer error.,É kampyutaray harábié at.
 It's the right decision.,É rástén paysalah ént.
 Rome is an ancient city.,Rum kadimén shahré.
 The jet landed at Tokyo.,Jatth Thókyóá ér atk.
@@ -21702,6 +21745,13 @@ It was a planned murder.,É shawrbandén kóshé at.
 Traditions can be cruel.,Rawáj zórák bit kanant.
 Youth are fighting back.,Warná medhagá ant.
 Freedom is a birthright.,Ázádi butanni hakké.
+We are college students.,Má kálejay táleb én.
+Where is the university?,Dánezhgáh kojá ent?
+We study in the library.,Má ketábjáhá wánén.
+Study more for the exam.,Pa chakkásá géshter bewán.
+Listen to the professor.,Própésará gósh dár.
+My phone battery is low.,Mani pawnay battri jahl ent.
+Online shopping is easy.,Ánláen sawdágeri ásán ent.
 "A glass of water, please.","Mehrabáni kan, gelásé áp byár."
 A lot of people like Tom.,Báz mardom Thámá pasond kant.
 A lot of people like Tom.,Báz mardomá Thám dóst bit.
@@ -22319,7 +22369,7 @@ Today is Mary's birthday.,Marchi Maryamy butan róch ent.
 I don't know what to say.,Man nazánán ché bogoshán.
 I used to live in Boston.,Man Bóstoná jahmenend atán.
 I was too happy to sleep.,Man anchó gal atán ke wáb nakaptán.
-I'm a computer scientist.,"Man kampyutaray sáensdáné án,"
+I'm a computer scientist.,"Man kampyutharay sáensdáné án,"
 I'm going to miss Boston.,Man pa Bóstoná zahirig bán.
 I'm tired of watching TV.,Man Thi Wiay cháragá dam bortag.
 Tom often goes to Boston.,Thám géshter Bóstoná rawt.
@@ -22457,6 +22507,16 @@ This provides some peace.,Cha eshiá kammé sokun rasit.
 Loopholes must be closed.,Nezóri allamá band bebant.
 The brother was arrested.,Brát dazgir but.
 He followed old mindsets.,Á kwahnén tabay hampallawi kot.
+I study computer science.,Man kampyuthar sáens wánán.
+Did you attend the class?,Taw kelásá shotay?
+We will visit the campus.,Má  kaympasay dawrá kanén.
+The new student is smart.,Nókén táleb shiwár ent.
+He wants to study abroad.,Á darmolká wánag lóthit.
+This is a new technology.,É nókén teknólójié.
+My computer is very fast.,Mani kampyuthar báz téz ent.
+Biotechnology is growing.,Báyóteknólóji rodán ent.
+We need renewable energy.,Márá téjári enerji pakár ent.
+We live in a digital age.,Má dhigithal dawrá zendag én.
 A fork fell off the table.,Cha thébalá chárpánché kapt.
 A penny for your thoughts.,Tai hayálán zánag lóthán.
 A wood floor is beautiful.,Dáray parsh dhawldár ent.
@@ -23092,6 +23152,13 @@ They destroyed her dreams.,Áyán áiay wáb barbád kotant.
 They threatned her before.,Áyán á pésará ham béhár datag.
 You cannot escape justice.,Taw chá hakká narakkay.
 He must pay for his crime.,Áiá wati jormay sezá allamá berasit.
+The professor is in class.,Própésar kelásá ent.
+College life is beautiful.,Kálejay zend zébdár ent.
+We went to the university.,Má dánezhgáhá shotén.
+We are ready for the test.,Má pa chakkásá jádhi én.
+She is a famous scientist.,Á námdárén sáensdáné ent.
+Scientists test new ideas.,Sáensdán nókén hayálán chakkásant.
+DNA contains genetic code.,Dhi En Ayá bon o béhi ramz hast.
 A good idea occurred to me.,Maná sharrén hayálé atk.
 "Above all, watch your diet.","Drostán géshter, wati wardá bedár."
 All you need to do is wait.,"Tará hecch kanagi naent, bass wadár kanagi ent."
@@ -23686,6 +23753,23 @@ The village elders decided.,Halkay masterán paysalah kot.
 The judge read the verdict.,Káziá paysalah want.
 Life imprisonment sentence.,Omr kayday sezá.
 No forgiveness for killers.,Pa koshendahán hecch paheli nést.
+The professor teaches well.,Própésar sharriá wánénit.
+We will graduate next year.,Má démay sálá dhegri gerén.
+Which college do you go to?,Taw kojám kálejá raway?
+Are they at the university?,Á dánezhgáhá ant?
+She passed the examination.,Áiá chakkás pás kot.
+He will become a professor.,Á própésaré bit.
+Do your best in university.,Dánezhgáhá wati wasá bekan.
+The professor is very kind.,Própésar sakk mehrwán ent.
+Technology makes life easy.,Teknólóji zendá ásán kant.
+The website is not working.,Websáith kárá naent.
+AI can translate languages.,AI zobánán rajánk kot kant.
+The rocket went into space.,Róketh kelahá shot.
+Astronauts travel to space.,Kelaház kelahá sapar kanant.
+Who invented the telephone?,Thélipawn kayá ijád kot?
+Nuclear energy is powerful.,Éthami enerji zórmand ent.
+Do not share your password.,Wati ramzá shéer makan
+Technology connects people.,Teknólóji mahlúká hamgranch kant.
 A lot of tourists come here.,Edá bázén saylánié kayt.
 A mouse is a timid creature.,Moshk rittacharzén sorendahé.
 A sane man wouldn't do that.,Sárén mardom chosh nakant.
@@ -24226,6 +24310,15 @@ The community stayed silent.,Chágard bétawár but.
 It is a violation of rights.,É hakkáni pádmáli ent.
 Every woman deserves safety.,Har zálbul salámatiay hakkdár ent.
 But it won't bring her back.,Balay é áiá bérand nakanit.
+She has a university degree.,Áiá dánezhgáhay dhegrié hast.
+I went to college yesterday.,Man zi kálejá shotán.
+Do your university homework.,Wati dánezhgáhay lógkárá bekan.
+Education changes the world.,Wánag donyáyá badal kant.
+He is talking on the mobile.,Á mobáilá gappá ent.
+Technology creates new jobs.,Teknólóji nókén kár pédá ant.
+AI helps in medical science.,AI tebbi sáensá madat kant.
+He invented a unique device.,Áiá bėdarwarén ózáré ijádé kot.
+Keep your antivirus updated.,Wati anthi wáerasá nókáz.
 A dog is a man's best friend.,Kochekk mardomay sharterén sangat ent.
 A good idea crossed his mind.,Áiay sassáyá sharrén hayálé atk.
 A hungry man is an angry man.,Shodigén mardom damáná zahr gept.
@@ -24719,6 +24812,23 @@ Six hundred stadiums are big.,Shash sad gwázijáh mazan ant.
 Nine hundred goals were made.,Nóh sad gól butagat.
 Nine thousand matches remain.,Nóh hazár layb hast ant.
 Seven billion fans are happy.,Hapt belyun shaydái gal ant.
+You are a university student.,Taw dánezhgáhay tálebé ay.
+The professor gave a lecture.,Própésará lekcharé kot.
+The college library is quiet.,Kálejay ketábjáh bétawár ent.
+We need science for progress.,Márá pa démrawiá sáens pakár ent.
+I use the internet every day.,Man har róch intarnethá kármarz kanán.
+She wrote a computer program.,Áiá kampyutharay prográmé nebeshtah kot.
+She sent a message via phone.,Áiá gón pawná kolahé dém dát.
+Robots can do difficult work.,Robóth gránén kárán kot kanant.
+Machines reduce human effort.,Meshin ensáni mehnatá kam kanant.
+Scientists study outer space.,Sáensdán dhanni kelaha wánant.
+They discovered a new planet.,Áyán nókén sayárahé dar gétk.
+The telescope looks at stars.,Dirgend estárán chárit.
+The laboratory is very clean.,Ázmáeshjáh sakk sapá ent.
+Cancer research is important.,Kaynsaray bárawá potth o pól arzesht dárit.
+Science helps protect nature.,Sáens kudratay paházagá madat kant.
+Data protection is necessary.,Dhétháyay sekórithi lázomi ent.
+Digital privacy is important.,Dhigithal parda dári arzesht dárit.
 A dolphin is a kind of mammal.,Gókén yakk tahréay shirendagé.
 A good coach trains this team.,É thimá sharrén kóché hélkári dant.
 "Above all, children need love.","Drostán géshter, zahgán mehr pakár ent."
@@ -25227,7 +25337,6 @@ Why are you saying that to me?,Taw é gappá maná parchá goshagá ay?
 Why aren't you coming with us?,Taw parchá gón má nayá ay gón?
 Your answer differs from mine.,Tai jawáb cha manigá park kant.
 I was born on 28 January 1972.,Man 28 Janwari 1972á wadi butagán.
-My computer needs to be fixed.,Mani kampyutar addh kanag lóthit.
 "Actually, that's why I'm here.","Chónáyá, hamé sawabá man edá án."
 "Could you repeat that, please?","Mehrabáni kan, eshiá padá bogosh."
 I just don't know what to say.,Man wa nazánán ke ché bogoshán.
@@ -25284,6 +25393,23 @@ They broke her heart and life.,Áyán áiay del o zend prósht.
 The investigation has started.,Patth o pól bendát but.
 He claims it was self-defence.,Á goshit é wati rakkénag at.
 No tradition justifies murder.,Hecch dód kóshá jáez krár nadant.
+Will you complete your degree?,Taw wati dhegriá sarjam kanay?
+They will build a new college.,Á nókén kálejé addh kanant.
+Read this educational article.,É wánagi nebeshtánká bewán.
+The examination was difficult.,Chakkás grán at.
+Higher education is necessary.,Géshén wánag lázomi ent.
+I love science and technology.,Maná sáens o teknólóji dóst bit.
+Change your computer password.,Wati kampyutharay ramzá badal kan.
+We store data on the computer.,Má kampyuthará dthátá ambár kanén.
+We can video call our friends.,Má wati dostáná wedhyu kál kot kanén.
+This robot works in a factory.,É robóth kárjáhéá kár kant.
+The robot is moving its hands.,Robóth wati dastán sorénagá ent.
+Space technology is expensive.,Kelahi teknólóji gránharch ent.
+Innovation drives the economy.,Nógéji károbárá démá barit.
+They are searching for a cure.,Áyán elajé shóházá ant.
+They test vaccines in the lab.,Á azmáeshjáhá weksinán chakkásant.
+We must use technology wisely.,Márá teknólóji samádáriá gón kármarz kanag lóthit.
+Science explores the unknowns.,Sáens nazántagén chizzán dar géjit.
 A fire broke out near my house.,Mani lógay nazzikká ás kapt.
 "Answer the telephone, will you?","Taw thélpunay passawá day, genday?"
 "Answer the telephone, will you?","Taw thélpunay passawá dayay, genday?"
@@ -25953,6 +26079,16 @@ One million fans love football.,Yakk arab shaydáiyán pothbál dóst bit.
 Eight billion people look here.,Hasht belyun mardom edá chárant.
 The family committed the crime.,Kahólá jorm kot.
 Medical reports confirm murder.,Medhikal rapóthá kósh pakká but.
+They are studying for the exam.,Á pa chakkásá wánagá ant.
+I am busy with university work.,Man dánezhgáhay kárán dazgatth án.
+Science is the study of nature.,Sáens kudratay wánag ent.
+Modern technology changes fast.,Nókén teknólóji téziá badal bit.
+He is learning computer coding.,Á kampyuthary ramznawisi dar baragá ent.
+The moon goes around the Earth.,Máh zeminay gerdá gardesh kant.
+Is there life on other planets?,Dege sayárahán zend hast?
+Medical technology saves lives.,Tebbi teknólóji sáhán rakkénit.
+He works in the software field.,Á sópthwaeray pedhá kár kant.
+They are building a smart city.,Á esmárthén shahré addh kanagá ant.
 A computer is a complex machine.,kampyuthar péchenén meshiné.
 A penny saved is a penny earned.,Zarray darp kanag zarray katthagay baróbar ent.
 A refrigerator keeps meat fresh.,Peréj góshtá tázag dárit.
@@ -26565,7 +26701,6 @@ We use a lot of water every day.,Má harróch báz áp kármarz kanén.
 Yesterday my uncle bought a dog.,Zi mani nákuá kochekké bahá zort.
 You can always sleep on my sofa.,Taw modám mani sópahay sará wapt kanay.
 Tell him what he can do to help.,Áiá bogosh ke á pa madat kanagá ché kot kant.
-A computer is a complex machine.,Kampyutar péchenén meshiné.
 I want you to tell me the truth.,Man lóthán ke taw gón man rást bogoshay.
 I was reluctant to say anything.,Man pa chizzéay goshagá chakk o pad atán.
 "If you get sleepy, just tell me.","Agan tará wáb gipt, bass maná bogosh."
@@ -26603,6 +26738,19 @@ The uranium will be downblended.,Yuréniom kamm tarénang bit.
 The US sees this as a major win.,Amrikay nezzá é mazanén sóbmandié.
 The state must protect everyone.,Reyásat allamá harkasá berakkénit.
 The father committed the murder.,Petá kosht.
+We do not have a class tomorrow.,Bándá márá kelás nést.
+Ask the professor your question.,Wati jostá cha própésará bepors.
+We have five classes every week.,Márá har haptah panch kelás hast.
+The college campus is beautiful.,Kálejay kaympas dhawldár ent.
+The internet connects the world.,Intarneth donyáyá hamgranch kant.
+Smartphones are very common now.,Ni esmárthpawn báz ám ant.
+The internet speed is very high.,Intarnethay raptár báz téz ent.
+Inventions change our lifestyle.,Nókén ijád zenday tarzá badal kanant.
+This invention saved many lives.,É ijádá bázén sáh rakkéntant.
+Microscopes show small bacteria.,Máikróeskóp kasánén jarásimán pésh dárith.
+Electric cars do not use petrol.,Elektrek gádhi pethról kármarz nakanant.
+Save energy using smart devices.,Esmárthén ózár kármarz o enerji rakkén.
+Cybersecurity protects our data.,Sáibar sekórithi may dhétháyá paházit.
 A man without a woman is nothing.,Bé janéná mardén hecché naent.
 A toothache deprived me of sleep.,Dantánay dardá maná wapsagá naesht.
 A toothache deprived me of sleep.,Dantánay dardá maná cha wábá zebahr kot.
@@ -27236,6 +27384,19 @@ He is the head coach of our team.,Á may thímay masterén kóch ent.
 The stadium entrance was crowded.,Gwázijahay dará mahluk moch at.
 Five thousand stadiums are ready.,Panch hazár laybjáh jádhi ant.
 Many questions remain unanswered.,Bázén jost béjawáb ant.
+The university has a big library.,Dánezhgáhá baláhén ketábjáhé hast.
+I will go to university tomorrow.,Man bándá dánezhgáhá rawán.
+Please sit down in the classroom.,Mehrabáni kan kelásá benend.
+"If you study hard, you will pass.","Agan taw sakk wánay, pás bay."
+They are talking about education.,Á wánagay bárawá gapp janagá ant.
+Scientists do research every day.,Sáensdán har róch potth o pöl kanant.
+He works in a technology company.,Á teknólójiay kampaniéá kár kant.
+The computer is a useful machine.,Kampyutharr kárámadén meshiné ent.
+Download this mobile application.,É mobáilay aplikéshaná ér géj.
+Science discovered new medicines.,Sáensá nókén darmán daryápt kot.
+The doctor used a digital device.,Dóktará digithal ózar kármarz kot.
+The future belongs to technology.,Bándát gón teknólójiá ent.
+Young students study engineering.,Warnáén táleb enjiniari wánant.
 All of my friends are out of town.,Mani drostén sangat shahrá dhannant.
 Birds of a feather flock together.,Har morg wati ramá.
 Boston is not at all like Chicago.,Bósthon shekágaway hecch wadhá naent.
@@ -27851,7 +28012,6 @@ Why don't you change your clothes?,Taw wati godán parchá namatthénay?
 You may choose whichever you want.,Har kojámiá lóthay gechén kot kanay.
 You're wrong. That's not the case.,Taw rad ay. Chó naent.
 Boston is not at all like Chicago.,Bóston hecch paymá Shekágaway wadhá naent.
-Do you know how to use a computer?,Taw Kampyutaray kármarz kanag zánay?
 I hope I can find a job in Boston.,Maná omét ent ke Maná Bóstoná káré rasit.
 I need you to tell me where to go.,Maná pakár ent ke taw maná bogoshay ke kojá borawán.
 I want to learn more about Boston.,Man Bóstonay bárawá géshter zánag lóthán.
@@ -27878,6 +28038,14 @@ She won the gold medal in archery.,Áiá tirgwáziá telahay bámozz katthet.
 She teaches martial arts to women.,Á zálbuláni jangbázi wánénit.
 One billion people watch the game.,Yakk belyun mardom laybá chárant.
 Iran benefits only if it complies.,Éráná hamá wahdá sitt rasit wahdé wati wádahá purá kant.
+University education is important.,Dánezhgáhay wánag arzesht dárit.
+I will start my classes next week.,Man démay haptagá wati kelásán bendát kanán.
+She will buy the university books.,Á dánezhgáhay ketábán bahá zirit.
+University education is expensive.,Dánezhgáhay wánag gránharch ent.
+Technology improves communication.,Teknólóji rasánkiá gehter kant.
+We can see stars with a telescope.,Má gón dirgendéá estárán cháret kanén..
+Technology brings new innovations.,Teknólóji nógéji kárit.
+We respect scientific discoveries.,Má sáensi daryáptáni sharap dári kanén.
 A cat came out from under the desk.,Pisshé cha dheskay chérá dar atk.
 A cat came out from under the desk.,Pesshié cha dheskay chérá dar atk.
 Achilles was an ancient Greek hero.,Akiliz wahdi yunáni bámardé butag.
@@ -28253,7 +28421,6 @@ Truer words have never been spoken.,Rásterén labz beh goshag nabitagant.
 You'd better go. It's getting late.,Sharter hamésh ent ke taw boraway. Dér bayagá ent.
 I thought he would never come here.,Man gosht á edá beh nayayt.
 "By the way, do you play the violin?","Chónáyá, taw wáelen janay?"
-I bought a new computer last month.,Man gwastagén máhá nókén kampyutaré gept.
 I wasn't impressed by what Tom did.,Man cha Thámay kotagénán asarmand nabitán.
 Tell Tom he has to wash the dishes.,Thámá bogosh tará hirán moshagiant.
 The bridge was built by the Romans.,É pohl Rumián bastag.
@@ -28290,6 +28457,11 @@ He is a passionate football player.,Á pothbálay zabardastén gwázigeré.
 The match ended in a dramatic draw.,Layb dharámahi wadhá baróbariá halás but.
 The 60-day countdown has now begun.,60 róchay  chapshomári ni shoru butag.
 The agreement is performance-based.,Kawlbandi kerday bonyádá ent.
+The university will open on Monday.,Dánezhgáh Doshambehá pach bit.
+Do you have an internet connection?,Tai gwrá intarnethay kanakshan hast?
+Electricity drives modern machines.,Bejli nókén meshinan halláenit.
+Wind turbines generate electricity.,Gwáthay tharbáen bejli addh kanant.
+Hackers tried to steal information.,Hékarán málumdári dozzagay johd kot.
 A friend in need is a friend indeed.,Sangat hamá ent ke sakkiay wahdá kárá byayt.
 A friend of mine is studying abroad.,Mani sangaté darmolká wánagá ent.
 "Above all, don't forget to write me.","Drostán géshter, pa man kágaday janagá béhál mabay."
@@ -28721,6 +28893,10 @@ They treat human rights like a joke.,Á ensáni hakkán maskráé mánkár ant.
 The conflict will end on all fronts.,Cha drostén sanagrán dáwah halás bit.
 Iran has been hard-hit by sanctions.,Érán Bandeshán trondiá érjig kotag.
 Trump says this was 99% of his goal.,Thramp goshit é mani 99% maksad butag.
+Some machines can think like humans.,Lahthén meshin ensánay wadhá hayál kot kanant.
+They got a patent for the invention.,Áyán wati ijádé sanad gept.
+"Without technology, the world stops.",Bė teknólójiá donyá óshtit.
+Technology can have bad effects too.,Teknólójiay hárábén asar ham but kanant.
 A drowning man will catch at a straw.,Bokkókén mardom bucchoká ón gept.
 A drowning man will catch at a straw.,Bokkókén mardom bucchoká ham gipt.
 A lot of tourists invaded the island.,Gappadhé saylániá zerwánay sará algár kot.
@@ -29083,6 +29259,9 @@ They are forced by family traditions.,Á cha kahólay dódáni majbur ant.
 Child marriage is a cycle of poverty.,Kasániay sir garibiay mántarré.
 Argentina played very well yesterday.,Arjentiná zi báz wassh layb kot.
 Where is the human rights protection?,ensáni hakkáni paházók kojá ant?
+My brother is a university professor.,Mani brát dánezhgáhay própésaré.
+Thomas Edison invented the lightbulb.,Thómas Edhisaná rozhnay balp addh kot.
+We study climate change with science.,Má sáensay komakká mósomi badalián wánén.
 A drowning man will clutch at a straw.,Bokkókén mardom bucchokéá ón dárit gón.
 A drowning man will clutch at a straw.,Bokkókén mardom bucchoká ham dárit gón.
 "After the lightning, came the thunder.","Geróká rand, grand atk."
@@ -29412,6 +29591,11 @@ They face continuous health struggles.,Eshán pa dráhjániá yakkó johd kanag 
 They are too weak to fight the custom.,Á gón é dódá sakk nezor ant.
 The US-Iran agreement has been signed.,Amrikah o Éránay kawlbandi daznám butag.
 Frozen Iranian funds will be released.,Éránay dáshtagén zarr ázát kanag bant.
+Érán pa etham seláh nageragá rázi but.,Éráná wádah kant ke hejbar étami seláh nadárit.
+The professor came into the classroom.,Própésar kelásá atk.
+Science helps us understand the world.,Sáens márá donyáay serpad buwagá madat kant.
+Virtual reality feels completely real.,Záheri rásti sarjmá rást márag bit.
+Technology and science change history.,Teknólóji o sáens táriká badal kanant.
 A widower is a man whose wife has died.,Sarózám hamá mard ent ke lógbánoky mortag.
 A widower is a man whose wife has died.,Sarózám hamá mard ent ke jany mortag.
 All you need to do is listen carefully.,"Harchi ke tará kanagi ent, esh ent ke sharriá gósh dár."
@@ -29689,6 +29873,9 @@ Traffic will start flowing immediately.,thrépekay aw o á zitt bendát bit.
 De-mining operations will be conducted.,Bárudi sorongáni sáp kanagay kár barjam bant.
 Waivers for oil exports will be issued.,Thélay dhanná baragay parmán sheng bant.
 The MoU was signed at a post-G7 dinner.,Em o Yu G7ay shámá pad daznám butag.
+He is studying artificial intelligence.,Á masnui pahm wánagá ent.
+Solar technology provides green energy.,Sólar teknólóji sápén enerji pojjáenint.
+"If science advances, humanity benefits.","Agan sáens démá rawt, ensáná sitt bit."
 All of my grandparents are still living.,Mani drostén pirok o ballok angat zendagant.
 All you have to do is tell Tom to leave.,Tai kár bass hamésh ent ke Thámá begosh boraw.
 "Because of the bad weather, I didn't go.","Harábén mósomay sawabá, man nashotán."
@@ -30141,7 +30328,6 @@ Tom isn't qualified to teach high school.,Thám hái eskólá wánénagay ahl na
 We need to do the important things first.,Márá arzeshti kár pésará kanag pakár ent.
 Why didn't you tell me Tom would be here?,Taw maná parchá nagosht gón ke Thám kayt?
 Did you know they were coming here today?,Taw zántag ke á marchi pédágant?
-Have you ever written a computer program?,Taw beh kampyutaray marágesh nebeshtah kotag?
 Is Tom really going to Boston by himself?,Thám rásti wat Bóstoná rawagá ent?
 The TV remote control is under the couch.,Thi Wiay remóth némkathay chérá ent.
 The world is full of gossipers and liars.,Donyá cha gappi o drógbandá porr ent.
@@ -30172,6 +30358,7 @@ We want an end to early forced marriages.,Má kasán omriay árósán halás kan
 We must speak up for young girls' rights.,Márá kasánén jenekkáni hakkáni háterá gapp janagi ent.
 Necessary measures will be taken by Iran.,Érán azhdari gámgéj zirit.
 Negotiations for a final deal will start.,Pa goddhi kawlbandiá gapp o trán bendát bit.
+Technology solves environmental problems.,Teknólóji chágerdi janjálán gisshénit.
 A widow is a woman whose husband has died.,Janózám hamá janén ent ke áiay lógwájah mortag.
 A widow is a woman whose husband has died.,Janózám hamá janén ent ke áiay mard mortag.
 "After a while, the man came into the room.","Kammokéá rand, mard kóthiá atk."
@@ -30590,7 +30777,6 @@ There used to be a big castle on this hill.,É kóhay sará balahén kaláté bi
 "By the way, have you ever been to Hokkaido?","Chónáyá, taw beh Hokkáidawá shotagay?"
 "Generally speaking, history repeats itself.","Chónáyá, daptar watá parrámit."
 "Generally speaking, savings are increasing.","Chónáyá, sar árag gésh kanagé."
-I first used a computer about 40 years ago.,Man awali randá kamm o gésh chell sál pésar kampyutar kármarz kot.
 "In general, Tom likes to do things himself.","Chónáyá, Thámá káréay wat kanag washter bit."
 It's difficult to learn a foreign language.,Dari zobánáéay sekkag grán ent.
 Promise me you won't get mad if I tell you.,Wádah kan ke agan man tará bogoshán gón taw zahr nageray.
@@ -30626,6 +30812,9 @@ Iran insisted on the release of its assets.,Éráná pa wati maddhiáni ázáti�
 Procedures for release will be agreed upon.,Ázátiay wadh o dhawl tepák kanag bant.
 A monitoring mechanism will be established.,Negahdáriay rahbandé addh bit.
 The US perspective is focused on Hezbollah.,Amrikahay chamm Hezbollahá sakk ant.
+I go to university because I want to learn.,Man dánezhgáhá rawán parchá ke man dar barag lóthán.
+She is writing a university research paper.,Á dánezhgáhay pólagi kágadé nebeshtah kanagá ent.
+Artificial intelligence is developing fast.,Masnui pahm téziá démrawi kanagá ent.
 A bird in the hand is worth two in the bush.,Dastay yakk morgé cha pochay do morgá démáter ent.
 A little knowledge can be a dangerous thing.,Kammok elm hatarnák bit kant.
 A pelican can fit a lot of fish in its beak.,Méshmorg gappadhé máhig wati chombá jágah dát kant.
@@ -31446,7 +31635,7 @@ Iran said Lebanon must be included in the truce.,Éráná gosht ke jangbandiá L
 They will not interfere in each other's affairs.,Á yakk degeray kármánán dast mán nakanant.
 Iranian dissidents may react negatively to this.,É dargatá bit kant ke Éránay wasshnayatk náwasshi darshán bekanant.
 Iran will work with Oman on a broader agreement.,Érán Ománá gón masteerén kawlbandiay sará kár kant.
-Iran has agreed to not procure a nuclear weapon.,Érán pa étomi seláh nageragá rázi but.
+Iran has agreed to not procure a nuclear weapon.,Érán pa éthami seláh nageragá rázi but.
 Tehran wants Lebanon to be covered by the truce.,Tehrán lóthit ke Lobnán jangbandiá gón bebit.
 The signing ceremony may still happen in Geneva.,Daznámay rasam balkén padá Jenéwáyá bebit.
 He doesn't know how to relax and just enjoy life.,Á nazánt ke chetawr árám bebán o bass cha zendá mawj bekant.
@@ -31709,7 +31898,6 @@ He watches football on the television every night.,Á har shap Thi Wiá póthbá
 You have betrayed the trust of the entire village.,Taw téwagén halkay óstán gón dagá kot.
 You have betrayed the trust of the entire village.,Taw téwagén halkay óstán gón bájui kot.
 The agreement aims to reopen the Strait of Hormuz.,É kawlbandiay mól o morád  Hormozay tank padá pach kanag ent.
-Iran promises it will never have a nuclear weapon.,Éráná wádah kant ke hejbar étami seláh nadárit.
 Iran's President Masoud Pezeshkian also signed it.,Éránay Págwájah Masúd Pezeshkiáná ón daznám kot.
 Iran will allow safe passage for commercial ships.,Érán tejárati gorábán pa salámati gwázagay ejázat dant.
 Iran warned that necessary measures will be taken.,Éráná ózhár kotag ke allami gámgéj zirag bebant.
@@ -32292,7 +32480,6 @@ I'm sure Tom appreciates everything you've done for him.,Maná yakin ent ke taw 
 Whoever committed this crime was surely out of his mind.,Harkasá ke é jorm kotag pakkáyá sará baróbar nabitag.
 You look like you've been doing something you shouldn't.,Gendagá taw anchén káréay kanagá bitagay ke báyad ent makanay.
 "In Canada, you're not allowed to drink until you are 20.","Kaynadháyá, dánke tai omr bist sál mabit tará sharáb waragay ejázat nést."
-Most people think computers will never be able to think.,Géshter mardomay hayál esh ent ke kampyutar beh hayál kot nakanant.
 "Now that I'm retired, I can travel as much as I want to.","Ni ke man kárnesht án, man haminchok bolóthán sapar kot kanán."
 The youth assembly proposed new policies for employment.,Warnáyáni asambaliá pa kárdáriá nókén pálisiay saláh dat.
 New guidelines were issued for international passengers.,Pa myánostománi mosáperán nókén sójnámag sheng butant.
@@ -32521,9 +32708,8 @@ He stayed awake all night wondering why the deal went wrong.,Á drostén shapá 
 They're coming to our house. We aren't going to their house.,Á may gesá pédákant. Má áyáni gesá rawagá naén.
 This summer resort is no longer as popular as it used to be.,É garmági sawádi ni á paymá námdár naent ke pésará bitag.
 They're coming to our house. We aren't going to their house.,Á may gesá pédágant. Má áyáni gesá rawagá naén.
-We're looking for some computer-savvy people to work for us.,Má lahté kampyutar zántén mardomay shóházáén ke pa má kár bekanant.
 They're coming to our house. We aren't going to their house.,Á may gesá pédág ant. Má áyáni gesá rawagá naén.
-We're looking for some computer-savvy people to work for us.,Má lahté kampyutar zántén mardomay shóházá én ke pa má kár bekanant.
+We're looking for some computer-savvy people to work for us.,Má lahté kampyuthar zántén mardomay shóházá én ke pa má kár bekanant.
 You should plan to come with us the next time we go camping.,Démay randá ke má kaympengá rawén tará ham shawr bandag lóthit ke gón má byáay gón.
 "Hi. If I'm not mistaken, you're our new teacher, aren't you?","Salám. Agan man rad nayán, taw may nókén ostád ay, genday?"
 Local authorities are helping citizens after the heavy rain.,Trondén hawrá pad halkay hákom mahluká madat kanagá ant.
@@ -32966,7 +33152,6 @@ Mary will reach to Bosnia And Herzegovina today and from there back to Brazil to
 Bulgaria and Cameroon will compete in the second round of the Football World Cup today.,Marchi Myán Ostámi Pothbál Kappay domi ráóndhá Bolgárestán o Kamrunay mayáná mokábalah bit.
 Language and a rich literature are the only way for a nation to survive till centuries.,Zobán o hazgárén labzánk pa rájéá dán sadán sálán mánagay yakkén ráh ent.
 Orangutans have been observed using sticks to pry nutritious seeds from prickly plants.,Gendag bitag ke orangutan cha konthagién sólán porwardenén Thámáni kasshagay wástá latth kármarz kanant.
-Tom can't decide whether to buy a new computer now or wait for a couple of more months.,Thám paysalah kot nakant ke anni nókén kampyutaré bezirán yá dege chizzé máhá wadár bekanán.
 I told Tom the reason I didn't want to do it was that I didn't think it was a good idea.,Man Thámárá hamá sawab gosht gón ke mani hayálá é sharrén káré nayat pameshká man nakot.
 Mary will reach to Bolivia today and from there back to Bosnia And Herzegovina tomorrow.,Maryam marchi Boliwiahá sar bit o bándá ódá che Bósnyá o Harzgwináyá wátar bit.
 I shoot the rabbits in my garden with a squirt gun to keep them away from the vegetables.,Man wati bágá kargoshk ápi watás jatant ke cha sabziáni nazzikká mayá ant.
